@@ -1,0 +1,40 @@
+---
+title: "News"
+---
+
+## <span style="background-color: #d1dce5;">November 2024</span>
+
+### 📌 Environmental and Ecological Statistics Conference 2025
+ 
+EnvEcoStats, the Environmental and Ecological Statistics Conference, will take place in Lancaster from 1–3 July 2025. Co-organized by the University of Glasgow and Lancaster University, it serves as a satellite event to the ISI World Statistics Congress 2025 and is sponsored by TIES and the Environmental Statistics Section of the Royal Statistical Society.  
+
+Building on the success of previous workshops in 2023 and 2024, the conference aims to foster collaboration between environmental and ecological statisticians, support knowledge exchange, and connect academics, data scientists, and NGOs.  
+
+The three-day program will feature 
+
+- Keynote talks
+- Invited talks
+- A panel discussion on "Climate Change and Disaster-related Statistics" 
+- Contributed sessions
+- Poster session with flash presentations
+- Best contributed talk and best poster awards
+
+**Registration and abstract submissions for contributions are now open, along with submissions for invited session proposals**. Please submit your contribution [here](https://envecostats.wordpress.com/). For any questions or further information, please contact us at envecostats@googlegroups.com. 
+
+---
+
+### 📌 Call for Papers: Bridging Heavy Tails & AI - Extremes (Springer)
+Invited special issue of Extremes, focusing on bridging Artificial Intelligence (AI) and Extreme Value Theory (EVT). This issue aims to unite the strengths of both fields to tackle the growing challenges of extreme events.
+
+Extremes, published by Springer, is the world-leading journal on EVT and its applications across diverse fields.
+We welcome submissions on topics such as:
+
+- Interfaces between regularly-varying tails and machine learning
+- Neural architectures for modeling heavy-tailed phenomena
+- Explainability of machine learning models for extremes
+- Generative models for extreme events
+- Online learning methods for extreme events
+
+The submission deadline is **March 30, 2025**. Manuscripts should be submitted  [here](https://link.springer.com/journal/10687/updates).
+
+Guest Editors: Miguel de Carvalho & Jordan Richards

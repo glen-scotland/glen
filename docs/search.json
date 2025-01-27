@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "research-talk.html",
+    "href": "research-talk.html",
+    "title": "Research talks",
+    "section": "",
+    "text": "The second part of each GLE\\(^2\\)N meeting features a research talk, providing an opportunity for a member to showcase ongoing research or explore new ideas through group discussion.\n\n\n\n\n\n\n31/01/25: Radial generalized Pareto distributions for extreme multivariate risk by I. Papastathopoulos (UofE, Tentative)\n\n\n\n\n\nSummary We introduce a novel class of multivariate distributions, termed radial generalized Pareto distributions, which emerge as non-degenerate limits of radially recentered and rescaled exceedances above direction-dependent thresholds. This framework leverages a novel convergence to Poisson point processes for multivariate extremes, providing an overarching stochastic foundation for constructing distributions that exhibit stability properties, enabling extrapolation of risk in any direction within multivariate spaces. Our framework naturally leads to the notion of quantile and return sets which closely parallel related notions of quantile regions that are based on optimal transport approaches, but also leads to isotropic return sets that are exceeded with equal probability along any direction.\nWe develop a fully Bayesian inference framework for these multivariate distributions, utilising latent Gaussian processes. We also construct novel diagnostics for assessing the convergence to the limit distribution and validate our methods through simulations. Our methods are also applied to real-world data from hydrology and oceanography, demonstrating their broad applicability in risk analysis and their potential to inform decision-making in the presence of extreme events.\njoint work with: Lambert De Monte (University of Edinburgh), Ryan Campbell (Lancaster University) and Haavard Rue (KAUST).\n\n\n\n\n\n\n\n\n\n15/11/25: A Kolmogorov–Arnold Neural Model for Cascading Extremes by M. de Carvalho (UofE)\n\n\n\n\n\nSummary In this talk I will address the growing concern of cascading extreme events, such as a tsunami followed by an extreme earthquake, by presenting a novel method for risk assessment focused on these domino effects. The proposed method develops an extreme value theory framework within a Kolmogorov–Arnold Neural Network (KAN) to estimate the probability of one extreme event triggering another, as a function of a covariate or feature vector. Our approach is backed by exhaustive numerical studies and illustrated on a real-life application to seismology.\nJoint work with: C. Ferrer and R. Vallejos.\n\n\n\n\n\n\n\n\n\n18/10/25: A deep learning approach to modelling joint environmental extremes by J. Richards (UofE)\n\n\n\n\n\nSummary he geometric representation for multivariate extremes, where data is split into radial and angular components and the radial component is modelled conditionally on the angle, provides an exciting new approach to modelling environmental data. Through a consideration of scaled sample clouds and limit sets, it provides a flexible, semi-parametric model for extremes that connects multiple classical extremal dependence measures; these include the coefficients of tail dependence and asymptotic independence, and parameters of the conditional extremes framework. Although the geometric approach is becoming an increasingly popular modelling tool for environmental data, its inference is limited to a low dimensional setting (d ≤ 3).\nWe propose here the first deep representation for geometric extremes. By leveraging the predictive power and computational scalability of neural networks, we construct asymptotically-justified yet flexible semi-parametric models for extremal dependence of high-dimensional data. We showcase the efficacy of our deep approach by modelling the complex extremal dependence between metocean variables sampled from the North Sea.\nJoint work with: Callum JR Murphy-Barltrop and Reetam Majumder"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Daniela Castro-Camilo (UofG)\nJordan Richards (UofE)\nMiguel de Carvalho (UofE)\nIoannis Papastathopoulos (UofE)\n\n\n\n\n\nChenglei Hu (UofG)\nJohnny MyungWon Lee (UofE)"
+  },
+  {
+    "objectID": "people.html#founders",
+    "href": "people.html#founders",
+    "title": "People",
+    "section": "",
+    "text": "Daniela Castro-Camilo (UofG)\nJordan Richards (UofE)\nMiguel de Carvalho (UofE)\nIoannis Papastathopoulos (UofE)"
+  },
+  {
+    "objectID": "people.html#reading-group-organisers-2024-25",
+    "href": "people.html#reading-group-organisers-2024-25",
+    "title": "People",
+    "section": "",
+    "text": "Chenglei Hu (UofG)\nJohnny MyungWon Lee (UofE)"
+  },
+  {
+    "objectID": "people.html#current-contributors",
+    "href": "people.html#current-contributors",
+    "title": "People",
+    "section": "Current contributors",
+    "text": "Current contributors\n\nMengran Li (UofG)\nChenglei Hu (UofG) Johnny MyungWon Lee (UofG)\nLambert de Monte (UofE)\nProf Sergey Foss (HW)\nProf Andrew Cairns (HW)\nDr Seva Shneer (HW)\nDr Daniela Escobar (HW)\nDr Alfred Chong (HW)\nProf George Streftaris (HW)\nDr Giovanni Rabitti (HW)\nProf Catherine Donnelly (HW)\nDr Timothy Johnson (HW)\nProf Victor Elvira (uofE)\nLinlu Zhao"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "EnvEcoStats, the Environmental and Ecological Statistics Conference, will take place in Lancaster from 1–3 July 2025. Co-organized by the University of Glasgow and Lancaster University, it serves as a satellite event to the ISI World Statistics Congress 2025 and is sponsored by TIES and the Environmental Statistics Section of the Royal Statistical Society.\nBuilding on the success of previous workshops in 2023 and 2024, the conference aims to foster collaboration between environmental and ecological statisticians, support knowledge exchange, and connect academics, data scientists, and NGOs.\nThe three-day program will feature\n\nKeynote talks\nInvited talks\nA panel discussion on “Climate Change and Disaster-related Statistics”\nContributed sessions\nPoster session with flash presentations\nBest contributed talk and best poster awards\n\nRegistration and abstract submissions for contributions are now open, along with submissions for invited session proposals. Please submit your contribution here. For any questions or further information, please contact us at envecostats@googlegroups.com.\n\n\n\n\nInvited special issue of Extremes, focusing on bridging Artificial Intelligence (AI) and Extreme Value Theory (EVT). This issue aims to unite the strengths of both fields to tackle the growing challenges of extreme events.\nExtremes, published by Springer, is the world-leading journal on EVT and its applications across diverse fields. We welcome submissions on topics such as:\n\nInterfaces between regularly-varying tails and machine learning\nNeural architectures for modeling heavy-tailed phenomena\nExplainability of machine learning models for extremes\nGenerative models for extreme events\nOnline learning methods for extreme events\n\nThe submission deadline is March 30, 2025. Manuscripts should be submitted here.\nGuest Editors: Miguel de Carvalho & Jordan Richards"
+  },
+  {
+    "objectID": "news.html#november-2024",
+    "href": "news.html#november-2024",
+    "title": "News",
+    "section": "",
+    "text": "EnvEcoStats, the Environmental and Ecological Statistics Conference, will take place in Lancaster from 1–3 July 2025. Co-organized by the University of Glasgow and Lancaster University, it serves as a satellite event to the ISI World Statistics Congress 2025 and is sponsored by TIES and the Environmental Statistics Section of the Royal Statistical Society.\nBuilding on the success of previous workshops in 2023 and 2024, the conference aims to foster collaboration between environmental and ecological statisticians, support knowledge exchange, and connect academics, data scientists, and NGOs.\nThe three-day program will feature\n\nKeynote talks\nInvited talks\nA panel discussion on “Climate Change and Disaster-related Statistics”\nContributed sessions\nPoster session with flash presentations\nBest contributed talk and best poster awards\n\nRegistration and abstract submissions for contributions are now open, along with submissions for invited session proposals. Please submit your contribution here. For any questions or further information, please contact us at envecostats@googlegroups.com.\n\n\n\n\nInvited special issue of Extremes, focusing on bridging Artificial Intelligence (AI) and Extreme Value Theory (EVT). This issue aims to unite the strengths of both fields to tackle the growing challenges of extreme events.\nExtremes, published by Springer, is the world-leading journal on EVT and its applications across diverse fields. We welcome submissions on topics such as:\n\nInterfaces between regularly-varying tails and machine learning\nNeural architectures for modeling heavy-tailed phenomena\nExplainability of machine learning models for extremes\nGenerative models for extreme events\nOnline learning methods for extreme events\n\nThe submission deadline is March 30, 2025. Manuscripts should be submitted here.\nGuest Editors: Miguel de Carvalho & Jordan Richards"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GLE\\(^2\\)N",
+    "section": "",
+    "text": "Friday 31st of January 2025, 13:00-15:00 (tentative)\n\n\nUse this URL to have GLEN events automatically displayed in your calendar application.\n\n\n\n\nSubscribe to our Google Group to be up-to-date with GLE\\(^2\\)N activities.\nWelcome to GLE\\(^2\\)N, a Scotland-based collaboration involving the School of Mathematics & Statistics at the University of Glasgow (UofG), the School of Mathematics at the University of Edinburgh (UofE), and the School of Mathematical & Computer Sciences at Heriot-Watt University (HW).\nGLE\\(^2\\)N brings together early-career and established researchers from UofG, UofE, and HW to exchange ideas and explore applied, theoretical, and methodological advancements in statistical risk analysis and extreme value theory (EVT)."
+  },
+  {
+    "objectID": "index.html#next-meeting",
+    "href": "index.html#next-meeting",
+    "title": "GLE\\(^2\\)N",
+    "section": "",
+    "text": "Friday 31st of January 2025, 13:00-15:00 (tentative)\n\n\nUse this URL to have GLEN events automatically displayed in your calendar application."
+  },
+  {
+    "objectID": "index.html#google-group",
+    "href": "index.html#google-group",
+    "title": "GLE\\(^2\\)N",
+    "section": "",
+    "text": "Subscribe to our Google Group to be up-to-date with GLE\\(^2\\)N activities."
+  },
+  {
+    "objectID": "reading-group.html",
+    "href": "reading-group.html",
+    "title": "Reading group",
+    "section": "",
+    "text": "Each GLE\\(^2\\)N meeting begins with a discussion of a recent piece of relevant literature. A lead discussant typically prepares slides summarising the article, which serve as the basis for the group discussion. To facilitate ongoing dialogue, the lead discussant also compiles a mock review document highlighting the key discussion points. The article, slides, and mock review document are provided below. All discussions take place online via Zoom."
+  },
+  {
+    "objectID": "reading-group.html#reading-list",
+    "href": "reading-group.html#reading-list",
+    "title": "Reading group",
+    "section": "Reading list",
+    "text": "Reading list\n\n\n\n\n\n\n\n\n\n\n\n\nDate and time\nArticle\nDiscussant\nSlides\nMock reviews\n\n\n\n\n1/01/25\n13:00-14:00\nTentative\nHuser, R. & Wadsworth, J. (2019). Modeling Spatial Processes with Unknown Extremal\nDependence Class, Journal of the American Statistical Association, 114(525), 434–444.\nChenglei Hu\nslides3\nmockrev3\n\n\n15/11/24\n13:00-14:00\n\nLi, R., Leng, C., & You, J. (2020). Semiparametric Tail Index Regression. Journal of Business\n&Economic Statistics, 40(1), 82–95.\nJohnny Lee\nslides2\nmockrev2\n\n\n18/10/24\n13:00-14:00\n\nOlafsdottir, H. K., Rootzén, H., & Bolin, D. (2021). Extreme rainfall events in the\nNortheastern United States become more frequent with rising temperatures, but their\nintensity distribution remains stable. Journal of Climate, 34(22), 8863-8877.\nDaniela Castro-Camilo\nslides1\nmockrev1"
+  }
+]

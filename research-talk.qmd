@@ -1,0 +1,52 @@
+---
+title: "Research talks"
+---
+```{r setup, include=FALSE}
+library(knitr)
+library(kableExtra)
+library(dplyr)
+knitr::opts_chunk$set(
+  message = FALSE, 
+  warning = FALSE,
+  fig.align = "center",
+  cache = F
+)
+
+```
+
+The second part of each GLE$^2$N meeting features a research talk, providing an opportunity for a member to showcase ongoing research or explore new ideas through group discussion.
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# 31/01/25: Radial generalized Pareto distributions for extreme multivariate risk by I. Papastathopoulos (UofE, <strong><span style="color:red;">Tentative</span></strong>)
+
+**Summary**
+We introduce a novel class of multivariate distributions, termed radial generalized Pareto distributions, which emerge as non-degenerate limits of radially recentered and rescaled exceedances above direction-dependent thresholds. This framework leverages a novel convergence to Poisson point processes for multivariate extremes, providing an overarching stochastic foundation for constructing distributions that exhibit stability properties, enabling extrapolation of risk in any direction within multivariate spaces. Our framework naturally leads to the notion of quantile and return sets which closely parallel related notions of quantile regions that are based on optimal transport approaches, but also leads to isotropic return sets that are exceeded with equal probability along any direction.
+
+We develop a fully Bayesian inference framework for these multivariate distributions, utilising latent Gaussian processes. We also construct novel diagnostics for assessing the convergence to the limit distribution and validate our methods through simulations. Our methods are also applied to real-world data from hydrology and oceanography, demonstrating their broad applicability in risk analysis and their potential to inform decision-making in the presence of extreme events.
+
+ 
+**joint work with:** Lambert De Monte (University of Edinburgh), Ryan Campbell (Lancaster University) and Haavard Rue (KAUST). 
+
+
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# 15/11/25: A Kolmogorov–Arnold Neural Model for Cascading Extremes by M. de Carvalho (UofE)
+
+**Summary**
+In this talk I will address the growing concern of cascading extreme events, such as a tsunami followed by an extreme earthquake, by presenting a novel method for risk assessment focused on these domino effects. The proposed method develops an extreme value theory framework within a Kolmogorov–Arnold Neural Network (KAN) to estimate the probability of one extreme event triggering another, as a function of a covariate or feature vector. Our approach is backed by exhaustive numerical studies and illustrated on a real-life application to seismology.
+ 
+**Joint work with:** C. Ferrer and R. Vallejos.
+
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# 18/10/25: A deep learning approach to modelling joint environmental extremes by J. Richards (UofE)
+
+**Summary**
+he geometric representation for multivariate extremes, where data is split into radial and angular components and the radial component is modelled conditionally on the angle, provides an exciting new approach to modelling environmental data. Through a consideration of scaled sample clouds and limit sets, it provides a flexible, semi-parametric model for extremes that connects multiple classical extremal dependence measures; these include the coefficients of tail dependence and asymptotic independence, and parameters of the conditional extremes framework. Although the geometric approach is becoming an increasingly popular modelling tool for environmental data, its inference is limited to a low dimensional setting (d ≤ 3). 
+ 
+We propose here the first deep representation for geometric extremes. By leveraging the predictive power and computational scalability of neural networks, we construct asymptotically-justified yet flexible semi-parametric models for extremal dependence of high-dimensional data. We showcase the efficacy of our deep approach by modelling the complex extremal dependence between metocean variables sampled from the North Sea.
+ 
+**Joint work with:** Callum JR Murphy-Barltrop and Reetam Majumder
+:::

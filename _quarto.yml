@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "GLE$^2$N"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - reading-group.qmd
+      - research-talk.qmd
+      - people.qmd
+      - news.qmd
+  page-footer:
+    left: "&copy; Copyright 2025, DCC"
+format:
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 200px
+    theme: flatly # cosmo, flatly, yeti, sandstone
+    smooth-scroll: true
+    toc: false
+    link-external-icon: true
+    link-external-newwindow: true
+
+editor: source
+
