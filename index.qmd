@@ -17,7 +17,7 @@ library(knitr)
 
 ## Next meeting
 
-Friday 31st of January 2025, 13:00-15:00 (tentative)
+Friday 14th of February 2025, 13:00-15:00
 
 ### Google Calendar
 

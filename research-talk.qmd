@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 The second part of each GLE$^2$N meeting features a research talk, providing an opportunity for a member to showcase ongoing research or explore new ideas through group discussion.
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# 31/01/25: Radial generalized Pareto distributions for extreme multivariate risk by I. Papastathopoulos (UofE, <strong><span style="color:red;">Tentative</span></strong>)
+# 14/02/25: Radial generalized Pareto distributions for extreme multivariate risk by I. Papastathopoulos (UofE)
 
 **Summary**
 We introduce a novel class of multivariate distributions, termed radial generalized Pareto distributions, which emerge as non-degenerate limits of radially recentered and rescaled exceedances above direction-dependent thresholds. This framework leverages a novel convergence to Poisson point processes for multivariate extremes, providing an overarching stochastic foundation for constructing distributions that exhibit stability properties, enabling extrapolation of risk in any direction within multivariate spaces. Our framework naturally leads to the notion of quantile and return sets which closely parallel related notions of quantile regions that are based on optimal transport approaches, but also leads to isotropic return sets that are exceeded with equal probability along any direction.
