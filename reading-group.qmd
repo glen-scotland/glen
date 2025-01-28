@@ -28,7 +28,7 @@ Each GLE$^2$N meeting begins with a discussion of a recent piece of relevant lit
 
 ## Reading list
 ```{r, echo = F, eval=T}
-time = c('1/01/25<br>13:00-14:00<br><strong><span style="color:red;">Tentative</span></strong>',
+time = c('14/02/25<br>13:00-14:00',
          '15/11/24<br>13:00-14:00<br>',
          '18/10/24<br>13:00-14:00<br>')
 
