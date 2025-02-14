@@ -27,6 +27,7 @@ Modelling non-stationarities in extreme hourly precipitation
 Understanding spatiotemporal features of extremal precipitation is an essential component of hydrological risk management, for example in flood risk assessment. This study investigates and compares the performance of recently proposed multivariate extreme value models in describing such features, while allowing for spatial variation, temporal non-stationarity and different extremal dependence regimes.
 We analyse data on hourly precipitation recorded at 65 sites in the period 1990–2023 across the Piave river basin in Northeastern Italy. Empirical evidence suggests that both the extremal dependence structures and the marginal behaviours of precipitation events vary throughout the year, reflecting seasonal patterns. Furthermore spatial dependence appears to weaken as precipitation events become more extreme. We investigate possible exogenous factors by introducing climatic variables as predictors for the marginal distributions, the spatial dependence and the interplay between them. We observe that capturing these features is essential to provide a realistic description of extreme precipitation processes in order to better estimate the risks associated with them. 
 
+More information [here](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics).
 
 ## <span style="background-color: #d1dce5;">November 2024</span>
 
