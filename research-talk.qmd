@@ -16,8 +16,25 @@ knitr::opts_chunk$set(
 
 The second part of each GLE$^2$N meeting features a research talk, providing an opportunity for a member to showcase ongoing research or explore new ideas through group discussion.
 
+
+
+## Talks 🗣️
+
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# 14/02/25: Radial generalized Pareto distributions for extreme multivariate risk by I. Papastathopoulos (UofE)
+# <span style="color: rgb(25,188,156)">21/03/25</span> Data fusion and extremes: a match made in Bayesian heaven by D. Castro-Camilo (UofG)
+
+**Summary**
+Data fusion models are increasingly used to combine in situ and remote-sensing data, providing a more complete and temporally detailed picture of environmental conditions. However, traditional Gaussian-based models tend to underestimate extreme pollution events, which can lead to inaccurate risk assessments. To tackle this, we introduce a Bayesian hierarchical framework for data fusion grounded in extreme value theory. Our approach employs the Dirac-delta generalised Pareto distribution, allowing us to model both threshold and non-threshold exceedances while maintaining the temporal structure of extreme events. We apply this model to predict and describe censored threshold exceedances of PM2.5 pollution across Greater London, using remote sensing data from the EAC4 dataset (part of the Copernicus Atmospheric Monitoring Service) alongside in situ measurements from the UK's Automatic Urban and Rural Network (AURN). Key contributions of our approach lie in our model's ability to (1) preserve the temporal structure of both extreme and non-extreme events, (2) seamlessly integrate data with varying spatio-temporal resolutions while fully accounting for parameter uncertainties, and (3) generate a complete spatio-temporal dataset that calibrates remote-sensing observations to accurately capture local threshold exceedances, guided by in situ measurements. Our results demonstrate that the new approach outperforms both Gaussian-based models and standalone remote-sensing data, providing more accurate predictions of threshold exceedances. In fact, it reveals finer spatial patterns of PM2.5 pollution, such as higher concentrations near coastal areas, which were not captured by remote sensing data alone.
+
+ 
+**Joint work with:** M. Daniela Cuba (Agricarbon, UofG), Craig Wilkie (UofG) and Marian Scott (UofG). 
+
+
+:::
+
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">14/02/25</span> Radial generalized Pareto distributions for extreme multivariate risk by I. Papastathopoulos (UofE)
 
 **Summary**
 We introduce a novel class of multivariate distributions, termed radial generalized Pareto distributions, which emerge as non-degenerate limits of radially recentered and rescaled exceedances above direction-dependent thresholds. This framework leverages a novel convergence to Poisson point processes for multivariate extremes, providing an overarching stochastic foundation for constructing distributions that exhibit stability properties, enabling extrapolation of risk in any direction within multivariate spaces. Our framework naturally leads to the notion of quantile and return sets which closely parallel related notions of quantile regions that are based on optimal transport approaches, but also leads to isotropic return sets that are exceeded with equal probability along any direction.
@@ -25,23 +42,24 @@ We introduce a novel class of multivariate distributions, termed radial generali
 We develop a fully Bayesian inference framework for these multivariate distributions, utilising latent Gaussian processes. We also construct novel diagnostics for assessing the convergence to the limit distribution and validate our methods through simulations. Our methods are also applied to real-world data from hydrology and oceanography, demonstrating their broad applicability in risk analysis and their potential to inform decision-making in the presence of extreme events.
 
  
-**joint work with:** Lambert De Monte (University of Edinburgh), Ryan Campbell (Lancaster University) and Haavard Rue (KAUST). 
+**Joint work with:** Lambert De Monte (University of Edinburgh), Ryan Campbell (Lancaster University) and Haavard Rue (KAUST). 
 
 
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# 15/11/25: A Kolmogorov–Arnold Neural Model for Cascading Extremes by M. de Carvalho (UofE)
+# <span style="color: rgb(25,188,156)">15/11/25</span>  A Kolmogorov–Arnold Neural Model for Cascading Extremes by M. de Carvalho (UofE)
 
 **Summary**
 In this talk I will address the growing concern of cascading extreme events, such as a tsunami followed by an extreme earthquake, by presenting a novel method for risk assessment focused on these domino effects. The proposed method develops an extreme value theory framework within a Kolmogorov–Arnold Neural Network (KAN) to estimate the probability of one extreme event triggering another, as a function of a covariate or feature vector. Our approach is backed by exhaustive numerical studies and illustrated on a real-life application to seismology.
  
 **Joint work with:** C. Ferrer and R. Vallejos.
 
+**Slides:** [click here](https://drive.google.com/file/d/1LJpaUfIW2VKoZSTcaeCRYJ9n9bsdZeEg/view?usp=sharing)
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# 18/10/25: A deep learning approach to modelling joint environmental extremes by J. Richards (UofE)
+# <span style="color: rgb(25,188,156)">18/10/24</span> A deep learning approach to modelling joint environmental extremes by J. Richards (UofE)
 
 **Summary**
 he geometric representation for multivariate extremes, where data is split into radial and angular components and the radial component is modelled conditionally on the angle, provides an exciting new approach to modelling environmental data. Through a consideration of scaled sample clouds and limit sets, it provides a flexible, semi-parametric model for extremes that connects multiple classical extremal dependence measures; these include the coefficients of tail dependence and asymptotic independence, and parameters of the conditional extremes framework. Although the geometric approach is becoming an increasingly popular modelling tool for environmental data, its inference is limited to a low dimensional setting (d ≤ 3). 
@@ -49,4 +67,6 @@ he geometric representation for multivariate extremes, where data is split into 
 We propose here the first deep representation for geometric extremes. By leveraging the predictive power and computational scalability of neural networks, we construct asymptotically-justified yet flexible semi-parametric models for extremal dependence of high-dimensional data. We showcase the efficacy of our deep approach by modelling the complex extremal dependence between metocean variables sampled from the North Sea.
  
 **Joint work with:** Callum JR Murphy-Barltrop and Reetam Majumder
+
+**Slides:** [click here](https://drive.google.com/file/d/1ssAh5rKhkt2KG2Wb0cwr2LU_q8GSSHVX/view?usp=sharing)
 :::

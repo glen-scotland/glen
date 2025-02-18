@@ -11,6 +11,8 @@ website:
       - reading-group.qmd
       - research-talk.qmd
       - people.qmd
+      - href: related-events.qmd
+        text: Related Events
       - news.qmd
   page-footer:
     left: "&copy; Copyright 2025, DCC"
