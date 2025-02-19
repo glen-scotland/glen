@@ -4,12 +4,14 @@ title: "Related events"
 
 ## <span style="background-color: #d1dce5;">September 2025</span>
 
-### 📌 RSS sessions on extremes!
+### 📌 RSS session on extremes!
 
-We’re excited to announce that the RSS Conference 2025 will feature two invited sessions on extreme value theory. The conference will be held at the Edinburgh International Conference Centre from 1–4 September. Find more details [here](https://rss.org.uk/training-events/conference-2025/). See below for information on the two organised sessions.
+We’re excited to announce that the RSS Conference 2025 will feature an invited session involving extreme value theory. The conference will be held at the Edinburgh International Conference Centre from 1–4 September. Find more details [here](https://rss.org.uk/training-events/conference-2025/). See below for information on the sessions.
+
+<!-- We’re excited to announce that the RSS Conference 2025 will feature two invited sessions on extreme value theory. The conference will be held at the Edinburgh International Conference Centre from 1–4 September. Find more details [here](https://rss.org.uk/training-events/conference-2025/). See below for information on the two organised sessions. -->
 
 
-### 📊 Advancing Statistical Frontiers: Extreme Value Theory, Machine Learning, and Point Processes
+#### 📊 Advancing Statistical Frontiers: Extreme Value Theory, Machine Learning, and Point Processes
 
 **Day and time (tentative)**: Tuesday 2nd September 2025, 15:00 - 16:20
 
@@ -26,9 +28,6 @@ This session is designed for statisticians, data scientists, and researchers int
 - **Julia Walchessen** (department of Statistics & Data Science, Carnegie Mellon University). ***Neural Conditional Simulation for Complex Spatial Processes***
 
 
-
-
-### 📊 RSS session on Advancing Statistical frontiers: extreme value theory, machine learning, and point processes
 
 ## <span style="background-color: #d1dce5;">February 2025</span>
 
