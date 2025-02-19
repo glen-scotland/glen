@@ -27,6 +27,7 @@ This session is designed for statisticians, data scientists, and researchers int
 - **Brian Reich** (department of Statistics, North Carolina State University). ***Spatial confounding and preferential sampling***
 - **Julia Walchessen** (department of Statistics & Data Science, Carnegie Mellon University). ***Neural Conditional Simulation for Complex Spatial Processes***
 
+**Organisers**: Daniela Castro-Camilo, Amanda Lenzi and Jorge Mateu.
 
 
 ## <span style="background-color: #d1dce5;">February 2025</span>
