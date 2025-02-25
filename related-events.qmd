@@ -6,9 +6,9 @@ title: "Related events"
 
 ### 📌 RSS session on extremes!
 
-We’re excited to announce that the RSS Conference 2025 will feature an invited session involving extreme value theory. The conference will be held at the Edinburgh International Conference Centre from 1–4 September. Find more details [here](https://rss.org.uk/training-events/conference-2025/). See below for information on the sessions.
+<!-- We’re excited to announce that the RSS Conference 2025 will feature an invited session involving extreme value theory. The conference will be held at the Edinburgh International Conference Centre from 1–4 September. Find more details [here](https://rss.org.uk/training-events/conference-2025/). See below for information on the sessions. -->
 
-<!-- We’re excited to announce that the RSS Conference 2025 will feature two invited sessions on extreme value theory. The conference will be held at the Edinburgh International Conference Centre from 1–4 September. Find more details [here](https://rss.org.uk/training-events/conference-2025/). See below for information on the two organised sessions. -->
+We’re excited to announce that the RSS Conference 2025 will feature two invited sessions on extreme value theory. The conference will be held at the Edinburgh International Conference Centre from 1–4 September. Find more details [here](https://rss.org.uk/training-events/conference-2025/). See below for information on the two organised sessions.
 
 
 #### 📊 Advancing Statistical Frontiers: Extreme Value Theory, Machine Learning, and Point Processes
@@ -29,6 +29,26 @@ This session is designed for statisticians, data scientists, and researchers int
 
 **Organisers**: Daniela Castro-Camilo, Amanda Lenzi and Jorge Mateu.
 
+
+#### 📊 Practical methodologies for multivariate extremes
+
+**Day and time (tentative)**: Thursday 4th September, 11.30am – 12.50pm
+
+**Summary**
+We would like to propose a session at RSS 2025 on emerging methodologies for multivariate extreme value analysis, in particular methodologies based on angular-radial representations of data, gauge theory and limit sets. These methodologies offer statistically sound but also intuitively attractive and practically feasible routes to applied extreme value analysis, especially for environmental applications in higher dimensions. In our opinion, a discussion of these developments would provide a worthwhile session at RSS2025. 
+
+We intend to co-ordinate the presentations so that the audience is provided with a reasonable overview of the underpinning methodology and its practical real-world application. All presenters and proponents of the session have published recently on the methodology and/or its applications, including: Nolde and Wadsworth [[2022]](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/linking-representations-for-multivariate-extremes-via-a-limit-set/9A77F8E10602DC13EA26E429CFB5FD21), Huser and Wadsworth [[2022]](https://wires.onlinelibrary.wiley.com/doi/10.1002/wics.1537), Mackay et al. [[2025]](https://asmedigitalcollection.asme.org/offshoremechanics/article-abstract/147/1/011205/1201564/The-SPAR-Model-A-New-Paradigm-for-Multivariate?redirectedFrom=fulltext), Murphy-Barltrop et al.[[2024]](https://link.springer.com/article/10.1007/s10687-024-00492-2), Richards and Huser [[2024]](https://arxiv.org/abs/2208.07581), Simpson and Tawn [[2024]](https://link.springer.com/article/10.1007/s13253-024-00612-2) and Wadsworth
+and Campbell [[2024]](https://watermark.silverchair.com/qkae030.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2UwggNhBgkqhkiG9w0BBwagggNSMIIDTgIBADCCA0cGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMEsZtlRy3OPoT1pcNAgEQgIIDGLtL0XyrZNmOe1wZNIPOtMuwX5BxYonBWvYgqAthocg4qs0OEaYvIu9P7GijjQQpT6A03xLZ2JXFiwhIIeUY-wvVWdV8BYlQEKfZrNuPFK7_EoxxzAYa-MtCNYEoEVbKp0_zXsOjmXygj7atVo7jIDqX1GqQHgzk7F-sMjf41xBAgonh0hcxv5CVqWP9p_eaaAy4K-ZtZ95MqLzO3NGy7EQ4iigXwEHtpeWVoej04dDT7uxCcvTHJBiW1rYF18Rud43cmQNZ8gzcorCUAoVcOo1Lln7jHUWVdzu5RjjHMfwGyJVyz6GMp_t3l1G8jbNSA1DpITVLDFTiK9R-HZejwdfnonJ5231WOVjsw2mTixskAOtLX55Y_AAH9NSUoVAdbgfASnowV6rl_Af-C_SV5p8oCXzY2cHxUwhf8KHJ-9R5Z_HrWJOaeZz5_IsIzm0qZOHfYx1IvkLHdUn3s7n_SHWBzDWM0Xfh0Kbdsv1zRmL_wVO0QfOSBue9eHVlMjC5hZf3qr2a9-feokpThgOzU4obhHJLOSR83dvZYdrunmZZZxDK2HJ18mAKGgM9wrDNIK9bJhI3rGaHuNZe8WMf_OKXsEMGPJTde0Uj7c2LPUq57yeGFgAkIBWQKcwUMNRokqNU4-rqP-lJTH7Hbroa6NdC7Ear1yD2sKuGexvjq4UA8LisGHjpo9WUNoaolJVqR1ZtxNOJOdGp5vgEiXG7nIBBId_ad-Trk5JmDWtM4vtoNkPH_VOqHWRwi7qmXn6994BCUo9xqgc8cgceLBGr2sWSPJ_0T436w13L0lsYdWumUD1gxJdA9DIzYSX3eU9I-VcS4n5IM_CUbjY5YjxFPJlvMamSZhWGO78WsYJwYQpZdlOA4fq4q3CfXclIwn6Wzn2dZS45shdP1jEZdly0_5nvwFdMPwUFnoQVj3M7rypML5l7Kb-3uI_wdo3-wXO3hMT4sSl308Ay8byWUj5a_qy_PXSGAUQWXnN-FzcLVmPA_aL4ViDlrUijW5wa7zwIu3_Du176LPl1kZDtbCd0zoJ6_-irNbj2Lg).
+
+
+**Invited speakers**
+- **Jenny Wadsworth** (School of Mathematical Sciences, Lancaster)
+
+- **Emma Simpson** (Department of Statistical Science, UCL) 
+
+- **Ed Mackay or Jordan Richards** (University of Exeter, University of Edinburgh, UK)
+
+**Organisers**: C. Murphy-Barltrop, E. Mackay, J. Richards and P. Jonathan.
 
 ## <span style="background-color: #d1dce5;">February 2025</span>
 
