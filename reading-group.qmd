@@ -33,7 +33,7 @@ time = c('21/03/25<br>13:00-14:00',
          '15/11/24<br>13:00-14:00<br>',
          '18/10/24<br>13:00-14:00<br>')
 article = c(
-  'Gnecco, N., Merga, E. and Engelke, S. (2024). <a href="https://drive.google.com/file/d/1M2WjpOO0moccyxrLhs-Nq3y9_lkP8rgK/view?usp=sharing" target="_blank">Extremal Random Forests</a>. <em>Journal of the American Statistical Association</em>, 119(548), pp.3059–3072, 82–95.',
+  'Gnecco, N., Merga, E. and Engelke, S. (2024). <a href="https://drive.google.com/file/d/1M2WjpOO0moccyxrLhs-Nq3y9_lkP8rgK/view?usp=sharing" target="_blank">Extremal Random Forests</a>. <em>Journal of the <br>American Statistical Association</em>, 119(548), pp.3059–3072, 82–95.',
   'Huser, R. & Wadsworth, J. (2019). <a href="https://drive.google.com/file/d/1wj2v60i9AZSbmcMRIJ1C59dCxnHyTxlP/view?usp=sharing" target="_blank">Modeling Spatial Processes with Unknown Extremal<br>Dependence Class</a>, <em>Journal of the American Statistical Association</em>, 114(525), 434–444.',
   'Li, R., Leng, C., & You, J. (2020). <a href="https://drive.google.com/file/d/1pnrSgfoF4xaHRdhWDoWHGL7OfRWrgyos/view?usp=sharing" target="_blank">Semiparametric Tail Index Regression</a>. <em>Journal of Business</em><br>&<em>Economic Statistics</em>, 40(1), 82–95.',
   
