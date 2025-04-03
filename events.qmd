@@ -1,19 +1,23 @@
 ---
-title: "Related events"
+title: "Events"
 ---
 
 ## <span style="background-color: #d1dce5;">September 2025</span>
 
-### 📌 RSS session on extremes!
+### 📌 GLEN invited lecture: Professor Brian Reich
 
-<!-- We’re excited to announce that the RSS Conference 2025 will feature an invited session involving extreme value theory. The conference will be held at the Edinburgh International Conference Centre from 1–4 September. Find more details [here](https://rss.org.uk/training-events/conference-2025/). See below for information on the sessions. -->
+Gertrude M. Cox Distinguished Professor [Brian Reich](https://bjreich.wordpress.ncsu.edu/) will deliver an invited lecture at GLEN in September. More details will be available online soon.
+
+---
+
+### 📌 Two RSS sessions on extremes
 
 We’re excited to announce that the RSS Conference 2025 will feature two invited sessions on extreme value theory. The conference will be held at the Edinburgh International Conference Centre from 1–4 September. Find more details [here](https://rss.org.uk/training-events/conference-2025/). See below for information on the two organised sessions.
 
 
-#### 📊 Advancing Statistical Frontiers: Extreme Value Theory, Machine Learning, and Point Processes
+#### 1. Advancing Statistical Frontiers: Extreme Value Theory, Machine Learning, and Point Processes
 
-**Day and time (tentative)**: Tuesday 2nd September 2025, 15:00 - 16:20
+**Day and time**: Tuesday 2nd September 2025, 15:00 - 16:20
 
 **Summary**
 
@@ -30,9 +34,9 @@ This session is designed for statisticians, data scientists, and researchers int
 **Organisers**: Daniela Castro-Camilo, Amanda Lenzi and Jorge Mateu.
 
 
-#### 📊 Practical methodologies for multivariate extremes
+#### 2. Practical methodologies for multivariate extremes
 
-**Day and time (tentative)**: Thursday 4th September, 11.30am – 12.50pm
+**Day and time**: Thursday 4th September, 11.30am – 12.50pm
 
 **Summary**
 We would like to propose a session at RSS 2025 on emerging methodologies for multivariate extreme value analysis, in particular methodologies based on angular-radial representations of data, gauge theory and limit sets. These methodologies offer statistically sound but also intuitively attractive and practically feasible routes to applied extreme value analysis, especially for environmental applications in higher dimensions. In our opinion, a discussion of these developments would provide a worthwhile session at RSS2025. 
@@ -50,6 +54,15 @@ and Campbell [[2024]](https://watermark.silverchair.com/qkae030.pdf?token=AQECAH
 - **Ed Mackay or Jordan Richards** (University of Exeter, University of Edinburgh, UK)
 
 **Organisers**: C. Murphy-Barltrop, E. Mackay, J. Richards and P. Jonathan.
+
+
+## <span style="background-color: #d1dce5;">June 2025</span>
+
+
+### 📌 Workshop: Generative AI Modeling for Extreme Events
+
+GLEN is organising a Workshop on **Generative AI Modeling for Extreme Events**, to be held during the week of the 9$^\text{th}$ of June. Further details will be available online soon.
+
 
 ## <span style="background-color: #d1dce5;">February 2025</span>
 
