@@ -38,6 +38,12 @@ GLE$^2$N brings together early-career and established researchers from UofG, Uof
 - To promote knowledge sharing within the community.  
 - To support early-career researchers through networking and collaboration opportunities.  
 
+Activities of GLEN are funded by a variety of stakeholders, including Prob_AI and GAIL (Generative AI Lab—University of Edinburgh) 
+
+:::{.text-center}
+![](img/prob_AI.svg){width=30%}
+:::
+
 ---
 
 ### Meetings
@@ -58,7 +64,7 @@ Many Scottish place names, such as Glen Coe in the northern part of Argyll, trac
 
 <img  src="img/three-sisters.JPG" title="Three sisters of Glencoe, photo taken by DCC" width="100%">
 
-# Contact
+### Contact
 
 For any inquiries, please contact 
 
