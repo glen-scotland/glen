@@ -4,11 +4,11 @@ title: "Events"
 
 ## <span style="background-color: #d1dce5;">September 2025</span>
 
-### 📌 GLEN invited lecture: Professor Brian Reich
+### 📌 GLE$^2$N invited lecture: Professor Brian Reich
 
 Gertrude M. Cox Distinguished Professor [Brian Reich](https://bjreich.wordpress.ncsu.edu/) will deliver an invited lecture at GLEN in September. More details will be available online soon.
 
----
+
 
 ### 📌 Two RSS sessions on extremes
 
@@ -61,7 +61,49 @@ and Campbell [[2024]](https://watermark.silverchair.com/qkae030.pdf?token=AQECAH
 
 ### 📌 Workshop: Generative AI Modeling for Extreme Events
 
-GLEN is organising a Workshop on **Generative AI Modeling for Extreme Events**, to be held during the week of the 9$^\text{th}$ of June. Further details will be available online soon.
+GLE$^2$N is organising a Workshop on **Generative AI Modeling for Extreme Events**, to be held during the week of the 9$^\text{th}$ of June. Further details will be available online soon.
+
+
+## <span style="background-color: #d1dce5;">May 2025</span>
+
+### 📌 GLE$^2$N at the INLA: past, present, and future workshop
+
+GLE$^2$N member Chenglei Hu will be presenting a poster at the upcoming workshop [INLA: past, present, and future](https://inla-workshop.github.io/INLA-PastPresentFuture/). For scheduling information, please visit the workshop website—and read on for details about Chenglei’s presentation.
+
+**Title**: From XGBoost to INLA: a two-stage spatio-temporal modeling of wildfire in Portugal via the extended generalised Pareto distribution
+
+**Abstract**:
+
+Wildfires pose a major threat to Portugal, with an average of over 90,000 hectares burned annually in recent decades. Beyond high wildfire frequency, the country has experienced devastating mega-fires, such as those in 2017. Accurate forecasting of wildfire occurrence and burned areas is therefore essential for effective firefighting resource allocation and emergency preparedness. In this study, we introduce a novel two-stage ensemble model that combines XGBoost and a spatial-temporal latent Gaussian model to jointly estimate the wildfire occurrence and burn area. Initially, XGBoost identifies wildfire patterns based on meteorological covariates, coordinates, and time indicators, and its predictions are subsequently enhanced by a spatial-temporal latent Gaussian model. Our results demonstrate that this ensemble approach outperforms either method individually. To effectively model both moderate and extreme wildfire events, we employ the extended Generalized Pareto distribution (eGPD), which features a gamma-like lower bound and a Pareto-like tail. The Gradient descent algorithm is used to estimate the XGBoost and Bayesian inference is conducted for the latent Gaussian model using Integrated Nested Laplace Approximation (INLA). Additionally, we contribute to the INLA community by implementing eGPD as a likelihood function in the R-INLA package and discussing its penalized Complexity priors (PC-priors).
+
+
+## <span style="background-color: #d1dce5;">April 2025</span>
+
+### 📌 GLE$^2$N-sponsored UofE Stats seminar: Ed Mackay (University of Exeter)
+
+**Day and time**: Tuesday 8th April 2025, 15:00-16:00
+
+
+**Location**: JCMB 5328 and online via [Zoom](https://ed-ac-uk.zoom.us/j/83049104036) (Meeting ID: 830 4910 4036 - Passcode: xZHq6w8t)
+
+**Title**: Teaching an old dog new tricks: Extending univariate extreme value theory to multivariate problems
+
+**Abstract** 
+
+Various problems in civil engineering, risk assessment, and finance require estimates of the probabilities of various combinations of rare events. Whilst the theory of univariate extreme value statistics is relatively mature, there are still significant gaps in the theory of multivariate extremes. Many of the existing models are limited in terms of the types of joint distributions they can represent. Some models are only applicable in the region where all variables are large, whereas other methods are based on strong assumptions about the strength of dependence in the joint tails. This talk will show how univariate extreme value theory can be extended in two different ways to model multivariate extremes. In the first approach, known as the SPAR method [1-4], variables are transformed to angular and radial coordinates. After this transformation, the problem of modelling multivariate extremes is transformed to one of modelling an angular density and the tail of the radial variable, conditional on angle. We show that many existing approaches are special cases of this model, but that the SPAR framework provides greater flexibility than available with existing approaches. The second approach, known as Direct-IFORM [5], can be used to estimate half-space depth contours at extreme levels, which are routinely used for risk analysis in offshore engineering. The method has the advantage that it can be applied in any number of dimensions without loss without degradation in performance, lifting the so-called ‘curse of dimensionality’. Both methods make use of the univariate peaks-over-threshold method, giving a rigorous and asymptotically justified means for extrapolating outside the range of observations. In this talk we will give a brief introduction to theory and inference, as well as examples of their application to real-world datasets.
+
+References:
+
+1. E. Mackay and P. Jonathan, “Modelling multivariate extremes through angular-radial decomposition of the density function,” https://arxiv.org/abs/2310.12711
+
+2. C. Murphy-Barltrop, E. Mackay, and P. Jonathan, “Inference for bivariate extremes via a semi-parametric angular-radial model,” Extremes, pp. 1–30, 2024.
+
+3. E. Mackay, C. Murphy-Barltrop, P. Jonathan, “The SPAR model: A new paradigm for multivariate extremes. Application to joint distributions of metocean variables,” J. Offshore Mechanics and Arctic Engineering, vol. 147, p. 011205, 2025.
+
+4. E. Mackay, C. Murphy-Barltrop, J. Richards, P. Jonathan, “Deep learning joint extremes of metocean variables using the SPAR model” https://arxiv.org/abs/2412.15808
+
+5. E. Mackay, G. de Hauteclocque, “Model-free environmental contours in higher dimensions,” Ocean Engineering, vol. 273, p. 113959, 2023.
+
 
 
 ## <span style="background-color: #d1dce5;">February 2025</span>
@@ -93,7 +135,7 @@ The UofE Stats seminar taking place the last week of February is a joint venture
 
 **Day and time**: Monday 24th February 15:00
 
-**Location**: JCMB 5323 and Zoom or via [Zoom](https://ed-ac-uk.zoom.us/j/83049104036) (Meeting ID: 830 4910 4036 -- Passcode: xZHq6w8t)
+**Location**: JCMB 5323 and online via [Zoom](https://ed-ac-uk.zoom.us/j/83049104036) (Meeting ID: 830 4910 4036 -- Passcode: xZHq6w8t)
 
 **Title**: 
 Modelling non-stationarities in extreme hourly precipitation
