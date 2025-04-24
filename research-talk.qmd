@@ -19,6 +19,17 @@ The second part of each GLE$^2$N meeting features a research talk, providing an 
 
 
 ## Talks 🗣️
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">21/03/25</span>  GPDFlow: Generative Multivariate Threshold Exceedance Modeling via Normalizing Flows by C. Hu (UofG)
+
+**Summary**
+The multivariate generalized Pareto distribution (mGPD) is a common method for modelling extreme threshold exceedance probabilities in environmental and financial risk management. Despite its broad applicability, mGPD faces challenges due to the infinite possible parametrizations of its dependence function, with only a few parametric models available in practice. To address this limitation, we introduce GPDFlow, an innovative mGPD model that leverages normalizing flows to flexibly represent the dependence structure. Unlike traditional parametric mGPD approaches, GPDFlow does not impose explicit parametric assumptions on dependence, resulting in greater flexibility and enhanced performance. Additionally, GPDFlow allows direct inference of marginal parameters, providing insights into marginal tail behaviour. We derive tail dependence coefficients for GPDFlow, including a bivariate formulation, a d-dimensional extension, and an alternative measure for partial exceedance dependence. A general relationship between the bivariate tail dependence coefficient and the generative samples from normalizing flows is discussed. Through simulations and a practical application analyzing the risk among five major US banks, we demonstrate that GPDFlow significantly improves modelling accuracy and flexibility compared to traditional parametric methods.
+
+ 
+**Joint work with:** Daniela Castro-Camilo (UofG). 
+
+
+:::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
 # <span style="color: rgb(25,188,156)">21/03/25</span> Data fusion and extremes: a match made in Bayesian heaven by D. Castro-Camilo (UofG)

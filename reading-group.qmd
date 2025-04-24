@@ -28,30 +28,38 @@ Each GLE$^2$N meeting begins with a discussion of a recent piece of relevant lit
 
 ## Reading list 📝
 ```{r, echo = F, eval=T}
-time = c('21/03/25<br>13:00-14:00',
+time = c('09/05/25<br>13:00-14:00',
+         '21/03/25<br>13:00-14:00',
          '14/02/25<br>13:00-14:00',
          '15/11/24<br>13:00-14:00<br>',
          '18/10/24<br>13:00-14:00<br>')
 article = c(
+  'Simpson, E.S., Opitz, T. and Wadsworth, J. (2023). <a href="https://drive.google.com/file/d/1WKfGOUn_z4rWUqUfBIsI5jtakE27QafR/view?usp=sharing" target="_blank">High-dimensional modeling of spatial <br>and spatio-temporal conditional extremes using INLA and Gaussian Markov random fields</a>, <br><em>Extremes</em>, 26, 669–713.',
   'Gnecco, N., Merga, E. and Engelke, S. (2024). <a href="https://drive.google.com/file/d/1M2WjpOO0moccyxrLhs-Nq3y9_lkP8rgK/view?usp=sharing" target="_blank">Extremal Random Forests</a>. <em>Journal of the <br>American Statistical Association</em>, 119(548), pp.3059–3072, 82–95.',
   'Huser, R. & Wadsworth, J. (2019). <a href="https://drive.google.com/file/d/1wj2v60i9AZSbmcMRIJ1C59dCxnHyTxlP/view?usp=sharing" target="_blank">Modeling Spatial Processes with Unknown Extremal<br>Dependence Class</a>, <em>Journal of the American Statistical Association</em>, 114(525), 434–444.',
   'Li, R., Leng, C., & You, J. (2020). <a href="https://drive.google.com/file/d/1pnrSgfoF4xaHRdhWDoWHGL7OfRWrgyos/view?usp=sharing" target="_blank">Semiparametric Tail Index Regression</a>. <em>Journal of Business</em><br>&<em>Economic Statistics</em>, 40(1), 82–95.',
-  
   'Olafsdottir, H. K., Rootzén, H., & Bolin, D. (2021). <a href="https://drive.google.com/file/d/1SDMxewRKqTujifQkXDTLoerxDuoVDrPI/view?usp=sharing" target="_blank">Extreme rainfall events in the<br>Northeastern United States become more frequent with rising temperatures, but their<br>intensity distribution remains stable</a>. <em>Journal of Climate</em>, 34(22), 8863-8877.')
 
-discussant = c('Lambert de Monte',
+discussant = c('Jordan Richards',
+               'Lambert de Monte',
                'Chenglei Hu',
                'Johnny Lee',
                'Daniela Castro-Camilo')
 
-slides = c('slides4',
+slides = c('slides5',
+           
+           'slides4',
+           
            '<a href="https://drive.google.com/file/d/1qfLUutAMtiIglgiiLFpF1vdIhyiXdf2_/view?usp=drive_link" target="_blank">slides3</a>',
            
            '<a href="https://drive.google.com/file/d/1ziUE0SIHDDKG7yPHvJHgDI385KFOZMrW/view?usp=sharing" target="_blank">slides2</a>',
            
            '<a href="https://drive.google.com/file/d/1ilwjBS_KVJZxWJaiSYAFYU4_jJovFDEA/view?usp=sharing" target="_blank">slides1</a>')
 
-mocks = c('mockrev4',
+mocks = c('mockrev5',
+          
+          '<a href="https://docs.google.com/document/d/1vvRICkxNVwKOq_GPV5l7Yu6z1W1McJzKPvQdjYP3WUQ/edit?usp=sharing" target="_blank">mockrev4</a>',
+          
           '<a href="https://docs.google.com/document/d/1wEb9aU256I0UwVzR1TztJB2y0NINnlmBc11UtPP9pO8/edit?usp=sharing" target="_blank">mockrev3</a>',
           
           '<a href="https://docs.google.com/document/d/1W8JH74O6Slj3ciDQSUdS5nKQ87ZjdfEzcvzHFsSzU4o/edit?usp=sharing" target="_blank">mockrev2</a>',
@@ -63,7 +71,7 @@ d = data.frame(time, article, discussant, slides, mocks)
 
 
 kbl(d, escape = F, col.names = c('Date and time', 'Article', 'Discussant', 'Slides', 'Mock reviews'), 
-    align = c('c','l','c','c','c')) %>%
+    align = c('c','l','l','c','c')) %>%
   kable_styling(htmltable_class = 'lightable-hover', full_width = T)
 
 
