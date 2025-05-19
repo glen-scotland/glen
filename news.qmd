@@ -11,9 +11,9 @@ Gertrude M. Cox Distinguished Professor [Brian Reich](https://bjreich.wordpress.
 ## <span style="background-color: #d1dce5;">June 2025</span>
 
 
-### 📌 Workshop: Generative AI Modeling for Extreme Events
+<!-- ### 📌 Workshop: Generative AI Modeling for Extreme Events -->
 
-GLE$^2$N is organising a Workshop on **Generative AI Modeling for Extreme Events**, to be held during the week of the 9$^\text{th}$ of June. Further details will be available online soon.
+<!-- GLE$^2$N is organising a Workshop on **Generative AI Modeling for Extreme Events**, to be held during the week of the 9$^\text{th}$ of June. Further details will be available online soon. -->
 
 
 ## <span style="background-color: #d1dce5;">November 2024</span>

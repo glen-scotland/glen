@@ -60,7 +60,7 @@
     "href": "news.html#june-2025",
     "title": "News",
     "section": "June 2025",
-    "text": "June 2025\n\n📌 Workshop: Generative AI Modeling for Extreme Events\nGLE\\(^2\\)N is organising a Workshop on Generative AI Modeling for Extreme Events, to be held during the week of the 9\\(^\\text{th}\\) of June. Further details will be available online soon."
+    "text": "June 2025"
   },
   {
     "objectID": "news.html#november-2024",
@@ -89,6 +89,13 @@
     "title": "Events",
     "section": "July 2025",
     "text": "July 2025\n\n📌 Environmental and Ecological Statistics Conference 2025\nEnvEcoStats, the Environmental and Ecological Statistics Conference, will take place in Lancaster from 1–3 July 2025. Co-organized by the University of Glasgow and Lancaster University, it serves as a satellite event to the ISI World Statistics Congress 2025 and is sponsored by TIES and the Environmental Statistics Section of the Royal Statistical Society.\nBuilding on the success of previous workshops in 2023 and 2024, the conference aims to foster collaboration between environmental and ecological statisticians, support knowledge exchange, and connect academics, data scientists, and NGOs.\nThe three-day program will feature\n\nKeynote talks\nInvited talks\nA panel discussion on “Climate Change and Disaster-related Statistics”\nContributed sessions\nPoster session with flash presentations\nBest contributed talk and best poster awards\n\nRegistration closes 1st of June. More information here. For any questions or further information, please contact us at envecostats@googlegroups.com."
+  },
+  {
+    "objectID": "events.html#june-2025",
+    "href": "events.html#june-2025",
+    "title": "Events",
+    "section": "June 2025",
+    "text": "June 2025\n\n📌 Workshop: Generative AI Modeling for Extreme Events\nMarket crashes, wildfires, coastal floods, and other rare extremes push society and ecosystems to their limits. Extreme Value Theory (EVT) offers the mathematical tools needed to quantify risks in these sparsely observed tail regions. At the same time, new generative-AI models promise fresh ways to simulate, stress-test, and understand such events.\nThis workshop brings the two strands together. We will explore EVT-inspired generative methods alongside complementary ideas from statistics, machine learning, and the applied sciences, and map out future research directions at their intersection.\nChair: Miguel de Carvalho — Chair of Statistical Data Science & GAIL Fellow\nOrganised by: The Generative AI Laboratory, in partnership with the Royal Society of Edinburgh, the Edinburgh Centre for Financial Innovations, and GLE\\(^2\\)N."
   },
   {
     "objectID": "events.html#may-2025",
