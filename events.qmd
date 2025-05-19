@@ -75,7 +75,7 @@ The three-day program will feature
 ### 📌 Workshop: Generative AI Modeling for Extreme Events
 Market crashes, wildfires, coastal floods, and other rare extremes push society and ecosystems to their limits. Extreme Value Theory (EVT) offers the mathematical tools needed to quantify risks in these sparsely observed tail regions. At the same time, new generative-AI models promise fresh ways to simulate, stress-test, and understand such events.
 
-This workshop brings the two strands together. We will explore EVT-inspired generative methods alongside complementary ideas from statistics, machine learning, and the applied sciences, and map out future research directions at their intersection.
+This workshop brings the two strands together. We will explore EVT-inspired generative methods alongside complementary ideas from statistics, machine learning, and the applied sciences, and map out future research directions at their intersection. More information [here](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events).
 
 **Chair**: Miguel de Carvalho — Chair of Statistical Data Science & GAIL Fellow
 
