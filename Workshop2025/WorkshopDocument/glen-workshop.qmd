@@ -1,0 +1,144 @@
+---
+title: ""
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    include-in-header: styles.tex
+    include-before-body: cover.tex
+    keep-tex: true
+fontsize: 11pt
+
+---
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+
+
+\newpage
+
+# About the workshop
+
+\red{workshop theme needs to be defined}
+
+This one-day workshop 
+
+**Goals**
+
+
+- A
+
+- B
+ 
+
+We hope that this collective effort will pave the way for ...
+    
+
+\newpage
+
+# Location (TBC)
+
+We will meet in Seminar Room 311B, located on the third floor of the Mathematics and Statistics Building ([Google map](https://www.google.com/maps/place/School+of+Mathematics+and+Statistics/@55.8726073,-4.2944843,871m/data=!3m2!1e3!4b1!4m6!3m5!1s0x488845cfd066d839:0xeab86bed8f92f0d0!8m2!3d55.8726073!4d-4.2944843!16s%2Fg%2F11ddzkn8v0?entry=ttu&g_ep=EgoyMDI1MDYwMS4wIKXMDSoASAFQAw%3D%3D)). The room is accessible by both stairs and lift. The building is just a 6-minute walk from Hillhead subway station.
+
+\begin{center}
+\includegraphics[width=0.6\linewidth]{ms-building.jpg}
+\end{center}
+
+\begin{center}
+\includegraphics[width=0.6\linewidth]{map-to-ms.png}
+\end{center}
+
+
+\newpage
+
+# Programme overview
+
+
+**9:15-9:30** — Registration
+
+**9:30-9:45** — Welcome & GLE²N presentation
+
+**9:45-10:15** — Optional 2-minute lightning intros (up to 15 attendees) \red{do we want to offer this to all?}
+
+**10:15-10:45** — Coffee break
+
+**10:45-11:45** — **Invited Talks Session 1** (2 × 25-minute talks + 5 min Q&A each) 
+
+**11:45-13:15** — Lunch (not provided)
+
+**13:15-14:15** — **Invited Talks Session 2** (2 × 25-minute talks + 5 min Q&A each) 
+
+**14:15-15:15** — **Contributed Talks** (4 × 12-minute talks + 3 min Q&A each) 
+
+**15:15-15:45** — Coffee break
+
+**15:45-16:15** — Discussion activity: theme review in teams
+
+**16:15-16:45** — Team reports & group discussion
+
+**16:45-17:00** — Wrap-up & closing remarks
+
+**17:00 onwards** — drinks & dinner
+
+
+
+
+
+\newpage
+# Abstracts
+
+The grouping and sequence of talks aim to gradually build context—from general frameworks and national challenges to specific methods and applications—while maintaining variety and thematic coherence.
+
+
+\newpage
+## Discussion Themes
+
+Throughout the day, attendees are encouraged to contribute ideas, questions, and provocations on the below themes using Post-it pads and themed sheets placed around the room. These contributions will be used in the afternoon discussion session.
+
+
+### 1. Cross-Disciplinary Collaboration
+*How can EVT more effectively contribute to interdisciplinary challenges (e.g., climate, finance, health)?*
+
+Prompt questions:
+
+- What barriers exist when applying EVT in other scientific domains, and how can we lower them?
+
+- Are there successful case studies of EVT in interdisciplinary settings we can learn from?
+
+- How do we establish sustained collaborations with practitioners in fields like climate science, finance, or public health?
+
+### 2. Scalability & Computation
+*What are the bottlenecks in applying EVT at scale, and how can we overcome them (e.g., INLA, neural approaches)?*
+
+Prompt questions:
+
+- Which EVT models or inference techniques are most computationally efficient at scale?
+
+- What are the trade-offs between computational speed, model complexity, and interpretability?
+
+- How can we leverage modern computing tools (e.g., GPU, parallelisation, variational inference) to scale EVT methods?
+
+### 3. Bridging Theory and Practice
+*How do we translate advanced EVT theory into tools usable by practitioners and stakeholders?*
+
+Prompt questions:
+
+- What makes a theoretical advance in EVT practically useful?
+
+- How can we communicate EVT model assumptions and uncertainties to non-specialists?
+
+- What types of user-friendly tools or software are most needed by practitioners?
+
+
+
+
+
+
+## Discussion Activity Details
+
+### Task 1: Theme Review (20 min)
+- Each group collects their theme sheet.
+- Review Post-it notes and prompt questions.
+- Summarise key ideas and explore potential answers or alternative approaches.
+
+### Task 2: Team Reports (15 min per team)
+- Each team leader presents their group’s summary.
+- A short follow-up discussion with the full group.
