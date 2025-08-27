@@ -11,7 +11,6 @@ website:
       - reading-group.qmd
       - research-talk.qmd
       - people.qmd
-      - workshop.qmd
       - events.qmd
       - news.qmd
   page-footer:
