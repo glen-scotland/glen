@@ -2,22 +2,29 @@
 title: "Workshop 2025"
 ---
 
+::: {.grid .gap-4}
+::: {.g-col-8}
 GLE$^2$N will host its first in-person workshop in December 2025 at the University of Glasgow, marking the one-year anniversary of the network.
 
 Kindly sponsored by the [Glasgow Mathematical Journal Trust](https://www.gmjtrust.org/), this one-day event will bring together researchers in extreme value theory (EVT) and statistical risk analysis, with a particular focus on:
 
-
 - Advances in EVT **theory**, **methodology**, and **real-world impact**,
-
 - Applications to climate, environment, health, and finance,
-
 - Emerging challenges and opportunities for collaboration across Scotland and beyond.
+:::
+
+::: {.g-col-4 .text-center}
+![](img/GMJT logo.jpg){width=80%}
+:::
+:::
+
+
 
 ## Format
 
 Morning: Research talks by invited speakers and GLE$^2$N members.
 
-Afternoon: Thematic andn interactive discussions around open problems and future directions, aimed at fostering new collaborations.
+Afternoon: Thematic and interactive discussions around open problems and future directions, aimed at fostering new collaborations.
 
 ## Goals
 
@@ -33,9 +40,13 @@ The workshop will:
 
 **Date**: Thursday 11 December 2025, 9:00 - 17:00.
 
-**Location**: University of Glasgow.
+**Location**: [Advanced Research Centre (ARC)](https://www.gla.ac.uk/research/arc/), University of Glasgow.
 
 **Catering**: Refreshments provided, lunch not provided.
+
+:::{.text-center}
+![](img/arc.jpg){width=50%}
+:::
 
 
 ## Participation
@@ -44,6 +55,3 @@ We anticipate around 25–30 participants, including students, early-career rese
 
 📌 Updates on programme and speakers will be available soon.
 
-:::{.text-center}
-![](img/GMJT logo.jpg){width=30%}
-:::
