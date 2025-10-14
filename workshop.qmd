@@ -84,10 +84,10 @@ There are a variety of dining options available across campus. To learn more abo
 
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# Restaurants (sorted by walking distance to BO)
+# Restaurants (sorted by walking distance to ARC)
 
 
-| Name                  | Style              | Address                   | From ARC |
+| Name                  | Style              | Address                   | To ARC |
 |-----------------------|--------------------|---------------------------|--------|
 | Eighty Eight          | Small plates       | 88 Dumbarton Rd, G11 6NX  | 3min   |
 | Number 16 Restaurant  | Modern European    | 16 Byres Rd, G11 5JY      | 3min   |
@@ -112,9 +112,9 @@ There are a variety of dining options available across campus. To learn more abo
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# Sandwich/Bagel/Deli (sorted by walking distance to BO)
+# Sandwich/Bagel/Deli (sorted by walking distance to ARC)
 
-| Name                                | Style                  | Address                   | To BO |
+| Name                                | Style                  | Address                   | To ARC |
 |-------------------------------------|------------------------|---------------------------|--------|
 | St Lucia Deli                       | Italian  deli          | 181 Byres Rd, G12 8TS     | 6min   |
 | Bagel mania                         | Bagel shop             | 195 Byres Rd, G12 8TN     | 8min   |
@@ -131,9 +131,9 @@ There are a variety of dining options available across campus. To learn more abo
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# Coffee and specialty tea (sorted by walking distance to BO)
+# Coffee and specialty tea (sorted by walking distance to ARC)
 
-| Name                     | Style                          | Address                       | To BO |
+| Name                     | Style                          | Address                       | To ARC |
 |--------------------------|--------------------------------|-------------------------------|--------|
 | The alchemist experiment | Coffee, chai and art gallery   | 157 Byres Rd, Glasgow G12 8TS | 5min   |
 | Birds & Blends           | Tea shop specialised in blends | 215 Byres Rd, Glasgow G12 8UD | 7min  |
