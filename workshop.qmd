@@ -22,13 +22,6 @@ Kindly sponsored by the [Glasgow Mathematical Journal Trust](https://www.gmjtrus
 
 - Emerging challenges and opportunities for collaboration across Scotland and beyond.
 
-
-## Format
-
-Morning: Research talks by invited speakers and GLE$^2$N members.
-
-Afternoon: Thematic and interactive discussions around open problems and future directions, aimed at fostering new collaborations.
-
 ## Goals
 
 The workshop will:
@@ -39,16 +32,116 @@ The workshop will:
 
 - Highlight the role of EVT in addressing real-world challenges.
 
+
+## Draft agenda
+
+**9:00 - 9:15** — GLEN and workshop introduction  
+**9:15 - 9:45** — invited talk 1  
+**9:45 - 10:15** — invited talk 2  
+**10:15 - 10:40** — coffee break  
+**10:40 - 11:00** — contributed talk 1  
+**11:00 - 11:20** — contributed talk 2  
+**11:20 - 11:40** — contributed talk 3  
+**11:40 - 12:00** — contributed talk 4  
+**12:00 - 13:30** — lunch (not provided)  
+**13:30 - 14:00** — invited talk 3  
+**14:00 - 14:30** — invited talk 4  
+**14:30 - 15:00** — coffee break  
+**15:00 - 17:00** — discussion (with a 10min break in between)  
+**17:00 - onwards** — drinks
+
+
+
 ## Practical Details
 
 **Date**: Thursday 11 December 2025, 9:00 - 17:00.
 
 **Location**: [Advanced Research Centre (ARC)](https://www.gla.ac.uk/research/arc/), University of Glasgow.
 
-**Catering**: Refreshments provided, lunch not provided.
+**Catering**: Refreshments provided, lunch not provided. See below our lunch reccomendations.
 
 :::{.text-center}
 ![](img/arc.jpg){width=90%}
+:::
+
+## Lunch
+Kindly note that lunch is not provided, but a list with reccomendations for restaurants and delis close to our venue can be found below.
+
+The ARC is very close to Byres Road, a vibrant street with lots of restaurants, delis, shops, and tea/coffee shops. Here is a list with some recommendations, but feel free to walk along the street and see what is out there. They are all within walking distance from the workshop venue. Please consult the corresponding websites for menu details/dietary requirements.
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# Cafes and Restaurants on Campus
+
+There are a variety of dining options available across campus. To learn more about our on-campus outlets, please visit [this link](https://www.gla.ac.uk/myglasgow/cateringandevents/catering/eatingoncampus/).
+
+:::{.text-center}
+![](img/foodcampus.png){width=80%}
+:::
+
+
+
+:::
+
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# Restaurants (sorted by walking distance to BO)
+
+
+| Name                  | Style              | Address                   | From ARC |
+|-----------------------|--------------------|---------------------------|--------|
+| Eighty Eight          | Small plates       | 88 Dumbarton Rd, G11 6NX  | 3min   |
+| Number 16 Restaurant  | Modern European    | 16 Byres Rd, G11 5JY      | 3min   |
+| St Lucia Pasta        | Italian            | 4 Byres Rd, G11 5JY       | 3min   |
+| Dumpling Monkey       | Chinese            | 121 Dumbarton Rd, G11 6PR | 4min   |
+| TING THAI Byres Road  | Thai               | 94 Byres Rd, G12 8TB      | 5min   |
+| Bibimbap              | Korean             | 4 Byres Rd, G11 5JY       | 6min   |
+| Topolabamba           | Mexican            | 116-122 Byres Rd, G12 8TB | 6min   |
+| La Vita Spuntini      | Italian            | 199 Byres Rd, G12 8TN     | 8min   |
+| Little Italy Pizzeria | Italian            | 205 Byres Rd, G12 8TN     | 8min   |
+| Bantawala             | Indian             | 4 Byres Rd, G11 5JY       | 9min   |
+| Ashoka Ashton Lane    | Indian             | 19 Ashton Ln, G12 8SJ     | 10min  |
+| Ubiquitous Chip       | Scottish           | 12 Ashton Ln, G12 8SJ     | 10min  |
+| Bothy Glasgow         | Scottish           | 11 Ruthven Ln, G12 9BG    | 10min  |
+| The Gardener          | Bites,small plates | 24 Ashton Ln, G12 8SJ     | 10min  |
+| Chaakoo               | Indian             | 61 Ruthven Ln, G12 9BG    | 11min  |
+| Ka Pao                | Southeast Asian    | 26 Vinicombe St, G12 8BE  | 13min  |
+| Crabshakk Botanics    | Fish               | 18 Vinicombe St, G12 8BE  | 13min  |
+
+: {.striped .hover}
+
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# Sandwich/Bagel/Deli (sorted by walking distance to BO)
+
+| Name                                | Style                  | Address                   | To BO |
+|-------------------------------------|------------------------|---------------------------|--------|
+| St Lucia Deli                       | Italian  deli          | 181 Byres Rd, G12 8TS     | 6min   |
+| Bagel mania                         | Bagel shop             | 195 Byres Rd, G12 8TN     | 8min   |
+| La Pastina Deli                     | Italian deli           | 180 Byres Rd, G12 8SN     | 8min   |
+| Subway                              | Sandwich shop          | 239 Byres Rd, G12 8UB     | 9min   |
+| Gyros                               | Greek                  | 223 Byres Rd, G12 8UD     | 9min   |
+| Brawsome Bagels                     | Bagel shop             | 292 Dumbarton Rd, G11 6TD | 9min   |
+| Pret a manger                       | Sandwich & hot food    | 268 Byres Rd, G12 8SH     | 10min  |
+| Juicy                               | Juice bar, salad bowls | 284 Byres Rd, G12 8AWY    | 10min  |
+
+
+: {.striped .hover}
+
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# Coffee and specialty tea (sorted by walking distance to BO)
+
+| Name                     | Style                          | Address                       | To BO |
+|--------------------------|--------------------------------|-------------------------------|--------|
+| The alchemist experiment | Coffee, chai and art gallery   | 157 Byres Rd, Glasgow G12 8TS | 5min   |
+| Birds & Blends           | Tea shop specialised in blends | 215 Byres Rd, Glasgow G12 8UD | 7min  |
+| Blank Street           | matchas and lattes, specialty coffee classics, and fresh-baked pastries | 259 Byres Rd, Glasgow G12 8TL | 8min  |
+
+
+: {.striped .hover}
+
 :::
 
 
@@ -56,7 +149,6 @@ The workshop will:
 
 We anticipate around 25–30 participants, including students, early-career researchers, and established academics from across the UK. If you are interested in attending, please 👉 [complete the registration form](https://docs.google.com/forms/d/e/1FAIpQLSc5FsqyhePd6dGF4YAtvcSCbGi2vZ8BBaLicKB_1o9vBR9Oeg/viewform?usp=header). We will do our best to accommodate everyone, but places cannot be guaranteed. A limited budget is available to support student and ECR participation. If you would like to be considered for this support, please indicate so in the relevant section of the form.
 
-📌 Updates on programme and speakers will be available soon.
 
 
 :::{.text-center}
