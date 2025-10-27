@@ -16,7 +16,7 @@ title: "People"
   
 ::: {.g-col-6}
 
-## Reading Group Organisers 2026-26
+## Reading Group Organisers 2025-26
 
 - [Mengran Li](https://www.gla.ac.uk/pgrs/mengranli/) (UofG)
 - [Johnny MyungWon Lee](https://johnnymdoubleu.github.io/) (UofE)
