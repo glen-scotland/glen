@@ -51,7 +51,7 @@ discussant = c('Xindi Song',
 
 slides = c('<a href="https://drive.google.com/file/d/1yz9synS7f0VxtZAsabBvK4DCc7Yf0rha/view?usp=sharing" target="_blank">slides6</a>',
            
-          'slides5',
+          '<a href="https://drive.google.com/file/d/1VjneyqJiS9lypUEvpDMQbB7f5m_-nUZq/view?usp=sharing" target="_blank">slides5</a>',
            
            '<a href="https://drive.google.com/file/d/126cm-zddkkhYQI2VxEY8chhgFPnUKgVc/view?usp=sharing" target="_blank">slides3</a>',
            
