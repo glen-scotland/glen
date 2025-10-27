@@ -16,11 +16,15 @@ title: "People"
   
 ::: {.g-col-6}
 
+## Reading Group Organisers 2026-26
+
+- [Mengran Li](https://www.gla.ac.uk/pgrs/mengranli/) (UofG)
+- [Johnny MyungWon Lee](https://johnnymdoubleu.github.io/) (UofE)
+
 ## Reading Group Organisers 2024-25
 
 - [Chenglei Hu](https://www.gla.ac.uk/pgrs/chengleihu/) (UofG)
 - [Johnny MyungWon Lee](https://johnnymdoubleu.github.io/) (UofE)
-
 
 :::
   
@@ -41,5 +45,7 @@ title: "People"
   - [Dr Giovanni Rabitti](https://researchportal.hw.ac.uk/en/persons/giovanni-rabitti) (HW)
   - [Prof Catherine Donnelly](http://www.ma.hw.ac.uk/~cd134/) (HW)
   - [Dr Timothy Johnson](https://researchportal.hw.ac.uk/en/persons/timothy-johnson) (HW)
-  - [Prof Victor Elvira](https://victorelvira.github.io/) (uofE)
-  - [Linlu Zhao](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1362)
+  - [Prof Victor Elvira](https://victorelvira.github.io/) (UofE)
+  - [Linlu Zhao](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1362) (UofE)
+  - [Xindi Song](https://maths.ed.ac.uk/people/phd?person=1237) (UofE)
+  - Teng Wei Tao (UofG)
