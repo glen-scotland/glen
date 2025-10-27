@@ -17,7 +17,7 @@ library(knitr)
 
 ## Next meeting
 
-We're taking a summer break at the moment and will be back in late September/early October 2025. Our regular meeting slot is Fridays, 13:00–15:00.
+TBC November 2025. Our regular meeting slot is Fridays, 13:00–15:00.
 
 ### Google Calendar
 

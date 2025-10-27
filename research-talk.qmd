@@ -18,7 +18,23 @@ The second part of each GLE$^2$N meeting features a research talk, providing an 
 
 
 
-## Talks 🗣️
+## Talks  🗣️
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Modelling non-stationary extremal dependence through a geometric approach by Callum Murphy-Barltrop (TU Dresden)
+
+**Summary**
+In many environmental and financial datasets, the relationships between extremes of multiple variables change over time — a phenomenon known as non-stationary, or time-varying, extremal dependence. The majority of multivariate extreme value models (MEVMs) fail to account for such trends, motivating the need for novel developments.
+
+Many recent MEVMs utilise the geometric extremes framework, whereby extremal dependence features are inferred from the limiting shapes of scaled sample clouds. Such approaches possess many attractive features; for example, they can capture a wide range of dependence structures and can be used to estimate many practically relevant quantities.
+
+In this work, we extend the geometric extremes framework to capture time-varying extremal dependence. Our proposed framework is more flexible compared to many existing non-stationary MVEMs and offers a wide variety of interesting use cases. Through rigorous simulation studies, we demonstrate that our proposed framework is both robust and accurate. To conclude, we apply our framework to return data from 'The Magnificent 7,' a group consisting of the world's largest technology companies.
+
+ 
+**Joint work with:** J. Wadsworth, M. de Carvalho, B. Youngman. 
+
+
+:::
+
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
 # <span style="color: rgb(25,188,156)">21/03/25</span>  GPDFlow: Generative Multivariate Threshold Exceedance Modeling via Normalizing Flows by C. Hu (UofG)
 

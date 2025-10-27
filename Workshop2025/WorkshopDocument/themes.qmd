@@ -1,0 +1,68 @@
+---
+title: ""
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    include-in-header: styles.tex
+    include-before-body: cover.tex
+    keep-tex: true
+fontsize: 11pt
+
+---
+
+\newpage
+
+
+# Proposed topics for discussion
+
+## Theme 1: Data Complexity and Integration
+
+**Relevant talks**: Marian Scott, Claire Miller, Ben Marchant, Craig Wilkie
+
+**Prompt questions**:
+  
+  - What are the most pressing barriers to integrating heterogeneous environmental data sources?
+  
+  - How can we balance model complexity with interpretability when fusing diverse datasets?
+  
+  - Are there good examples of success (or failure) in multi-source integration we can learn from?
+  
+  
+## Theme 2: Modelling Choices and Scalability
+  
+  **Relevant talks**: Dave Miller, Israel Martínez-Hernández, Michael Tso
+
+**Prompt questions**:
+  
+  - What modelling approaches scale best to large or high-frequency datasets?
+  
+  - How do we decide between simpler models (e.g., regression/GAMs) and complex hierarchical or functional models?
+  
+  - What compromises have you made between model flexibility and computational feasibility?
+  
+
+## Theme 3: Decision-Driven Modelling
+  
+  **Relevant talks**: Claire Miller, Claire Risley, Michael Tso
+
+**Prompt questions**:
+  
+  - How do we make our models useful for decision-makers and practitioners?
+  
+  - What statistical uncertainties matter most in practice, and how should we communicate them?
+  
+  - How do we build adaptive systems that react to real-time information?
+  
+
+## Theme 4: Collaboration and Co-Production
+  
+  All talks are relevant here
+
+**Prompt questions**:
+  
+  - What has helped or hindered successful collaboration across academia, agencies, and industry?
+  
+  - What would an ideal collaborative workflow look like for tackling a spatio-temporal environmental problem?
+  
+  - Are there shared needs (e.g., open datasets, tools, training) that we could address together?

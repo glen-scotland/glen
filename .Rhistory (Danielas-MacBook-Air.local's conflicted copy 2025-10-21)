@@ -1,0 +1,512 @@
+to   = as.Date("1962-12-31"),
+by   = "day"
+)
+rain = data.frame(date = dates, value = rain)
+set.seed(123)  # for reproducibility
+# create daily dates
+dates <- seq(
+from = as.Date("1920-01-01"),
+to   = as.Date("1990-12-31"),
+by   = "day"
+)
+# simulate fake sea level data (in metres)
+# mean around 1.5 m, with seasonality and some noise
+n <- length(dates)
+sea_level <- 1.5 +
+0.3 * sin(2 * pi * as.numeric(format(dates, "%j")) / 365) + # seasonal effect
+0.001 * (1:n) / 365 +                                       # small trend
+rnorm(n, mean = 0, sd = 0.1)                                # random noise
+# combine into a data frame
+sea_levels <- data.frame(
+date = dates,
+sea_level_m = round(sea_level, 3)
+)
+head(sea_levels)
+tail(sea_levels)
+library(ggplot2)
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels, aes(x = date, y = sea_level_m)) +
+geom_line() +
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Daily sea levels")
+p1
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Daily sea levels")
+p1
+# 2) As (1), plus vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red") +
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Daily sea levels with yearly guides")
+p2
+set.seed(123)  # reproducibility
+# create quarterly dates
+dates <- seq(
+from = as.Date("1920-01-01"),
+to   = as.Date("1990-12-31"),
+by   = "quarter"
+)
+# number of points
+n <- length(dates)
+# fake sea level data (same structure as before but quarterly)
+sea_level <- 1.5 +
+0.3 * sin(2 * pi * as.numeric(format(dates, "%j")) / 365) + # seasonal effect
+0.001 * (1:n) / 4 +                                         # small trend (quarterly)
+rnorm(n, mean = 0, sd = 0.1)                                # random noise
+# combine into data frame
+sea_levels <- data.frame(
+date = dates,
+sea_level_m = round(sea_level, 3)
+)
+head(sea_levels)
+tail(sea_levels)
+library(ggplot2)
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Daily sea levels")
+p1
+# 2) As (1), plus vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red") +
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Daily sea levels with yearly guides")
+p2
+head(sea_levels)
+dates <- seq(
+from = as.Date("1950-01-01"),
+to   = as.Date("1990-12-31"),
+by   = "quarter"
+)
+# number of points
+n <- length(dates)
+# fake sea level data (same structure as before but quarterly)
+sea_level <- 1.5 +
+0.3 * sin(2 * pi * as.numeric(format(dates, "%j")) / 365) + # seasonal effect
+0.001 * (1:n) / 4 +                                         # small trend (quarterly)
+rnorm(n, mean = 0, sd = 0.1)                                # random noise
+# combine into data frame
+sea_levels <- data.frame(
+date = dates,
+sea_level_m = round(sea_level, 3)
+)
+head(sea_levels)
+tail(sea_levels)
+library(ggplot2)
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Daily sea levels")
+p1
+# 2) As (1), plus vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red") +
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Daily sea levels with yearly guides")
+p2
+set.seed(123)  # reproducibility
+# create quarterly dates
+dates <- seq(
+from = as.Date("1920-01-01"),
+to   = as.Date("1990-12-31"),
+by   = "quarter"
+)
+# number of points
+n <- length(dates)
+# fake sea level data (same structure as before but quarterly)
+sea_level <- 1.5 +
+0.3 * sin(2 * pi * as.numeric(format(dates, "%j")) / 365) + # seasonal effect
+0.001 * (1:n) / 4 +                                         # small trend (quarterly)
+rnorm(n, mean = 0, sd = 0.1)                                # random noise
+# combine into data frame
+sea_levels_quarterly <- data.frame(
+date = dates,
+sea_level_m = round(sea_level, 3)
+)
+head(sea_levels_quarterly)
+tail(sea_levels_quarterly)
+set.seed(123)  # reproducibility
+# create quarterly dates
+dates <- seq(
+from = as.Date("1920-01-01"),
+to   = as.Date("1990-12-31"),
+by   = "quarter"
+)
+# number of points
+n <- length(dates)
+# fake sea level data (same structure as before but quarterly)
+sea_level <- 1.5 +
+0.3 * sin(2 * pi * as.numeric(format(dates, "%j")) / 365) + # seasonal effect
+0.001 * (1:n) / 4 +                                         # small trend (quarterly)
+rnorm(n, mean = 0, sd = 0.1)                                # random noise
+# combine into data frame
+sea_levels_quarterly <- data.frame(
+date = dates,
+sea_level_m = round(sea_level, 3)
+)
+head(sea_levels_quarterly)
+tail(sea_levels_quarterly)
+library(ggplot2)
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_line() +
+geom_point() +  # show individual quarterly values
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels")
+p1
+# 2) Add vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_line() +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red", alpha = 0.4) +
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with yearly guides")
+p2
+# 2) Add vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red", alpha = 0.4) +
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with yearly guides")
+p2
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_line() +
+geom_point() +
+scale_x_date(date_breaks = "10 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels")
+p1
+head(sea_levels_quarterly)
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_line() +
+scale_x_date(date_breaks = "10 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels")
+p1
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(date_breaks = "10 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels")
+p1
+# 2) Add vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red", alpha = 0.4) +
+scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with yearly guides")
+p2
+# 2) Add vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red", alpha = 0.4) +
+scale_x_date(date_breaks = "10 years", date_labels = "%Y") +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with yearly guides")
+p2
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels")
+p1
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels")
+p1
+# 2) Add vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red", alpha = 0.4) +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with yearly guides")
+p2
+# 3) Add vertical dashed red lines every 5 years
+year5_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "5 years")
+p3 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_line() +
+geom_point() +
+geom_vline(xintercept = year5_ticks, linetype = "dashed", color = "red", alpha = 0.6) +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with 5-year guides")
+p3
+p2 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red", alpha = 0.4) +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with yearly guides")
+p2
+# 3) Add vertical dashed red lines every 5 years
+year5_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "5 years")
+p3 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year5_ticks, linetype = "dashed", color = "red", alpha = 0.6) +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with 5-year guides")
+p3
+# 4) Add a horizontal red dashed line at the 80% quantile
+q80 <- quantile(sea_levels_quarterly$sea_level_m, 0.80, na.rm = TRUE)
+p4 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_line() +
+geom_point() +
+geom_hline(yintercept = q80, linetype = "dashed", color = "red") +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with 80th percentile")
+p4
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels")
+p1
+# 3) Add vertical dashed red lines every 5 years
+year5_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "5 years")
+p3 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year5_ticks, linetype = "dashed", color = "red", alpha = 0.6) +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with 5-year guides")
+p3
+# 2) Add vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red", alpha = 0.4) +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with yearly guides")
+p2
+# 4) Add a horizontal red dashed line at the 80% quantile
+q80 <- quantile(sea_levels_quarterly$sea_level_m, 0.80, na.rm = TRUE)
+p4 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_hline(yintercept = q80, linetype = "dashed", color = "red") +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with 80th percentile")
+p4
+# 5) Add a horizontal red dashed line at the 90% quantile
+q90 <- quantile(sea_levels_quarterly$sea_level_m, 0.90, na.rm = TRUE)
+p5 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_line() +
+geom_point() +
+geom_hline(yintercept = q90, linetype = "dashed", color = "red") +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels with 90th percentile")
+p5
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Quarterly sea levels")
+p1
+ggsave("Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/Paperwork/RotationProjectPresentation/p1.pdf", width = 9, height = 6)
+ggsave("~/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/Paperwork/RotationProjectPresentation/p1.pdf", width = 9, height = 6)
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/RotationProjectPresentation/p1.pdf", width = 9, height = 6)
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p1.pdf", width = 9, height = 6)
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p1
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p1.pdf", width = 9, height = 6)
+# 3) Add vertical dashed red lines every 5 years
+year5_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "5 years")
+p3 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year5_ticks, linetype = "dashed", color = "red", alpha = 0.6) +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p3
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p3.pdf", width = 9, height = 6)
+# 2) Add vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red", alpha = 0.4) +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p2
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p2.pdf", width = 9, height = 6)
+# 4) Add a horizontal red dashed line at the 80% quantile
+q80 <- quantile(sea_levels_quarterly$sea_level_m, 0.80, na.rm = TRUE)
+p4 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_hline(yintercept = q80, linetype = "dashed", color = "red") +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p4
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p4.pdf", width = 9, height = 6)
+# 5) Add a horizontal red dashed line at the 90% quantile
+q90 <- quantile(sea_levels_quarterly$sea_level_m, 0.90, na.rm = TRUE)
+p5 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_hline(yintercept = q90, linetype = "dashed", color = "red") +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p5
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p5.pdf", width = 9, height = 6)
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p1 + theme_minimal(base_size = 16)
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p1.pdf", width = 9, height = 6)
+# 1) Data with years on the horizontal axis
+p1 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p1 + theme_minimal(base_size = 16)
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p1.pdf", width = 9, height = 6)
+# 3) Add vertical dashed red lines every 5 years
+year5_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "5 years")
+p3 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year5_ticks, linetype = "dashed", color = "red", alpha = 0.6) +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p3 + theme_minimal(base_size = 16)
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p3.pdf", width = 9, height = 6)
+# 2) Add vertical dashed red lines for every year
+year_ticks <- seq(as.Date("1920-01-01"), as.Date("1990-01-01"), by = "1 year")
+p2 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_vline(xintercept = year_ticks, linetype = "dashed", color = "red", alpha = 0.4) +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p2 + theme_minimal(base_size = 16)
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p2.pdf", width = 9, height = 6)
+# 4) Add a horizontal red dashed line at the 80% quantile
+q80 <- quantile(sea_levels_quarterly$sea_level_m, 0.80, na.rm = TRUE)
+p4 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_hline(yintercept = q80, linetype = "dashed", color = "red") +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p4 + theme_minimal(base_size = 16)
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p4.pdf", width = 9, height = 6)
+# 5) Add a horizontal red dashed line at the 90% quantile
+q90 <- quantile(sea_levels_quarterly$sea_level_m, 0.90, na.rm = TRUE)
+p5 <- ggplot(sea_levels_quarterly, aes(x = date, y = sea_level_m)) +
+geom_point() +
+geom_hline(yintercept = q90, linetype = "dashed", color = "red") +
+scale_x_date(
+date_breaks = "10 years",
+date_labels = "%Y",
+limits = as.Date(c("1920-01-01", "1990-12-31"))
+) +
+labs(x = "Year", y = "Sea level (m)", title = "Sea levels")
+p5 + theme_minimal(base_size = 16)
+ggsave("/Users/danielacastrocamilo/Dropbox/Glasgow/Supervising/PhDStudents/KirstyRyman/RotationProjectPresentation/p5.pdf", width = 9, height = 6)
+sample(10:12, 12)
+sample(10:12, 12,replace = T)
