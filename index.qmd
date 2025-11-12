@@ -17,7 +17,7 @@ library(knitr)
 
 ## Next meeting
 
-TBC November 2025. Our regular meeting slot is Fridays, 13:00–15:00.
+Friday 21st November 2025, 13:00–15:00.
 
 ### Google Calendar
 

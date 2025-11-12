@@ -11,7 +11,7 @@ knitr::opts_chunk$set(
 library(knitr)
 ```
 
-GLE$^2$N will host its first in-person workshop in December 2025 at the University of Glasgow, marking the one-year anniversary of the network.
+GLE$^2$N will host its first in-person workshop on Thursday, 11$^\text{th}$ December 2025 at the University of Glasgow, marking the one-year anniversary of the network.
 
 Kindly sponsored by the [Glasgow Mathematical Journal Trust](https://www.gmjtrust.org/), this one-day event will bring together researchers in extreme value theory (EVT) and statistical risk analysis, with a particular focus on:
 
@@ -22,15 +22,15 @@ Kindly sponsored by the [Glasgow Mathematical Journal Trust](https://www.gmjtrus
 
 - Emerging challenges and opportunities for collaboration across Scotland and beyond.
 
-## Goals
+<!-- ## Goals -->
 
-The workshop will:
+<!-- The workshop will: -->
 
-- Strengthen connections across the Scottish and UK EVT community,
+<!-- - Strengthen connections across the Scottish and UK EVT community, -->
 
-- Provide a platform for early-career researchers to present their work and network,
+<!-- - Provide a platform for early-career researchers to present their work and network, -->
 
-- Highlight the role of EVT in addressing real-world challenges.
+<!-- - Highlight the role of EVT in addressing real-world challenges. -->
 
 
 ## Draft agenda
@@ -50,7 +50,7 @@ The workshop will:
 **15:00 - 17:00** — discussion (with a 10min break in between)  
 **17:00 - onwards** — drinks
 
-
+<!-- Here is the link to the [workshop document](), which includes details on the venue, speakers, abstracts, and the structure of the afternoon discussion. -->
 
 ## Practical Details
 

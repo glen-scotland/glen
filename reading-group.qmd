@@ -28,13 +28,15 @@ Each GLE$^2$N meeting begins with a discussion of a recent piece of relevant lit
 
 ## Reading list 📝
 ```{r, echo = F, eval=T}
-time = c('17/10/25<br>13:00-14:00',
+time = c('21/11/25<br>13:00-14:00',
+         '17/10/25<br>13:00-14:00',
          '09/05/25<br>13:00-14:00',
          '21/03/25<br>13:00-14:00',
          '14/02/25<br>13:00-14:00',
          '15/11/24<br>13:00-14:00<br>',
          '18/10/24<br>13:00-14:00<br>')
 article = c(
+  'Tan, J., Blanchet, J., Syrgkanis, V.  (2025). <a href="https://drive.google.com/file/d/1hvHqd6tdL_5OtVvc9WWEmrgLACkO2qpE/view?usp=sharing" target="_blank">Estimation of Treatment Effects in Extreme <br>and Unobserved Data</a>, <em>Arxiv</em>',
   'Zhong, P., Huser, R., and Opitz, T.  (2022). <a href="https://drive.google.com/file/d/18lSyHClVl0hYQHsA7oi-YkdEbRwXTBGX/view?usp=sharing" target="_blank">Modeling nonstationary temperature maxima <br>based on extremal dependence changing with event magnitude</a>, <em>The Annals of Applied <br>Statistics</em>, 16(1), 272-299.',
   'Simpson, E.S., Opitz, T. and Wadsworth, J. (2023). <a href="https://drive.google.com/file/d/1WKfGOUn_z4rWUqUfBIsI5jtakE27QafR/view?usp=sharing" target="_blank">High-dimensional modeling of spatial <br>and spatio-temporal conditional extremes using INLA and Gaussian Markov random fields</a>, <br><em>Extremes</em>, 26, 669–713.',
   'Gnecco, N., Merga, E. and Engelke, S. (2024). <a href="https://drive.google.com/file/d/1M2WjpOO0moccyxrLhs-Nq3y9_lkP8rgK/view?usp=sharing" target="_blank">Extremal Random Forests</a>. <em>Journal of the <br>American Statistical Association</em>, 119(548), pp.3059–3072, 82–95.',
@@ -42,14 +44,16 @@ article = c(
   'Li, R., Leng, C., & You, J. (2020). <a href="https://drive.google.com/file/d/1pnrSgfoF4xaHRdhWDoWHGL7OfRWrgyos/view?usp=sharing" target="_blank">Semiparametric Tail Index Regression</a>. <em>Journal of Business</em><br>&<em>Economic Statistics</em>, 40(1), 82–95.',
   'Olafsdottir, H. K., Rootzén, H., & Bolin, D. (2021). <a href="https://drive.google.com/file/d/1SDMxewRKqTujifQkXDTLoerxDuoVDrPI/view?usp=sharing" target="_blank">Extreme rainfall events in the<br>Northeastern United States become more frequent with rising temperatures, but their<br>intensity distribution remains stable</a>. <em>Journal of Climate</em>, 34(22), 8863-8877.')
 
-discussant = c('Xindi Song',
+discussant = c('Mengran Li',
+               'Xindi Song',
                'Jordan Richards',
                'Lambert de Monte',
                'Chenglei Hu',
                'Johnny Lee',
                'Daniela Castro-Camilo')
 
-slides = c('<a href="https://drive.google.com/file/d/1yz9synS7f0VxtZAsabBvK4DCc7Yf0rha/view?usp=sharing" target="_blank">slides6</a>',
+slides = c('slides7',
+           '<a href="https://drive.google.com/file/d/1yz9synS7f0VxtZAsabBvK4DCc7Yf0rha/view?usp=sharing" target="_blank">slides6</a>',
            
           '<a href="https://drive.google.com/file/d/1VjneyqJiS9lypUEvpDMQbB7f5m_-nUZq/view?usp=sharing" target="_blank">slides5</a>',
            
@@ -62,9 +66,10 @@ slides = c('<a href="https://drive.google.com/file/d/1yz9synS7f0VxtZAsabBvK4DCc7
            '<a href="https://drive.google.com/file/d/1ilwjBS_KVJZxWJaiSYAFYU4_jJovFDEA/view?usp=sharing" target="_blank">slides1</a>')
 
 
-mocks = c('<a href="https://docs.google.com/document/d/1m7Mx0DLs6Ia4KVaVrgdALk9vFKcM0sV9mcD2DR12r7M/edit?usp=sharing" target="_blank">mockrev6</a>',
+mocks = c('mockrev7',
+          '<a href="https://docs.google.com/document/d/1m7Mx0DLs6Ia4KVaVrgdALk9vFKcM0sV9mcD2DR12r7M/edit?usp=sharing" target="_blank">mockrev6</a>',
           
-          'mockrev5',
+          '<a href="https://docs.google.com/document/d/1jYNIQZHeMUp0hqzG1psgOs8_ygmKMCeX/edit?usp=sharing&ouid=108410436800946826963&rtpof=true&sd=true" target="_blank">mockrev5</a>',
           
           '<a href="https://docs.google.com/document/d/1vvRICkxNVwKOq_GPV5l7Yu6z1W1McJzKPvQdjYP3WUQ/edit?usp=sharing" target="_blank">mockrev4</a>',
           
