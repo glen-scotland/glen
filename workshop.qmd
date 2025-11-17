@@ -1,6 +1,6 @@
 ---
 title: "Workshop 2025"
-subtitle: "Celebrating one year of GLE$^2$N"
+subtitle: "Celebrating one year of GLE$^2$N 🎂"
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
@@ -11,7 +11,7 @@ knitr::opts_chunk$set(
 library(knitr)
 ```
 
-GLE$^2$N will host its first in-person workshop on Thursday, 11$^\text{th}$ December 2025 at the University of Glasgow, marking the one-year anniversary of the network.
+GLE$^2$N will host its first in-person workshop on **Thursday, 11$^\text{th}$ December 2025** at the University of Glasgow, marking the one-year anniversary of the network.
 
 Kindly sponsored by the [Glasgow Mathematical Journal Trust](https://www.gmjtrust.org/), this one-day event will bring together researchers in extreme value theory (EVT) and statistical risk analysis, with a particular focus on:
 
@@ -36,21 +36,22 @@ Kindly sponsored by the [Glasgow Mathematical Journal Trust](https://www.gmjtrus
 ## Draft agenda
 
 **9:00 - 9:15** — GLEN and workshop introduction  
-**9:15 - 9:45** — invited talk 1  
-**9:45 - 10:15** — invited talk 2  
+**9:15 - 9:45** — invited talk by Kirstin Strokorb  
+**9:45 - 10:15** — invited talk by Paul Northrop  
 **10:15 - 10:40** — coffee break  
-**10:40 - 11:00** — contributed talk 1  
-**11:00 - 11:20** — contributed talk 2  
-**11:20 - 11:40** — contributed talk 3  
-**11:40 - 12:00** — contributed talk 4  
+**10:40 - 11:00** — contributed talk by Johnny Myung Won Lee  
+**11:00 - 11:20** — contributed talk by Mengran Li  
+**11:20 - 11:40** — contributed talk by Jakob Wessel  
+**11:40 - 12:00** — contributed talk by Simon Brown 
 **12:00 - 13:30** — lunch (not provided)  
-**13:30 - 14:00** — invited talk 3  
-**14:00 - 14:30** — invited talk 4  
+**13:30 - 14:00** — invited talk by Jon Tawn  
+**14:00 - 14:30** — invited talk by Alison Poulston  
 **14:30 - 15:00** — coffee break  
 **15:00 - 17:00** — discussion (with a 10min break in between)  
-**17:00 - onwards** — drinks
+**17:00 - onwards** — dinner (not included)
 
-<!-- Here is the link to the [workshop document](), which includes details on the venue, speakers, abstracts, and the structure of the afternoon discussion. -->
+## Workshop document
+Here is the link to the [workshop document](https://drive.google.com/file/d/1kH-3da3LCoGV2H29_xVzvY0VyPYKZTi6/view?usp=sharing). Alongside the abstracts, the document outlines the topics for the afternoon discussion session, with each talk mapped to corresponding themes and a set of prompt questions. As this session is intended to be highly interactive, it would be greatly appreciated if you could take a quick look at Section 5 before the workshop.
 
 ## Practical Details
 
@@ -145,9 +146,9 @@ There are a variety of dining options available across campus. To learn more abo
 :::
 
 
-## Participation
+<!-- ## Participation -->
 
-We anticipate around 25–30 participants, including students, early-career researchers, and established academics from across the UK. If you are interested in attending, please 👉 [complete the registration form](https://docs.google.com/forms/d/e/1FAIpQLSc5FsqyhePd6dGF4YAtvcSCbGi2vZ8BBaLicKB_1o9vBR9Oeg/viewform?usp=header). We will do our best to accommodate everyone, but places cannot be guaranteed. A limited budget is available to support student and ECR participation. If you would like to be considered for this support, please indicate so in the relevant section of the form.
+<!-- We anticipate around 25–30 participants, including students, early-career researchers, and established academics from across the UK. If you are interested in attending, please 👉 [complete the registration form](https://docs.google.com/forms/d/e/1FAIpQLSc5FsqyhePd6dGF4YAtvcSCbGi2vZ8BBaLicKB_1o9vBR9Oeg/viewform?usp=header). We will do our best to accommodate everyone, but places cannot be guaranteed. A limited budget is available to support student and ECR participation. If you would like to be considered for this support, please indicate so in the relevant section of the form. -->
 
 
 

@@ -49,7 +49,7 @@ discussant = c('Mengran Li',
                'Jordan Richards',
                'Lambert de Monte',
                'Chenglei Hu',
-               'Johnny Lee',
+               'Johnny Myung Won Lee',
                'Daniela Castro-Camilo')
 
 slides = c('slides7',
