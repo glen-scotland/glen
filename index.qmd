@@ -17,7 +17,7 @@ library(knitr)
 
 ## Next meeting
 
-Friday 21st November 2025, 13:00–15:00.
+Our first workshop! 11th of December, 9:00-17:00.
 
 ### Google Calendar
 
