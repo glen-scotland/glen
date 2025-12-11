@@ -17,7 +17,7 @@ library(knitr)
 
 ## Next meeting
 
-Our first workshop! 11th of December, 9:00-17:00.
+February 2026. Exact day TBC. 13:00-15:00.
 
 ### Google Calendar
 
@@ -38,10 +38,11 @@ GLE$^2$N brings together early-career and established researchers from UofG, Uof
 - To promote knowledge sharing within the community.  
 - To support early-career researchers through networking and collaboration opportunities.  
 
-Activities of GLEN are funded by a variety of stakeholders, including Prob_AI and GAIL (Generative AI Lab—University of Edinburgh) 
+Activities of GLEN are funded by a variety of stakeholders, including Prob_AI, GAIL (Generative AI Lab—University of Edinburgh), and [Una Europa](https://www.una-europa.eu/).
+
 
 :::{.text-center}
-![](img/prob_AI.svg){width=30%}
+![](img/prob_AI-una_Europa.png){width=50%}
 :::
 
 ---

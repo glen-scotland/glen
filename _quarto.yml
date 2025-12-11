@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - workshop.qmd
       - reading-group.qmd
       - research-talk.qmd
       - people.qmd
       - events.qmd
       - news.qmd
+      - workshop.qmd
   page-footer:
     left: "&copy; Copyright 2025, DCC"
 format:
