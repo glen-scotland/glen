@@ -21,7 +21,11 @@ February 2026. Exact day TBC. 13:00-15:00.
 
 ### Google Calendar
 
- Use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t) to have GLEN events automatically displayed in your calendar application.
+```{=html}
+<iframe src="https://calendar.google.com/calendar/embed?height=700&wkst=2&ctz=Europe%2FLondon&showPrint=0&showTz=0&showTitle=0&hl=en_GB&src=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t&color=%23039be5" style="border-width:0" width="215" height="500" frameborder="0" scrolling="no"></iframe>
+```
+
+Use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t) to have GLE$^2$N events automatically displayed in your calendar.
  
 ## Google Group
 
