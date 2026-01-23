@@ -17,7 +17,7 @@ library(knitr)
 
 ## Next meeting
 
-February 2026. Exact day TBC. 13:00-15:00.
+Friday 27th February 2026, 13:00-15:00.
 
 ### Google Calendar
 
@@ -38,21 +38,20 @@ GLE$^2$N brings together early-career and established researchers from UofG, Uof
 - To promote knowledge sharing within the community.  
 - To support early-career researchers through networking and collaboration opportunities.  
 
-Activities of GLEN are funded by a variety of stakeholders, including Prob_AI, GAIL (Generative AI Lab—University of Edinburgh), and [Una Europa](https://www.una-europa.eu/).
-
-
-:::{.text-center}
-![](img/prob_AI-una_Europa.png){width=50%}
-:::
 
 ---
 
 ### Meetings
-GLE$^2$N meetings are open to all staff and students from UofG, UofE, and HW. Meetings are held monthly and follow a two-hour format:  
-1. **Reading group:** A discussion of a recent piece of relevant literature, led by one of our members.  
-2. **Research talk:** A presentation or brainstorming session where a member shares ongoing research or new ideas.  
+GLE$^2$N meetings are open to all staff and students from UofG, UofE, and HW. From 2026, our online meetings will be organised into **thematic session series**. Each series focuses on a specific sub-topic over five months, with talks and paper discussions designed to be closely connected. The aim is to develop a shared understanding of the area through a small number of coherent, linked sessions.
 
-Each session includes a 10-minute break between parts, and all meetings are conducted online via Zoom.  
+Each series begins with a two-hour foundational lecture. Subsequent sessions consist of:
+
+**Reading group**: a discussion of a recent and relevant paper, led by one of our members.
+
+**Research talk**: a presentation or brainstorming session in which a member shares ongoing work or new ideas.
+
+The series concludes with an in-person wrap-up event. Further details are available under the Meetings tab.
+
 
 ---
 
@@ -64,6 +63,19 @@ Many Scottish place names, such as Glen Coe in the northern part of Argyll, trac
 <span style="background-color: #d1dce5;">**glen** /ɡlɛn/ *n.* A mountain-valley, usually narrow and forming the course of a stream</span>. *Source: [Oxford English Dictionary](https://doi.org/10.1093/OED/4864668552)*
 
 <img  src="img/three-sisters.JPG" title="Three sisters of Glencoe, photo taken by DCC" width="100%">
+
+---
+### Funding
+
+Activities of GLEN are funded by a variety of stakeholders, including Prob_AI, GAIL (Generative AI Lab—University of Edinburgh), and [Una Europa](https://www.una-europa.eu/).
+
+
+:::{.text-center}
+![](img/prob_AI-una_Europa.png){width=50%}
+:::
+
+
+---
 
 ### Contact
 

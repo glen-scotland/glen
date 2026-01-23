@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - meetings.qmd
       - reading-group.qmd
       - research-talk.qmd
       - people.qmd

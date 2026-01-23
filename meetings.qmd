@@ -1,0 +1,337 @@
+---
+title: "Meetings"
+---
+```{r setup, include=FALSE}
+library(knitr)
+library(kableExtra)
+library(dplyr)
+knitr::opts_chunk$set(
+  message = FALSE, 
+  warning = FALSE,
+  fig.align = "center",
+  cache = F
+)
+
+```
+<style>
+  table th, table td {
+    white-space: nowrap;
+  }
+  table th:nth-child(1), table td:nth-child(1) { width: 2cm; }
+  table th:nth-child(2), table td:nth-child(2) { width: 5cm; }
+  table th:nth-child(3), table td:nth-child(3) { width: 2cm; }
+  table th:nth-child(4), table td:nth-child(4) { width: 2cm; }
+  table th:nth-child(5), table td:nth-child(5) { width: 2cm; }
+</style>
+
+# Thematic sessions 2026-onwards
+From 2026, our online meetings will be organised into **thematic session series**. Each series will focus on a specific sub-topic over five months, with talks and paper discussions closely aligned. The aim is to build shared understanding through a small number of connected sessions.
+
+## Thematic session 1: Causality for Extremes
+Our first session will be a lecture delivered by Nicola Gnecco, setting the foundations for causal inference for extremes. We then have three talks covering the areas of discovery, estimation and attribution.
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 1: Lecture on Causality for Extremes by N. Gnecco
+
+**Summary**
+TBC
+ 
+Link to slides
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 2: Causal Discovery for Extremes
+
+## Talk
+**Title**
+
+**Summary**
+TBC
+ 
+Link to slides
+
+## Paper discussion
+**Title**
+
+Link to paper
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 3: Extreme Quantile Treatment Estimation
+
+## Talk
+**Title**
+
+**Summary**
+TBC
+ 
+Link to slides
+
+## Paper discussion
+**Title**
+
+Link to paper
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 4: Extreme Event Attribution
+
+## Talk
+**Title**
+
+**Summary**
+TBC
+ 
+Link to slides
+
+## Paper discussion
+**Title**
+
+Link to paper
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 5: Wrap up
+
+## Paper discussion
+**Title**
+
+Link to paper
+:::
+
+## Thematic session 2: genAI for Extremes
+
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 1: Lecture 
+
+**Summary**
+TBC
+ 
+Link to slides
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 2: 
+
+## Talk
+**Title**
+
+**Summary**
+TBC
+ 
+Link to slides
+
+## Paper discussion
+**Title**
+
+Link to paper
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 3: 
+
+## Talk
+**Title**
+
+**Summary**
+TBC
+ 
+Link to slides
+
+## Paper discussion
+**Title**
+
+Link to paper
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 4: 
+
+## Talk
+**Title**
+
+**Summary**
+TBC
+ 
+Link to slides
+
+## Paper discussion
+**Title**
+
+Link to paper
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 5: Wrap up
+
+## Paper discussion
+**Title**
+
+Link to paper
+:::
+
+# Reading group 2024-25
+
+<!-- Each GLE$^2$N meeting begins with a discussion of a recent piece of relevant literature. A lead discussant typically prepares slides summarising the article, which serve as the basis for the group discussion. To facilitate ongoing dialogue, the lead discussant also compiles a mock review document highlighting the key discussion points. The article, slides, and mock review document are provided below. All discussions take place online via Zoom. -->
+
+<!-- ## Reading list 📝 -->
+```{r, echo = F, eval=T}
+time = c('21/11/25<br>13:00-14:00',
+         '17/10/25<br>13:00-14:00',
+         '09/05/25<br>13:00-14:00',
+         '21/03/25<br>13:00-14:00',
+         '14/02/25<br>13:00-14:00',
+         '15/11/24<br>13:00-14:00<br>',
+         '18/10/24<br>13:00-14:00<br>')
+article = c(
+  'Tan, J., Blanchet, J., Syrgkanis, V.  (2025). <a href="https://drive.google.com/file/d/1hvHqd6tdL_5OtVvc9WWEmrgLACkO2qpE/view?usp=sharing" target="_blank">Estimation of Treatment Effects in Extreme <br>and Unobserved Data</a>, <em>Arxiv</em>',
+  'Zhong, P., Huser, R., and Opitz, T.  (2022). <a href="https://drive.google.com/file/d/18lSyHClVl0hYQHsA7oi-YkdEbRwXTBGX/view?usp=sharing" target="_blank">Modeling nonstationary temperature maxima <br>based on extremal dependence changing with event magnitude</a>, <em>The Annals of Applied <br>Statistics</em>, 16(1), 272-299.',
+  'Simpson, E.S., Opitz, T. and Wadsworth, J. (2023). <a href="https://drive.google.com/file/d/1WKfGOUn_z4rWUqUfBIsI5jtakE27QafR/view?usp=sharing" target="_blank">High-dimensional modeling of spatial <br>and spatio-temporal conditional extremes using INLA and Gaussian Markov random fields</a>, <br><em>Extremes</em>, 26, 669–713.',
+  'Gnecco, N., Merga, E. and Engelke, S. (2024). <a href="https://drive.google.com/file/d/1M2WjpOO0moccyxrLhs-Nq3y9_lkP8rgK/view?usp=sharing" target="_blank">Extremal Random Forests</a>. <em>Journal of the <br>American Statistical Association</em>, 119(548), pp.3059–3072, 82–95.',
+  'Huser, R. & Wadsworth, J. (2019). <a href="https://drive.google.com/file/d/1wj2v60i9AZSbmcMRIJ1C59dCxnHyTxlP/view?usp=sharing" target="_blank">Modeling Spatial Processes with Unknown Extremal<br>Dependence Class</a>, <em>Journal of the American Statistical Association</em>, 114(525), 434–444.',
+  'Li, R., Leng, C., & You, J. (2020). <a href="https://drive.google.com/file/d/1pnrSgfoF4xaHRdhWDoWHGL7OfRWrgyos/view?usp=sharing" target="_blank">Semiparametric Tail Index Regression</a>. <em>Journal of Business</em><br>&<em>Economic Statistics</em>, 40(1), 82–95.',
+  'Olafsdottir, H. K., Rootzén, H., & Bolin, D. (2021). <a href="https://drive.google.com/file/d/1SDMxewRKqTujifQkXDTLoerxDuoVDrPI/view?usp=sharing" target="_blank">Extreme rainfall events in the<br>Northeastern United States become more frequent with rising temperatures, but their<br>intensity distribution remains stable</a>. <em>Journal of Climate</em>, 34(22), 8863-8877.')
+
+discussant = c('Mengran Li',
+               'Xindi Song',
+               'Jordan Richards',
+               'Lambert de Monte',
+               'Chenglei Hu',
+               'Johnny Myung Won Lee',
+               'Daniela Castro-Camilo')
+
+slides = c('slides7',
+           '<a href="https://drive.google.com/file/d/1yz9synS7f0VxtZAsabBvK4DCc7Yf0rha/view?usp=sharing" target="_blank">slides6</a>',
+           
+          '<a href="https://drive.google.com/file/d/1VjneyqJiS9lypUEvpDMQbB7f5m_-nUZq/view?usp=sharing" target="_blank">slides5</a>',
+           
+           '<a href="https://drive.google.com/file/d/126cm-zddkkhYQI2VxEY8chhgFPnUKgVc/view?usp=sharing" target="_blank">slides3</a>',
+           
+           '<a href="https://drive.google.com/file/d/1qfLUutAMtiIglgiiLFpF1vdIhyiXdf2_/view?usp=drive_link" target="_blank">slides3</a>',
+           
+           '<a href="https://drive.google.com/file/d/1ziUE0SIHDDKG7yPHvJHgDI385KFOZMrW/view?usp=sharing" target="_blank">slides2</a>',
+           
+           '<a href="https://drive.google.com/file/d/1ilwjBS_KVJZxWJaiSYAFYU4_jJovFDEA/view?usp=sharing" target="_blank">slides1</a>')
+
+
+mocks = c('mockrev7',
+          '<a href="https://docs.google.com/document/d/1m7Mx0DLs6Ia4KVaVrgdALk9vFKcM0sV9mcD2DR12r7M/edit?usp=sharing" target="_blank">mockrev6</a>',
+          
+          '<a href="https://docs.google.com/document/d/1jYNIQZHeMUp0hqzG1psgOs8_ygmKMCeX/edit?usp=sharing&ouid=108410436800946826963&rtpof=true&sd=true" target="_blank">mockrev5</a>',
+          
+          '<a href="https://docs.google.com/document/d/1vvRICkxNVwKOq_GPV5l7Yu6z1W1McJzKPvQdjYP3WUQ/edit?usp=sharing" target="_blank">mockrev4</a>',
+          
+          '<a href="https://docs.google.com/document/d/1wEb9aU256I0UwVzR1TztJB2y0NINnlmBc11UtPP9pO8/edit?usp=sharing" target="_blank">mockrev3</a>',
+          
+          '<a href="https://docs.google.com/document/d/1W8JH74O6Slj3ciDQSUdS5nKQ87ZjdfEzcvzHFsSzU4o/edit?usp=sharing" target="_blank">mockrev2</a>',
+          
+          '<a href="https://docs.google.com/document/d/1biNc5KB6N8HhenZgOqCDYQBZvIHmNwtfTSOy65XojY0/edit?usp=sharing" target="_blank">mockrev1</a>')
+
+
+d = data.frame(time, article, discussant, slides, mocks)
+
+
+kbl(d, escape = F, col.names = c('Date and time', 'Article', 'Discussant', 'Slides', 'Mock reviews'), 
+    align = c('c','l','l','c','c')) %>%
+  kable_styling(htmltable_class = 'lightable-hover', full_width = T)
+
+
+```
+
+
+# Research talks 2024-25
+<!-- The second part of each GLE$^2$N meeting features a research talk, providing an opportunity for a member to showcase ongoing research or explore new ideas through group discussion. -->
+
+
+<!-- ## Talks  🗣️ -->
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Causal Spatial Quantile Regression by Yan Gong (MBZUAI)
+
+**Summary**
+Treatment effects in a wide range of economic, environmental, and epidemiological applications often vary across space, and understanding the heterogeneity of causal effects across space and outcome quantiles is a critical challenge in spatial causal inference. To effectively capture spatial heterogeneity in distributional treatment effects, we propose a novel semiparametric neural network-based causal framework leveraging deep spatial quantile regression and then construct a plug-in estimator for spatial quantile treatment effects (SQTE). This framework incorporates an efficient adjustment procedure to mitigate the impact of spatial hidden confounders. Extensive simulations across various scenarios demonstrate that our methodology can accurately estimate SQTE, even with the presence of spatial hidden confounders. Additionally, the spatial confounding adjustment procedure effectively reduces neighborhood spatial patterns in the residuals. We apply this method to assess the spatially varying quantile treatment effects of maternal smoking on newborn birth weight in North Carolina, United States. Our findings consistently show negative effects across all birth weight quantiles, with particularly severe impacts observed in the lower quantile regions.
+
+ 
+**Joint work with:**  R. Majumder, B. J. Reich, R. Huser
+
+
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/10/25</span>  Modelling non-stationary extremal dependence through a geometric approach by Callum Murphy-Barltrop (TU Dresden)
+
+**Summary**
+In many environmental and financial datasets, the relationships between extremes of multiple variables change over time — a phenomenon known as non-stationary, or time-varying, extremal dependence. The majority of multivariate extreme value models (MEVMs) fail to account for such trends, motivating the need for novel developments.
+
+Many recent MEVMs utilise the geometric extremes framework, whereby extremal dependence features are inferred from the limiting shapes of scaled sample clouds. Such approaches possess many attractive features; for example, they can capture a wide range of dependence structures and can be used to estimate many practically relevant quantities.
+
+In this work, we extend the geometric extremes framework to capture time-varying extremal dependence. Our proposed framework is more flexible compared to many existing non-stationary MVEMs and offers a wide variety of interesting use cases. Through rigorous simulation studies, we demonstrate that our proposed framework is both robust and accurate. To conclude, we apply our framework to return data from 'The Magnificent 7,' a group consisting of the world's largest technology companies.
+
+ 
+**Joint work with:** J. Wadsworth, M. de Carvalho, B. Youngman. 
+
+
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">21/03/25</span>  GPDFlow: Generative Multivariate Threshold Exceedance Modeling via Normalizing Flows by C. Hu (UofG)
+
+**Summary**
+The multivariate generalized Pareto distribution (mGPD) is a common method for modelling extreme threshold exceedance probabilities in environmental and financial risk management. Despite its broad applicability, mGPD faces challenges due to the infinite possible parametrizations of its dependence function, with only a few parametric models available in practice. To address this limitation, we introduce GPDFlow, an innovative mGPD model that leverages normalizing flows to flexibly represent the dependence structure. Unlike traditional parametric mGPD approaches, GPDFlow does not impose explicit parametric assumptions on dependence, resulting in greater flexibility and enhanced performance. Additionally, GPDFlow allows direct inference of marginal parameters, providing insights into marginal tail behaviour. We derive tail dependence coefficients for GPDFlow, including a bivariate formulation, a d-dimensional extension, and an alternative measure for partial exceedance dependence. A general relationship between the bivariate tail dependence coefficient and the generative samples from normalizing flows is discussed. Through simulations and a practical application analyzing the risk among five major US banks, we demonstrate that GPDFlow significantly improves modelling accuracy and flexibility compared to traditional parametric methods.
+
+ 
+**Joint work with:** Daniela Castro-Camilo (UofG). 
+
+
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">21/03/25</span> Data fusion and extremes: a match made in Bayesian heaven by D. Castro-Camilo (UofG)
+
+**Summary**
+Data fusion models are increasingly used to combine in situ and remote-sensing data, providing a more complete and temporally detailed picture of environmental conditions. However, traditional Gaussian-based models tend to underestimate extreme pollution events, which can lead to inaccurate risk assessments. To tackle this, we introduce a Bayesian hierarchical framework for data fusion grounded in extreme value theory. Our approach employs the Dirac-delta generalised Pareto distribution, allowing us to model both threshold and non-threshold exceedances while maintaining the temporal structure of extreme events. We apply this model to predict and describe censored threshold exceedances of PM2.5 pollution across Greater London, using remote sensing data from the EAC4 dataset (part of the Copernicus Atmospheric Monitoring Service) alongside in situ measurements from the UK's Automatic Urban and Rural Network (AURN). Key contributions of our approach lie in our model's ability to (1) preserve the temporal structure of both extreme and non-extreme events, (2) seamlessly integrate data with varying spatio-temporal resolutions while fully accounting for parameter uncertainties, and (3) generate a complete spatio-temporal dataset that calibrates remote-sensing observations to accurately capture local threshold exceedances, guided by in situ measurements. Our results demonstrate that the new approach outperforms both Gaussian-based models and standalone remote-sensing data, providing more accurate predictions of threshold exceedances. In fact, it reveals finer spatial patterns of PM2.5 pollution, such as higher concentrations near coastal areas, which were not captured by remote sensing data alone.
+
+ 
+**Joint work with:** M. Daniela Cuba (Agricarbon, UofG), Craig Wilkie (UofG) and Marian Scott (UofG). 
+
+
+:::
+
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">14/02/25</span> Radial generalized Pareto distributions for extreme multivariate risk by I. Papastathopoulos (UofE)
+
+**Summary**
+We introduce a novel class of multivariate distributions, termed radial generalized Pareto distributions, which emerge as non-degenerate limits of radially recentered and rescaled exceedances above direction-dependent thresholds. This framework leverages a novel convergence to Poisson point processes for multivariate extremes, providing an overarching stochastic foundation for constructing distributions that exhibit stability properties, enabling extrapolation of risk in any direction within multivariate spaces. Our framework naturally leads to the notion of quantile and return sets which closely parallel related notions of quantile regions that are based on optimal transport approaches, but also leads to isotropic return sets that are exceeded with equal probability along any direction.
+
+We develop a fully Bayesian inference framework for these multivariate distributions, utilising latent Gaussian processes. We also construct novel diagnostics for assessing the convergence to the limit distribution and validate our methods through simulations. Our methods are also applied to real-world data from hydrology and oceanography, demonstrating their broad applicability in risk analysis and their potential to inform decision-making in the presence of extreme events.
+
+ 
+**Joint work with:** Lambert De Monte (University of Edinburgh), Ryan Campbell (Lancaster University) and Haavard Rue (KAUST). 
+
+
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">15/11/25</span>  A Kolmogorov–Arnold Neural Model for Cascading Extremes by M. de Carvalho (UofE)
+
+**Summary**
+In this talk I will address the growing concern of cascading extreme events, such as a tsunami followed by an extreme earthquake, by presenting a novel method for risk assessment focused on these domino effects. The proposed method develops an extreme value theory framework within a Kolmogorov–Arnold Neural Network (KAN) to estimate the probability of one extreme event triggering another, as a function of a covariate or feature vector. Our approach is backed by exhaustive numerical studies and illustrated on a real-life application to seismology.
+ 
+**Joint work with:** C. Ferrer and R. Vallejos.
+
+**Slides:** [click here](https://drive.google.com/file/d/1LJpaUfIW2VKoZSTcaeCRYJ9n9bsdZeEg/view?usp=sharing)
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">18/10/24</span> A deep learning approach to modelling joint environmental extremes by J. Richards (UofE)
+
+**Summary**
+he geometric representation for multivariate extremes, where data is split into radial and angular components and the radial component is modelled conditionally on the angle, provides an exciting new approach to modelling environmental data. Through a consideration of scaled sample clouds and limit sets, it provides a flexible, semi-parametric model for extremes that connects multiple classical extremal dependence measures; these include the coefficients of tail dependence and asymptotic independence, and parameters of the conditional extremes framework. Although the geometric approach is becoming an increasingly popular modelling tool for environmental data, its inference is limited to a low dimensional setting (d ≤ 3). 
+ 
+We propose here the first deep representation for geometric extremes. By leveraging the predictive power and computational scalability of neural networks, we construct asymptotically-justified yet flexible semi-parametric models for extremal dependence of high-dimensional data. We showcase the efficacy of our deep approach by modelling the complex extremal dependence between metocean variables sampled from the North Sea.
+ 
+**Joint work with:** Callum JR Murphy-Barltrop and Reetam Majumder
+
+**Slides:** [click here](https://drive.google.com/file/d/1ssAh5rKhkt2KG2Wb0cwr2LU_q8GSSHVX/view?usp=sharing)
+:::
