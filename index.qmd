@@ -18,14 +18,6 @@ library(knitr)
 ## Next meeting
 
 February 2026. Exact day TBC. 13:00-15:00.
-
-### Google Calendar
-
-```{=html}
-<iframe src="https://calendar.google.com/calendar/embed?height=700&wkst=2&ctz=Europe%2FLondon&showPrint=0&showTz=0&showTitle=0&hl=en_GB&src=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t&color=%23039be5" style="border-width:0" width="215" height="500" frameborder="0" scrolling="no"></iframe>
-```
-
-Use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t) to have GLE$^2$N events automatically displayed in your calendar.
  
 ## Google Group
 
@@ -56,7 +48,13 @@ GLE$^2$N meetings are open to all staff and students from UofG, UofE, and HW. Me
 1. **Reading group:** A discussion of a recent piece of relevant literature, led by one of our members.  
 2. **Research talk:** A presentation or brainstorming session where a member shares ongoing research or new ideas.  
 
-Each session includes a 10-minute break between parts, and all meetings are conducted online via Zoom.  
+Each session includes a 10-minute break between parts, and all meetings are conducted online via Zoom.  Use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t) to have future GLE$^2$N events automatically displayed in your calendar.
+<!-- ### Google Calendar -->
+
+
+```{=html}
+<iframe src="https://calendar.google.com/calendar/embed?height=700&wkst=2&ctz=Europe%2FLondon&showPrint=0&showTz=0&showTitle=0&hl=en_GB&src=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t&color=%23039be5" style="border-width:0" width="740" height="350" frameborder="0" scrolling="no"></iframe>
+```
 
 ---
 
