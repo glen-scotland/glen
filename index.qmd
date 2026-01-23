@@ -2,7 +2,6 @@
 title: "GLE$^2$N"
 subtitle: "The Glasgow–Edinburgh Extremes Network"
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   message = FALSE, 
@@ -18,15 +17,7 @@ library(knitr)
 
 ## Next meeting
 
-Friday 27th February 2026, 13:00-15:00.
-
-### Google Calendar
-
-```{=html}
-<iframe src="https://calendar.google.com/calendar/embed?height=700&wkst=2&ctz=Europe%2FLondon&showPrint=0&showTz=0&showTitle=0&hl=en_GB&src=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t&color=%23039be5" style="border-width:0" width="215" height="500" frameborder="0" scrolling="no"></iframe>
-```
-
-Use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t) to have GLE$^2$N events automatically displayed in your calendar.
+February 2026. Exact day TBC. 13:00-15:00.
  
 ## Google Group
 
@@ -43,20 +34,27 @@ GLE$^2$N brings together early-career and established researchers from UofG, Uof
 - To promote knowledge sharing within the community.  
 - To support early-career researchers through networking and collaboration opportunities.  
 
+Activities of GLEN are funded by a variety of stakeholders, including Prob_AI, GAIL (Generative AI Lab—University of Edinburgh), and [Una Europa](https://www.una-europa.eu/).
+
+
+:::{.text-center}
+![](img/prob_AI-una_Europa.png){width=50%}
+:::
 
 ---
 
 ### Meetings
-GLE$^2$N meetings are open to all staff and students from UofG, UofE, and HW. From 2026, our online meetings will be organised into **thematic session series**. Each series focuses on a specific sub-topic over five months, with talks and paper discussions designed to be closely connected. The aim is to develop a shared understanding of the area through a small number of coherent, linked sessions.
+GLE$^2$N meetings are open to all staff and students from UofG, UofE, and HW. Meetings are held monthly and follow a two-hour format:  
+1. **Reading group:** A discussion of a recent piece of relevant literature, led by one of our members.  
+2. **Research talk:** A presentation or brainstorming session where a member shares ongoing research or new ideas.  
 
-Each series begins with a two-hour foundational lecture. Subsequent sessions consist of:
+Each session includes a 10-minute break between parts, and all meetings are conducted online via Zoom.  Use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t) to have future GLE$^2$N events automatically displayed in your calendar.
+<!-- ### Google Calendar -->
 
-**Reading group**: a discussion of a recent and relevant paper, led by one of our members.
 
-**Research talk**: a presentation or brainstorming session in which a member shares ongoing work or new ideas.
-
-The series concludes with an in-person wrap-up event. Further details are available under the Meetings tab.
-
+```{=html}
+<iframe src="https://calendar.google.com/calendar/embed?height=700&wkst=2&ctz=Europe%2FLondon&showPrint=0&showTz=0&showTitle=0&hl=en_GB&src=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t&color=%23039be5" style="border-width:0" width="740" height="350" frameborder="0" scrolling="no"></iframe>
+```
 
 ---
 
@@ -68,20 +66,6 @@ Many Scottish place names, such as Glen Coe in the northern part of Argyll, trac
 <span style="background-color: #d1dce5;">**glen** /ɡlɛn/ *n.* A mountain-valley, usually narrow and forming the course of a stream</span>. *Source: [Oxford English Dictionary](https://doi.org/10.1093/OED/4864668552)*
 
 <img  src="img/three-sisters.JPG" title="Three sisters of Glencoe, photo taken by DCC" width="100%">
-
----
-
-### Funding
-
-Activities of GLEN are funded by a variety of stakeholders, including Prob_AI, GAIL (Generative AI Lab—University of Edinburgh), and [Una Europa](https://www.una-europa.eu/).
-
-
-:::{.text-center}
-![](img/prob_AI-una_Europa.png){width=50%}
-:::
-
-
----
 
 ### Contact
 
