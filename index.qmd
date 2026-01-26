@@ -34,12 +34,6 @@ GLE$^2$N brings together early-career and established researchers from UofG, Uof
 - To promote knowledge sharing within the community.  
 - To support early-career researchers through networking and collaboration opportunities.  
 
-Activities of GLEN are funded by a variety of stakeholders, including Prob_AI, GAIL (Generative AI Lab—University of Edinburgh), and [Una Europa](https://www.una-europa.eu/).
-
-
-:::{.text-center}
-![](img/prob_AI-una_Europa.png){width=50%}
-:::
 
 ---
 
@@ -66,6 +60,18 @@ Many Scottish place names, such as Glen Coe in the northern part of Argyll, trac
 <span style="background-color: #d1dce5;">**glen** /ɡlɛn/ *n.* A mountain-valley, usually narrow and forming the course of a stream</span>. *Source: [Oxford English Dictionary](https://doi.org/10.1093/OED/4864668552)*
 
 <img  src="img/three-sisters.JPG" title="Three sisters of Glencoe, photo taken by DCC" width="100%">
+
+---
+
+### Funding
+
+Activities of GLEN are funded by a variety of stakeholders, including Prob_AI, GAIL (Generative AI Lab—University of Edinburgh), and [Una Europa](https://www.una-europa.eu/).
+
+
+:::{.text-center}
+![](img/prob_AI-una_Europa.png){width=50%}
+:::
+
 
 ### Contact
 
