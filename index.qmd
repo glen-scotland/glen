@@ -2,6 +2,7 @@
 title: "GLE$^2$N"
 subtitle: "The Glasgow–Edinburgh Extremes Network"
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   message = FALSE, 
@@ -65,6 +66,7 @@ Many Scottish place names, such as Glen Coe in the northern part of Argyll, trac
 <img  src="img/three-sisters.JPG" title="Three sisters of Glencoe, photo taken by DCC" width="100%">
 
 ---
+
 ### Funding
 
 Activities of GLEN are funded by a variety of stakeholders, including Prob_AI, GAIL (Generative AI Lab—University of Edinburgh), and [Una Europa](https://www.una-europa.eu/).
