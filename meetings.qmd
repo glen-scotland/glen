@@ -31,7 +31,7 @@ From 2026, our online meetings will be organised into **thematic session series*
 Our first session will be a lecture delivered by Nicola Gnecco, setting the foundations for causal inference for extremes. We then have three talks covering the areas of discovery, estimation and attribution.
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 1: Lecture on Causality for Extremes by N. Gnecco
+# <span style="color: rgb(25,188,156)">27/02/26</span>  Session 1: Lecture on Causality for Extremes by N. Gnecco
 
 **Summary**
 TBC
@@ -40,7 +40,7 @@ Link to slides
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 2: Causal Discovery for Extremes
+# <span style="color: rgb(25,188,156)">March 26</span>  Session 2: Causal Discovery for Extremes
 
 ## Talk
 **Title**
@@ -57,7 +57,7 @@ Link to paper
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 3: Extreme Quantile Treatment Estimation
+# <span style="color: rgb(25,188,156)">April 26</span>  Session 3: Extreme Quantile Treatment Estimation
 
 ## Talk
 **Title**
@@ -74,7 +74,7 @@ Link to paper
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 4: Extreme Event Attribution
+# <span style="color: rgb(25,188,156)">May 26</span>  Session 4: Extreme Event Attribution
 
 ## Talk
 **Title**
@@ -91,7 +91,7 @@ Link to paper
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 5: Wrap up
+# <span style="color: rgb(25,188,156)">June 26</span>  Session 5: Wrap up
 
 ## Paper discussion
 **Title**
@@ -102,74 +102,74 @@ Link to paper
 ## Thematic session 2: genAI for Extremes
 
 
-::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 1: Lecture 
+<!-- ::: {.callout-tip collapse="true" appearance="simple" icon=false} -->
+<!-- # <span style="color: rgb(25,188,156)">17/10/25</span>  Session 1: Lecture  -->
 
-**Summary**
-TBC
- 
-Link to slides
-:::
+<!-- **Summary** -->
+<!-- TBC -->
 
-::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 2: 
+<!-- Link to slides -->
+<!-- ::: -->
 
-## Talk
-**Title**
+<!-- ::: {.callout-tip collapse="true" appearance="simple" icon=false} -->
+<!-- # <span style="color: rgb(25,188,156)">17/10/25</span>  Session 2:  -->
 
-**Summary**
-TBC
- 
-Link to slides
+<!-- ## Talk -->
+<!-- **Title** -->
 
-## Paper discussion
-**Title**
+<!-- **Summary** -->
+<!-- TBC -->
 
-Link to paper
-:::
+<!-- Link to slides -->
 
-::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 3: 
+<!-- ## Paper discussion -->
+<!-- **Title** -->
 
-## Talk
-**Title**
+<!-- Link to paper -->
+<!-- ::: -->
 
-**Summary**
-TBC
- 
-Link to slides
+<!-- ::: {.callout-tip collapse="true" appearance="simple" icon=false} -->
+<!-- # <span style="color: rgb(25,188,156)">17/10/25</span>  Session 3:  -->
 
-## Paper discussion
-**Title**
+<!-- ## Talk -->
+<!-- **Title** -->
 
-Link to paper
-:::
+<!-- **Summary** -->
+<!-- TBC -->
 
-::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 4: 
+<!-- Link to slides -->
 
-## Talk
-**Title**
+<!-- ## Paper discussion -->
+<!-- **Title** -->
 
-**Summary**
-TBC
- 
-Link to slides
+<!-- Link to paper -->
+<!-- ::: -->
 
-## Paper discussion
-**Title**
+<!-- ::: {.callout-tip collapse="true" appearance="simple" icon=false} -->
+<!-- # <span style="color: rgb(25,188,156)">17/10/25</span>  Session 4:  -->
 
-Link to paper
-:::
+<!-- ## Talk -->
+<!-- **Title** -->
 
-::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/10/25</span>  Session 5: Wrap up
+<!-- **Summary** -->
+<!-- TBC -->
 
-## Paper discussion
-**Title**
+<!-- Link to slides -->
 
-Link to paper
-:::
+<!-- ## Paper discussion -->
+<!-- **Title** -->
+
+<!-- Link to paper -->
+<!-- ::: -->
+
+<!-- ::: {.callout-tip collapse="true" appearance="simple" icon=false} -->
+<!-- # <span style="color: rgb(25,188,156)">17/10/25</span>  Session 5: Wrap up -->
+
+<!-- ## Paper discussion -->
+<!-- **Title** -->
+
+<!-- Link to paper -->
+<!-- ::: -->
 
 # Reading group 2024-25
 

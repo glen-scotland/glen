@@ -17,7 +17,7 @@ library(knitr)
 
 ## Next meeting
 
-February 2026. Exact day TBC. 13:00-15:00.
+27th February 2026, 13:00-15:00.
  
 ## Google Group
 
@@ -38,11 +38,18 @@ GLE$^2$N brings together early-career and established researchers from UofG, Uof
 ---
 
 ### Meetings
-GLE$^2$N meetings are open to all staff and students from UofG, UofE, and HW. Meetings are held monthly and follow a two-hour format:  
-1. **Reading group:** A discussion of a recent piece of relevant literature, led by one of our members.  
-2. **Research talk:** A presentation or brainstorming session where a member shares ongoing research or new ideas.  
+GLE$^2$N meetings are open to all staff and students from the University of Glasgow, the University of Edinburgh, and Heriot-Watt University.
 
-Each session includes a 10-minute break between parts, and all meetings are conducted online via Zoom.  Use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t) to have future GLE$^2$N events automatically displayed in your calendar.
+From 2026 onwards, our monthly online meetings will be organised into **thematic session series**. Each series will focus on a specific sub-topic over a five-month period, with talks and paper discussions closely coordinated. The aim is to build shared understanding through a small number of connected, in-depth sessions.
+
+Each thematic series will begin with a two-hour foundational lecture introducing the key concepts. Subsequent meetings will follow a consistent format:
+
+1. **Reading group:** A discussion of a recent and relevant paper, led by one of our members.  
+2. **Research talk:** A presentation or informal brainstorming session where a member shares ongoing work or new ideas.  
+
+Each meeting includes a 10-minute break between the two parts and is held online via Zoom. We anticipate that the final meeting of each thematic series will be held in person.
+
+You can use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t) to have future GLE$^2$N events automatically added to your calendar.
 <!-- ### Google Calendar -->
 
 
