@@ -1,0 +1,9 @@
+---
+title: "Resources"
+---
+
+* [CIRCE](https://circe-site.github.io/site/), a sister network on extremes
+* [EVA 2027 conference](https://hecsciencesdecision.github.io/eva2027/) in Montreal, Canada, 5-9 July
+* [EVAN 2026 conference](https://evan2026.weebly.com/) in Delft, The Netherlands, 21-23 July
+* [Extremes journal](https://link.springer.com/journal/10687)
+* [One World Extreme Extremes seminars](https://sites.google.com/view/ow-extremes/)

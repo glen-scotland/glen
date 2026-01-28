@@ -33,8 +33,11 @@ Our first session will be a lecture delivered by Nicola Gnecco, setting the foun
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
 # <span style="color: rgb(25,188,156)">27/02/26</span>  Session 1: Lecture on Causality for Extremes by N. Gnecco
 
+**Title:** Causal inference in extremes
+
 **Summary**
-TBC
+
+This lecture introduces fundamental concepts in causal inference and its interface with extreme value theory. We will cover core notions such as directed graphs, structural equation models, and interventions, and discuss how these tools can be used to identify and estimate causal structure from observational data. In the final part of the lecture, we will review recent advances at the intersection of causal inference and extreme value theory, for both i.i.d. and time-series settings.
  
 Link to slides
 :::

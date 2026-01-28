@@ -14,6 +14,7 @@ website:
       - people.qmd
       - events.qmd
       - news.qmd
+      - resources.qmd
       - workshop.qmd
   page-footer:
     left: "&copy; Copyright 2025, DCC"
