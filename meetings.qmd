@@ -31,22 +31,70 @@ From 2026, our online meetings will be organised into **thematic session series*
 Our first session will be a lecture delivered by Nicola Gnecco, setting the foundations for causal inference for extremes. We then have three talks covering the areas of discovery, estimation and attribution.
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">27/02/26</span>  Session 1: Lecture on Causality for Extremes by N. Gnecco
+# <span style="color: rgb(25,188,156)">27/02/26 13:00-15:00</span>  Session 1: Lecture on Causality for Extremes
+
+**Speaker:** [Nicola Gnecco](https://www.ngnecco.com/)
 
 **Title:** Causal inference in extremes
 
-**Summary**
-
+**Summary. **
 This lecture introduces fundamental concepts in causal inference and its interface with extreme value theory. We will cover core notions such as directed graphs, structural equation models, and interventions, and discuss how these tools can be used to identify and estimate causal structure from observational data. In the final part of the lecture, we will review recent advances at the intersection of causal inference and extreme value theory, for both i.i.d. and time-series settings.
  
-Link to slides
+<!-- Link to slides -->
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">March 26</span>  Session 2: Causal Discovery for Extremes
+# <span style="color: rgb(25,188,156)">27/03/26 13:00-15:00</span>  Session 2: Causal Discovery for Extremes
 
 ## Talk
-**Title**
+**Speaker:** [L. Mhalla](https://lindamhalla.netlify.app/)
+
+**Title:**
+TBC
+
+**Summary**
+TBC
+ 
+<!-- Link to slides -->
+
+## Paper discussion
+**Reference:** Jiang, J., Richards, J., Huser, R., & Bolin, D. (2025). [Separation-based causal discovery for extremes](https://drive.google.com/file/d/1kThOmSl_RthhnuH2uHt-_wHndAXHr0ZR/view?usp=drive_link). *arXiv preprint arXiv:2505.08008*.
+
+**Discussant:**
+TBC
+
+**Link to slides:**
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">17/04/26 10:00-12:00</span>  Session 3: Extreme Quantile Treatment Estimation
+
+## Talk
+**Speaker:** [W. Huang](https://sites.google.com/view/w-huang/home)
+
+**Title: ** Estimation and Inference for Extreme Continuous Treatment Effects
+
+**Summary. **
+Understanding the causal effect of a treatment is of great interest to both natural and social sciences. Many applications call for attention to individuals situated in the deep tails of the outcome distribution, i.e., the extreme events. We study estimation and inference for the treatment effect for extreme cases in deep tails of the potential outcome distributions. We consider two measures for the tail characteristics: the quantile function and the tail mean function defined as the conditional mean beyond a quantile level. Then, for a quantile level close to 1, we define the extreme quantile treatment effect (EQTE) and extreme average treatment effect (EATE), which are, respectively, the ratios of the quantile and tail mean at different treatment statuses. We propose estimators for the EQTE and EATE based on tail approximations from the extreme value theory. Our limiting theory is for the EQTE and EATE processes indexed by a set of quantile levels and pairs of different treatment statuses. It facilitates uniform inference for the EQTE and EATE over multiple tail levels and multiple pairs of treatments. Simulations suggest that our method works well in finite samples, and an empirical study illustrates its practical merits.
+ 
+<!-- Link to slides -->
+
+## Paper discussion
+**Reference: ** Deuber, D., Li, J., Engelke, S., & Maathuis, M. H. (2024). [Estimation and inference of extremal quantile treatment effects for heavy-tailed distributions](https://drive.google.com/file/d/1rh56dne65bUFi9RvLx0bRFcNVEmtC-9i/view?usp=drive_link). *Journal of the American Statistical Association*, 119(547), 2206-2216.
+
+**Discussants:**
+Daniela Castro-Camilo and Mengran Li
+
+**Link to slides:**
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">TBC </span>  Session 4: Extreme Event Attribution
+
+## Talk
+**Speaker:** [P. Naveau](https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/)
+
+**Title: **
 
 **Summary**
 TBC
@@ -54,52 +102,29 @@ TBC
 Link to slides
 
 ## Paper discussion
-**Title**
+**Reference** Wang, Z., Jiang, Y., Wan, H., Yan, J., & Zhang, X. (2021). [Toward optimal fingerprinting in detection and attribution of changes in climate extremes](https://drive.google.com/file/d/1GzwwOgQlt-WDqk_bVdECNn0vkAazjDGm/view?usp=drive_link). *Journal of the American Statistical Association*, 116(533), 1-13.
 
-Link to paper
+**Discussant:**
+Mengran Li
+
+**Link to slides:**
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">April 26</span>  Session 3: Extreme Quantile Treatment Estimation
-
-## Talk
-**Title**
-
-**Summary**
-TBC
- 
-Link to slides
+# <span style="color: rgb(25,188,156)">10/06/26 13:00-15:00</span>  Session 5: Revision lecture + wrap up
 
 ## Paper discussion
-**Title**
+**Reference: ** Chavez-Demoulin, V., & Mhalla, L. (2024). [Causality and extremes](https://drive.google.com/file/d/1yo9j8kbAtuzmX2Qo8jQx4kZfKukwFHPh/view?usp=drive_link). arXiv preprint arXiv:2403.05331.
 
-Link to paper
-:::
+**Discussant:**
+Daniela Castro-Camilo
 
-::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">May 26</span>  Session 4: Extreme Event Attribution
+**Link to slides:**
 
-## Talk
-**Title**
+## Brainstorming session
+The aim is to reflect on and synthesise what we have learned over the past five months, identifying key challenges, gaps, and emerging opportunities.
 
-**Summary**
-TBC
- 
-Link to slides
-
-## Paper discussion
-**Title**
-
-Link to paper
-:::
-
-::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">June 26</span>  Session 5: Wrap up
-
-## Paper discussion
-**Title**
-
-Link to paper
+<!-- Link to paper -->
 :::
 
 ## Thematic session 2: genAI for Extremes
