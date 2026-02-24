@@ -58,12 +58,13 @@ TBC
 <!-- Link to slides -->
 
 ## Paper discussion
-**Reference:** Jiang, J., Richards, J., Huser, R., & Bolin, D. (2025). [Separation-based causal discovery for extremes](https://drive.google.com/file/d/1kThOmSl_RthhnuH2uHt-_wHndAXHr0ZR/view?usp=drive_link). *arXiv preprint arXiv:2505.08008*.
+**Reference:** 
+<!-- Jiang, J., Richards, J., Huser, R., & Bolin, D. (2025). [Separation-based causal discovery for extremes](https://drive.google.com/file/d/1kThOmSl_RthhnuH2uHt-_wHndAXHr0ZR/view?usp=drive_link). *arXiv preprint arXiv:2505.08008*. -->
 
 **Discussant:**
 TBC
 
-**Link to slides:**
+<!-- **Link to slides:** -->
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
@@ -85,7 +86,7 @@ Understanding the causal effect of a treatment is of great interest to both natu
 **Discussants:**
 Daniela Castro-Camilo and Mengran Li
 
-**Link to slides:**
+<!-- **Link to slides:** -->
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
@@ -99,7 +100,7 @@ Daniela Castro-Camilo and Mengran Li
 **Summary**
 TBC
  
-Link to slides
+<!-- Link to slides -->
 
 ## Paper discussion
 **Reference** Wang, Z., Jiang, Y., Wan, H., Yan, J., & Zhang, X. (2021). [Toward optimal fingerprinting in detection and attribution of changes in climate extremes](https://drive.google.com/file/d/1GzwwOgQlt-WDqk_bVdECNn0vkAazjDGm/view?usp=drive_link). *Journal of the American Statistical Association*, 116(533), 1-13.
@@ -107,11 +108,11 @@ Link to slides
 **Discussant:**
 Mengran Li
 
-**Link to slides:**
+<!-- **Link to slides:** -->
 :::
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">10/06/26 13:00-15:00</span>  Session 5: Revision lecture + wrap up
+# <span style="color: rgb(25,188,156)">26/06/26 13:00-15:00</span>  Session 5: Revision lecture + wrap up (in person)
 
 ## Paper discussion
 **Reference: ** Chavez-Demoulin, V., & Mhalla, L. (2024). [Causality and extremes](https://drive.google.com/file/d/1yo9j8kbAtuzmX2Qo8jQx4kZfKukwFHPh/view?usp=drive_link). arXiv preprint arXiv:2403.05331.
@@ -119,7 +120,7 @@ Mengran Li
 **Discussant:**
 Daniela Castro-Camilo
 
-**Link to slides:**
+<!-- **Link to slides:** -->
 
 ## Brainstorming session
 The aim is to reflect on and synthesise what we have learned over the past five months, identifying key challenges, gaps, and emerging opportunities.
