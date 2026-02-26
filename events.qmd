@@ -1,7 +1,47 @@
 ---
 title: "Related Events"
 ---
+## <span style="background-color: #d1dce5;">March 2026</span>
 
+### Edinburgh Futures Institute
+
+Two exciting events at the Edinburgh Futures Institute.
+
+#### 1. Modelling the Unprecedented: Insurance Resilience in an Era of Extreme Climate Events
+
+**Day and time**:  Wednesday 4th March, 13:30pm to 17.30am
+
+**Location**: Room 2.55, Edinburgh Futures Institute, Edinburgh
+
+Discover how cutting-edge research in climate modelling, extreme value theory, and uncertainty quantification can enhance catastrophe models
+
+🌍 Facing the Future:
+
+The world is witnessing a dramatic surge in the frequency and severity of extreme weather events, challenging risk assessment and capital management across the insurance industry. How can the development and use of established catastrophe models benefit from current research advances in areas of extreme value theory, uncertainty quantification and climate modelling?
+
+🔍 Explore Key Areas:
+
+Bridging the Model Gap: Uncover advancements in climate science, statistics, AI, and data analytics to refine models.
+The Challenge of Insurability: Engage in lively discussions on current model limitations.
+Fostering Resilience: Network and share knowledge to improve risk transfer, capital efficiency, and societal resilience
+You will hear from industry professionals and academics from a wide range of disciplines on their current successes and challenges in this topic and will have the opportunity to ask questions and become part of the discussion.
+
+The session will be followed by an informal reception with the opportunity to network and encourage collaboration.
+
+[Eventbrite Registration](https://www.eventbrite.co.uk/e/modelling-the-unprecedented-tickets-1981761209124?aff=oddtdtcreator)
+
+#### 2. Generative Cascades of Multivariate Extremes
+
+**Day and time**:  Tuesday 10th March, 10am to 11.30am
+
+**Location**: Room 3.43, Edinburgh Futures Institute, Edinburgh
+
+
+
+**Abstract** 
+Abstract: In this talk, I first motivate the notion of cascades of extremes—as recently introduced by de Carvalho, Ferrer & Vallejos (2026, Extremes)—such as a tsunami followed by an earthquake or a cascade of stock market losses; a neural model will be used to discuss and illustrate the main concepts and ideas. I then argue that the sequential nature of cascading extremes makes them particularly appealing for the setting of generative extremes, and introduce an generative framework grounded on extreme value theory that synthesizes cascades through causal attention. Within this framework, a causal transformer maps the history of extremes into a latent state that governs direction, magnitude, and inter-event timing. Simulated and real data examples will be used to illustrate the scope of the proposed approaches.
+
+[Eventbrite Registration](https://www.eventbrite.co.uk/e/working-seminar-generative-cascades-of-multivariate-extremes-tickets-1983541267326?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
 
 ## <span style="background-color: #d1dce5;">September 2025</span>
 
