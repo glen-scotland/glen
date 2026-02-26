@@ -2,6 +2,19 @@
 title: "Related Events"
 ---
 
+## <span style="background-color: #d1dce5;">September 2026</span>
+
+### 📌 Summer School on Generative AI for Extremes
+
+An intensive training event aimed at PhD students and early-career researchers will take place at the University of Edinburgh, 8-11 September. [More information here](https://gamex-network.github.io/school/)
+
+
+## <span style="background-color: #d1dce5;">June 2026</span>
+
+### 📌 GAME 2026
+
+The second workshop on generative AI modelling for extreme events will take place at the University of Bologna, 11-12 June. [More information here](https://gamex-network.github.io/workshop/)
+
 
 ## <span style="background-color: #d1dce5;">September 2025</span>
 

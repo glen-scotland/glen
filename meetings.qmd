@@ -27,6 +27,7 @@ knitr::opts_chunk$set(
 # Thematic sessions 2026-onwards
 From 2026, our online meetings will be organised into **thematic session series**. Each series will focus on a specific sub-topic over five months, with talks and paper discussions closely aligned. The aim is to build shared understanding through a small number of connected sessions.
 
+<!-- ================================================================================================================== -->
 ## Thematic session 1: Causality for Extremes
 Our first session will be a lecture delivered by Nicola Gnecco, setting the foundations for causal inference for extremes. We then have three talks covering the areas of discovery, estimation and attribution.
 
@@ -43,10 +44,22 @@ This lecture introduces fundamental concepts in causal inference and its interfa
 <!-- Link to slides -->
 :::
 
+<!-- ================================================================================================================== -->
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
 # <span style="color: rgb(25,188,156)">27/03/26 13:00-15:00</span>  Session 2: Causal Discovery for Extremes
 
-## Talk
+## [13:00-14:00] Paper discussion
+**Reference:** 
+Krali, M. (2025). [Causal discovery in heavy‐tailed linear structural equation models via scalings](https://drive.google.com/file/d/1v-aS20cgmaSZJ18uFS2jr8zJxyNsFu6M/view?usp=sharing). *Scandinavian Journal of Statistics*, 53(1), 291–334.
+
+<!-- Jiang, J., Richards, J., Huser, R., & Bolin, D. (2025). [Separation-based causal discovery for extremes](https://drive.google.com/file/d/1kThOmSl_RthhnuH2uHt-_wHndAXHr0ZR/view?usp=drive_link). *arXiv preprint arXiv:2505.08008*. -->
+
+**Discussant:**
+Mengran Li
+
+**Slides:** *to be available after the discussion*
+
+## [14:00-15:00] Talk
 **Speaker:** [L. Mhalla](https://lindamhalla.netlify.app/)
 
 **Title:**
@@ -56,21 +69,21 @@ TBC
 TBC
  
 <!-- Link to slides -->
-
-## Paper discussion
-**Reference:** 
-<!-- Jiang, J., Richards, J., Huser, R., & Bolin, D. (2025). [Separation-based causal discovery for extremes](https://drive.google.com/file/d/1kThOmSl_RthhnuH2uHt-_wHndAXHr0ZR/view?usp=drive_link). *arXiv preprint arXiv:2505.08008*. -->
-
-**Discussant:**
-TBC
-
-<!-- **Link to slides:** -->
 :::
 
+<!-- ================================================================================================================== -->
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
 # <span style="color: rgb(25,188,156)">17/04/26 10:00-12:00</span>  Session 3: Extreme Quantile Treatment Estimation
 
-## Talk
+## [13:00-14:00] Paper discussion
+**Reference: ** Deuber, D., Li, J., Engelke, S., & Maathuis, M. H. (2024). [Estimation and inference of extremal quantile treatment effects for heavy-tailed distributions](https://drive.google.com/file/d/1rh56dne65bUFi9RvLx0bRFcNVEmtC-9i/view?usp=drive_link). *Journal of the American Statistical Association*, 119(547), 2206-2216.
+
+**Discussants:**
+TBC
+
+**Slides:** *to be available after the discussion*
+
+## [14:00-15:00] Talk
 **Speaker:** [W. Huang](https://sites.google.com/view/w-huang/home)
 
 **Title: ** Estimation and Inference for Extreme Continuous Treatment Effects
@@ -80,19 +93,26 @@ Understanding the causal effect of a treatment is of great interest to both natu
  
 <!-- Link to slides -->
 
-## Paper discussion
-**Reference: ** Deuber, D., Li, J., Engelke, S., & Maathuis, M. H. (2024). [Estimation and inference of extremal quantile treatment effects for heavy-tailed distributions](https://drive.google.com/file/d/1rh56dne65bUFi9RvLx0bRFcNVEmtC-9i/view?usp=drive_link). *Journal of the American Statistical Association*, 119(547), 2206-2216.
 
-**Discussants:**
-Daniela Castro-Camilo and Mengran Li
 
 <!-- **Link to slides:** -->
 :::
 
+<!-- ================================================================================================================== -->
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
 # <span style="color: rgb(25,188,156)">TBC </span>  Session 4: Extreme Event Attribution
 
-## Talk
+
+
+## [13:00-14:00] Paper discussion
+**Reference** Wang, Z., Jiang, Y., Wan, H., Yan, J., & Zhang, X. (2021). [Toward optimal fingerprinting in detection and attribution of changes in climate extremes](https://drive.google.com/file/d/1GzwwOgQlt-WDqk_bVdECNn0vkAazjDGm/view?usp=drive_link). *Journal of the American Statistical Association*, 116(533), 1-13.
+
+**Discussant:**
+Mengran Li
+
+**Slides:** *to be available after the discussion*
+
+## [14:00-15:00] Talk
 **Speaker:** [P. Naveau](https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/)
 
 **Title: **
@@ -102,27 +122,24 @@ TBC
  
 <!-- Link to slides -->
 
-## Paper discussion
-**Reference** Wang, Z., Jiang, Y., Wan, H., Yan, J., & Zhang, X. (2021). [Toward optimal fingerprinting in detection and attribution of changes in climate extremes](https://drive.google.com/file/d/1GzwwOgQlt-WDqk_bVdECNn0vkAazjDGm/view?usp=drive_link). *Journal of the American Statistical Association*, 116(533), 1-13.
-
-**Discussant:**
-Mengran Li
-
 <!-- **Link to slides:** -->
 :::
 
+<!-- ================================================================================================================== -->
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
 # <span style="color: rgb(25,188,156)">26/06/26 13:00-15:00</span>  Session 5: Revision lecture + wrap up (in person)
 
-## Paper discussion
+## [13:00-14:00] Paper discussion
 **Reference: ** Chavez-Demoulin, V., & Mhalla, L. (2024). [Causality and extremes](https://drive.google.com/file/d/1yo9j8kbAtuzmX2Qo8jQx4kZfKukwFHPh/view?usp=drive_link). arXiv preprint arXiv:2403.05331.
 
 **Discussant:**
 Daniela Castro-Camilo
 
+**Slides:** *to be available after the discussion*
+
 <!-- **Link to slides:** -->
 
-## Brainstorming session
+## [14:00-15:00] Brainstorming session
 The aim is to reflect on and synthesise what we have learned over the past five months, identifying key challenges, gaps, and emerging opportunities.
 
 <!-- Link to paper -->
