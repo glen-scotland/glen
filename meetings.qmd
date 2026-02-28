@@ -41,7 +41,7 @@ Our first session will be a lecture delivered by Nicola Gnecco, setting the foun
 **Summary. **
 This lecture introduces fundamental concepts in causal inference and its interface with extreme value theory. We will cover core notions such as directed graphs, structural equation models, and interventions, and discuss how these tools can be used to identify and estimate causal structure from observational data. In the final part of the lecture, we will review recent advances at the intersection of causal inference and extreme value theory, for both i.i.d. and time-series settings.
  
-**Slides:** you can find the slides [here](https://drive.google.com/file/d/1ISm7zLT1mcKiK5NFtgRHJDwf0wHUVRAb/view?usp=drive_link)
+**Slides:** you can find the [original slides here](https://drive.google.com/file/d/1ISm7zLT1mcKiK5NFtgRHJDwf0wHUVRAb/view?usp=sharing) and the [annotated slides here](https://drive.google.com/file/d/1nVgpRjbM846IAUzHPicPVXBNdh5GZrdD/view?usp=sharing)
 <!-- Link to slides -->
 :::
 
