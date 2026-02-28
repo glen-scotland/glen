@@ -1,6 +1,13 @@
 ---
 title: "News"
 ---
+
+## <span style="background-color: #d1dce5;">February 2026</span>
+
+### 📌 Seminars with CIRCE
+
+We are excited to share that we are joining forces with [CIRCE](https://circe-site.github.io/site/), the Community of Italian Researchers Connecting on Extreme Value Statistics. From April onwards, we will be launching a series of international joint seminars, bringing our communities together around cutting-edge developments in extreme value statistics.
+
 ## <span style="background-color: #d1dce5;">December 2025</span>
 
 ### 📌 GLE$^2$N's first workshop

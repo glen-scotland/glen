@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - meetings.qmd
+      - seminars.qmd
       # - reading-group.qmd
       # - research-talk.qmd
       - people.qmd

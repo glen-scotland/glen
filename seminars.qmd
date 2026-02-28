@@ -1,0 +1,42 @@
+---
+title: "Seminars with CIRCE"
+---
+```{r setup, include=FALSE}
+library(knitr)
+library(kableExtra)
+library(dplyr)
+knitr::opts_chunk$set(
+  message = FALSE, 
+  warning = FALSE,
+  fig.align = "center",
+  cache = F
+)
+
+```
+<style>
+  table th, table td {
+    white-space: nowrap;
+  }
+  table th:nth-child(1), table td:nth-child(1) { width: 2cm; }
+  table th:nth-child(2), table td:nth-child(2) { width: 5cm; }
+  table th:nth-child(3), table td:nth-child(3) { width: 2cm; }
+  table th:nth-child(4), table td:nth-child(4) { width: 2cm; }
+  table th:nth-child(5), table td:nth-child(5) { width: 2cm; }
+</style>
+
+We organise a series of international joint seminars with [CIRCE](https://circe-site.github.io/site/), the Community of Italian Researchers Connecting on Extreme Value Statistic. The goal is to bring our communities together around cutting-edge developments in extreme value statistics.
+
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">10/04/26 14:30 BST (9:30 EST)</span>  Seminar by Frederic Godin (Concordia University, Canada)
+
+**Speaker:** [Frederic Godin ](https://www.concordia.ca/faculty/frederic-godin.html)
+
+**Title:** Catastrophic-risk-aware reinforcement learning with extreme-value-theory-based policy gradients
+
+**Summary. **
+We tackle the problem of mitigating catastrophic risk (which is risk with very low frequency but very high severity) in the context of a sequential decision making process. This problem is particularly challenging due to the scarcity of observations in the far tail of the distribution of cumulative costs (negative rewards). A policy gradient algorithm is developed, that we call POTPG. It is based on approximations of the tail risk derived from extreme value theory. Numerical experiments highlight the out-performance of our method over common benchmarks relying on the empirical distribution. An application to financial risk management, more precisely to the dynamic hedging of a financial option, is presented.
+ 
+<!-- **Slides:** you can find the [original slides here](https://drive.google.com/file/d/1ISm7zLT1mcKiK5NFtgRHJDwf0wHUVRAb/view?usp=sharing) and the [annotated slides here](https://drive.google.com/file/d/1nVgpRjbM846IAUzHPicPVXBNdh5GZrdD/view?usp=sharing) -->
+<!-- Link to slides -->
+:::

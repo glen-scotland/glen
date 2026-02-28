@@ -46,7 +46,7 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "We celebrated GLE\\(^2\\)N’s first birthday, with our very first workshop, held at the Advanced Research Centre (ARC) at the University of Glasgow. This one-day event brought together fantastic talks, a lively and thoughtful discussion session, plenty of new ideas, and a warm, collaborative atmosphere throughout."
+    "text": "We are excited to share that we are joining forces with CIRCE, the Community of Italian Researchers Connecting on Extreme Value Statistics. From April onwards, we will be launching a series of international joint seminars, bringing our communities together around cutting-edge developments in extreme value statistics."
   },
   {
     "objectID": "news.html#september-2025",
@@ -318,8 +318,8 @@
     "objectID": "news.html#december-2025",
     "href": "news.html#december-2025",
     "title": "News",
-    "section": "",
-    "text": "We celebrated GLE\\(^2\\)N’s first birthday, with our very first workshop, held at the Advanced Research Centre (ARC) at the University of Glasgow. This one-day event brought together fantastic talks, a lively and thoughtful discussion session, plenty of new ideas, and a warm, collaborative atmosphere throughout."
+    "section": "December 2025",
+    "text": "December 2025\n\n📌 GLE\\(^2\\)N’s first workshop\nWe celebrated GLE\\(^2\\)N’s first birthday, with our very first workshop, held at the Advanced Research Centre (ARC) at the University of Glasgow. This one-day event brought together fantastic talks, a lively and thoughtful discussion session, plenty of new ideas, and a warm, collaborative atmosphere throughout."
   },
   {
     "objectID": "workshop.html#workshop-handbook",
@@ -481,5 +481,19 @@
     "title": "Related Events",
     "section": "June 2026",
     "text": "June 2026\n\n📌 GAME 2026\nThe second workshop on generative AI modelling for extreme events will take place at the University of Bologna, 11-12 June. More information here"
+  },
+  {
+    "objectID": "seminars.html",
+    "href": "seminars.html",
+    "title": "Seminars with CIRCE",
+    "section": "",
+    "text": "We organise a series of international joint seminars with CIRCE, the Community of Italian Researchers Connecting on Extreme Value Statistic. The goal is to bring our communities together around cutting-edge developments in extreme value statistics.\n\n\n\n\n\n\n10/04/26 14:30 BST (9:30 EST) Seminar by Frederic Godin (Concordia University, Canada)\n\n\n\n\n\nSpeaker: Frederic Godin\nTitle: Catastrophic-risk-aware reinforcement learning with extreme-value-theory-based policy gradients\nSummary.  We tackle the problem of mitigating catastrophic risk (which is risk with very low frequency but very high severity) in the context of a sequential decision making process. This problem is particularly challenging due to the scarcity of observations in the far tail of the distribution of cumulative costs (negative rewards). A policy gradient algorithm is developed, that we call POTPG. It is based on approximations of the tail risk derived from extreme value theory. Numerical experiments highlight the out-performance of our method over common benchmarks relying on the empirical distribution. An application to financial risk management, more precisely to the dynamic hedging of a financial option, is presented."
+  },
+  {
+    "objectID": "news.html#february-2026",
+    "href": "news.html#february-2026",
+    "title": "News",
+    "section": "",
+    "text": "We are excited to share that we are joining forces with CIRCE, the Community of Italian Researchers Connecting on Extreme Value Statistics. From April onwards, we will be launching a series of international joint seminars, bringing our communities together around cutting-edge developments in extreme value statistics."
   }
 ]
