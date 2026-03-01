@@ -149,7 +149,7 @@ The aim is to reflect on and synthesise what we have learned over the past five 
 <!-- Link to paper -->
 :::
 
-## Thematic session 2: genAI for Extremes
+<!-- ## Thematic session 2: genAI for Extremes -->
 
 
 <!-- ::: {.callout-tip collapse="true" appearance="simple" icon=false} -->
