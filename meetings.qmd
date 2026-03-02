@@ -77,9 +77,9 @@ TBC
 
 <!-- ================================================================================================================== -->
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">17/04/26 10:00-12:00</span>  Session 3: Extreme Quantile Treatment Estimation
+# <span style="color: rgb(25,188,156)">17/04/26 9:00-11:00</span>  Session 3: Extreme Quantile Treatment Estimation
 
-## [13:00-14:00] Paper discussion
+## [9:00-10:00] Paper discussion
 **Reference: ** Deuber, D., Li, J., Engelke, S., & Maathuis, M. H. (2024). [Estimation and inference of extremal quantile treatment effects for heavy-tailed distributions](https://drive.google.com/file/d/1rh56dne65bUFi9RvLx0bRFcNVEmtC-9i/view?usp=drive_link). *Journal of the American Statistical Association*, 119(547), 2206-2216.
 
 **Discussants:**
@@ -87,7 +87,7 @@ TBC
 
 **Slides:** *to be available after the discussion*
 
-## [14:00-15:00] Talk
+## [10:00-11:00] Talk
 **Speaker:** [W. Huang](https://sites.google.com/view/w-huang/home)
 
 **Title: ** Estimation and Inference for Extreme Continuous Treatment Effects
