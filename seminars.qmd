@@ -28,7 +28,7 @@ We organise a series of international joint seminars with [CIRCE](https://circe-
 
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">10/04/26 14:30 BST (9:30 EST)</span>  Seminar by Frederic Godin (Concordia University, Canada)
+# <span style="color: rgb(25,188,156)">10/04/26 13:30 BST (9:30 EST)</span>  Seminar by Frederic Godin (Concordia University, Canada)
 
 **Speaker:** [Frederic Godin ](https://www.concordia.ca/faculty/frederic-godin.html)
 
