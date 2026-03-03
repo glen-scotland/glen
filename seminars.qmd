@@ -27,16 +27,31 @@ knitr::opts_chunk$set(
 We organise a series of international joint seminars with [CIRCE](https://circe-site.github.io/site/), the Community of Italian Researchers Connecting on Extreme Value Statistic. The goal is to bring our communities together around cutting-edge developments in extreme value statistics.
 
 
-<!-- ::: {.callout-tip collapse="true" appearance="simple" icon=false} -->
-<!-- # <span style="color: rgb(25,188,156)">10/04/26 13:30 BST (9:30 EST)</span> Seminar by Frederic Godin (Concordia University, Canada) -->
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">10/04/26 14:30 BST (9:30 EST)</span> Seminar by Frederic Godin (Concordia University, Canada)
 
-<!-- **Speaker:** [Frederic Godin ](https://www.concordia.ca/faculty/frederic-godin.html) -->
+**Speaker:** [Frederic Godin ](https://www.concordia.ca/faculty/frederic-godin.html)
 
-<!-- **Title:** Catastrophic-risk-aware reinforcement learning with extreme-value-theory-based policy gradients -->
+**Title:** Catastrophic-risk-aware reinforcement learning with extreme-value-theory-based policy gradients
 
-<!-- **Summary. ** -->
-<!-- We tackle the problem of mitigating catastrophic risk (which is risk with very low frequency but very high severity) in the context of a sequential decision making process. This problem is particularly challenging due to the scarcity of observations in the far tail of the distribution of cumulative costs (negative rewards). A policy gradient algorithm is developed, that we call POTPG. It is based on approximations of the tail risk derived from extreme value theory. Numerical experiments highlight the out-performance of our method over common benchmarks relying on the empirical distribution. An application to financial risk management, more precisely to the dynamic hedging of a financial option, is presented. -->
+**Summary. **
+We tackle the problem of mitigating catastrophic risk (which is risk with very low frequency but very high severity) in the context of a sequential decision making process. This problem is particularly challenging due to the scarcity of observations in the far tail of the distribution of cumulative costs (negative rewards). A policy gradient algorithm is developed, that we call POTPG. It is based on approximations of the tail risk derived from extreme value theory. Numerical experiments highlight the out-performance of our method over common benchmarks relying on the empirical distribution. An application to financial risk management, more precisely to the dynamic hedging of a financial option, is presented.
 
-<!-- <!-- **Slides:** you can find the [original slides here](https://drive.google.com/file/d/1ISm7zLT1mcKiK5NFtgRHJDwf0wHUVRAb/view?usp=sharing) and the [annotated slides here](https://drive.google.com/file/d/1nVgpRjbM846IAUzHPicPVXBNdh5GZrdD/view?usp=sharing) --> -->
-<!-- <!-- Link to slides --> -->
-<!-- ::: -->
+<!-- **Slides:** you can find the [original slides here](https://drive.google.com/file/d/1ISm7zLT1mcKiK5NFtgRHJDwf0wHUVRAb/view?usp=sharing) and the [annotated slides here](https://drive.google.com/file/d/1nVgpRjbM846IAUzHPicPVXBNdh5GZrdD/view?usp=sharing) -->
+<!-- Link to slides -->
+:::
+
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">15/05/26 15:00 BST (16:00 CEST)</span> Seminar by Likun Zhang (University of Missouri, US)
+
+**Speaker:** [Likun Zhang](https://stat.missouri.edu/people/zhang)
+
+**Title:** Modeling Spatio-temporal Extremes via Conditional Variational Autoencoders
+
+**Summary. **
+Extreme weather events are widely studied in fields such as agriculture, ecology, and meteorology. The spatio-temporal co-occurrence of extreme events can strengthen or weaken under changing climate conditions. In this paper, we propose a novel approach to model spatio-temporal extremes by integrating climate indices via a conditional variational autoencoder (cXVAE). A convolutional neural network (CNN) is embedded in the decoder to convolve climatological indices with the spatial dependence within the latent space, thereby allowing the decoder to be dependent on the climate variables. There are three main contributions here. First, we demonstrate through extensive simulations that the proposed conditional XVAE accurately emulates spatial fields and recovers spatially and temporally varying extremal dependence with very low computational cost post training. Second, we provide a simple, scalable approach to detecting condition-driven shifts and whether the dependence structure is invariant to the conditioning variable. Third, when dependence is found to be condition-sensitive, the conditional XVAE supports counterfactual experiments allowing intervention on the climate covariate and propagating the associated change through the learned decoder to quantify differences in joint tail risk, co-occurrence ranges, and return metrics. To demonstrate the practical utility and performance of the model in real-world scenarios, we apply our method to analyze the monthly maximum Fire Weather Index (FWI) over eastern Australia from 2014 to 2024 conditioned on the El Ni\~{n}o/Southern Oscillation (ENSO) index. 
+
+<!-- **Slides:** you can find the [original slides here](https://drive.google.com/file/d/1ISm7zLT1mcKiK5NFtgRHJDwf0wHUVRAb/view?usp=sharing) and the [annotated slides here](https://drive.google.com/file/d/1nVgpRjbM846IAUzHPicPVXBNdh5GZrdD/view?usp=sharing) -->
+<!-- Link to slides -->
+:::
