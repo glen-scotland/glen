@@ -31,7 +31,7 @@ From 2026, our online meetings will be organised into **thematic session series*
 ## Thematic session 1: Causality for Extremes
 Our first session will be a lecture delivered by Nicola Gnecco, setting the foundations for causal inference for extremes. We then have three talks covering the areas of discovery, estimation and attribution.
 
-We have set up this [sandbox Padlet](https://padlet.com/danielacastrocamilo/glen-causality-for-extremes-sandbox-6qs9aue6) where participants can add comments before, during and after the sessions. These will feed into the final session.
+We have set up this [sandbox Padlet](https://padlet.com/danielacastrocamilo/glen-causality-for-extremes-sandbox-6qs9aue6exp3ias4) where participants can add comments before, during and after the sessions. These will feed into the final session.
 
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
