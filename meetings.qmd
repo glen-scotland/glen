@@ -61,7 +61,7 @@ Krali, M. (2025). [Causal discovery in heavy‐tailed linear structural equation
 **Discussant:**
 Mengran Li
 
-**Slides:** *to be available after the discussion*
+**Slides:** you can find the [slides of this discussion here](https://drive.google.com/file/d/1rymXvb3wpKPqBQBqkZX93ueo798yqUq5/view?usp=sharing)
 
 ## [14:00-15:00] Talk
 **Speaker:** [L. Mhalla](https://lindamhalla.netlify.app/)
@@ -72,22 +72,14 @@ Causal discovery in extremes
 **Summary**
 Causal discovery is concerned with recovering important aspects of the data-generating mechanism. In this talk, I will discuss the framework of causal learning in extremes. We will first present the aim of such task when it comes to a multivariate system of interest. Then, we will discuss approaches to causal discovery in the tails that rely on the multivariate extreme value theory. We will cover bother model-agnostic approaches and methods grounded in structural equation models with heavy-tailed noise, for which theoretical guarantees can be established.
  
-<!-- Link to slides -->
+**Slides:** you can find the [slides of this talk here](https://drive.google.com/file/d/1mLrESK41QUqLmSfQRNcd0QGjqqB0ZCmc/view?usp=sharing)
 :::
 
 <!-- ================================================================================================================== -->
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
 # <span style="color: rgb(25,188,156)">17/04/26 9:00-11:00</span>  Session 3: Extreme Quantile Treatment Estimation
 
-## [9:00-10:00] Paper discussion
-**Reference: ** Deuber, D., Li, J., Engelke, S., & Maathuis, M. H. (2024). [Estimation and inference of extremal quantile treatment effects for heavy-tailed distributions](https://drive.google.com/file/d/1rh56dne65bUFi9RvLx0bRFcNVEmtC-9i/view?usp=drive_link). *Journal of the American Statistical Association*, 119(547), 2206-2216.
-
-**Discussants:**
-TBC
-
-**Slides:** *to be available after the discussion*
-
-## [10:00-11:00] Talk
+## [9:00-10:00] Talk
 **Speaker:** [W. Huang](https://sites.google.com/view/w-huang/home)
 
 **Title: ** Estimation and Inference for Extreme Continuous Treatment Effects
@@ -95,11 +87,14 @@ TBC
 **Summary. **
 Understanding the causal effect of a treatment is of great interest to both natural and social sciences. Many applications call for attention to individuals situated in the deep tails of the outcome distribution, i.e., the extreme events. We study estimation and inference for the treatment effect for extreme cases in deep tails of the potential outcome distributions. We consider two measures for the tail characteristics: the quantile function and the tail mean function defined as the conditional mean beyond a quantile level. Then, for a quantile level close to 1, we define the extreme quantile treatment effect (EQTE) and extreme average treatment effect (EATE), which are, respectively, the ratios of the quantile and tail mean at different treatment statuses. We propose estimators for the EQTE and EATE based on tail approximations from the extreme value theory. Our limiting theory is for the EQTE and EATE processes indexed by a set of quantile levels and pairs of different treatment statuses. It facilitates uniform inference for the EQTE and EATE over multiple tail levels and multiple pairs of treatments. Simulations suggest that our method works well in finite samples, and an empirical study illustrates its practical merits.
  
-<!-- Link to slides -->
 
+## [10:00-11:00] Paper discussion
+**Reference: ** Deuber, D., Li, J., Engelke, S., & Maathuis, M. H. (2024). [Estimation and inference of extremal quantile treatment effects for heavy-tailed distributions](https://drive.google.com/file/d/1rh56dne65bUFi9RvLx0bRFcNVEmtC-9i/view?usp=drive_link). *Journal of the American Statistical Association*, 119(547), 2206-2216.
 
+**Discussants:** Jordan Richards
 
-<!-- **Link to slides:** -->
+**Slides:** *to be available after the discussion*
+
 :::
 
 <!-- ================================================================================================================== -->
