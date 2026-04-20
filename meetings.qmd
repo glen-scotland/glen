@@ -88,12 +88,14 @@ Causal discovery is concerned with recovering important aspects of the data-gene
 Understanding the causal effect of a treatment is of great interest to both natural and social sciences. Many applications call for attention to individuals situated in the deep tails of the outcome distribution, i.e., the extreme events. We study estimation and inference for the treatment effect for extreme cases in deep tails of the potential outcome distributions. We consider two measures for the tail characteristics: the quantile function and the tail mean function defined as the conditional mean beyond a quantile level. Then, for a quantile level close to 1, we define the extreme quantile treatment effect (EQTE) and extreme average treatment effect (EATE), which are, respectively, the ratios of the quantile and tail mean at different treatment statuses. We propose estimators for the EQTE and EATE based on tail approximations from the extreme value theory. Our limiting theory is for the EQTE and EATE processes indexed by a set of quantile levels and pairs of different treatment statuses. It facilitates uniform inference for the EQTE and EATE over multiple tail levels and multiple pairs of treatments. Simulations suggest that our method works well in finite samples, and an empirical study illustrates its practical merits.
  
 
+**Slides:** you can find the [slides of this talk here](https://drive.google.com/file/d/1Pl9LHaaAFEhrxyt2inRiQGs-M_S4Zo6_/view?usp=sharing)
+
 ## [10:00-11:00] Paper discussion
 **Reference: ** Deuber, D., Li, J., Engelke, S., & Maathuis, M. H. (2024). [Estimation and inference of extremal quantile treatment effects for heavy-tailed distributions](https://drive.google.com/file/d/1rh56dne65bUFi9RvLx0bRFcNVEmtC-9i/view?usp=drive_link). *Journal of the American Statistical Association*, 119(547), 2206-2216.
 
 **Discussants:** Jordan Richards
 
-**Slides:** *to be available after the discussion*
+**Slides:** you can find the [slides of this discussion here](https://drive.google.com/file/d/1CBDuAdjWlbwI7bCmmifNCLCE4RakFCJG/view?usp=sharing)
 
 :::
 
