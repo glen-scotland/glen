@@ -111,6 +111,7 @@ Understanding the causal effect of a treatment is of great interest to both natu
 
 **Summary.** The increase of  recent climate record frequencies raises many statistical and climatological questions. Statistically,  the literature on modelling  record changes in a non-stationary context is sparse. In this presentation,  I will present different case studies that blind multivariate extreme value theory, record theory and counterfactual theory.   The question of attribution for records will be touched upon, as well as the  forecasting of record frequencies in a non-stationary context. If time allowed, the choice of climatological explanatory variables (co-variates) to understand unprecedented heatwaves will be also touched upon. All statistical techniques will be illustrated by cases studies based either on climate model outputs or weather stations recordings. Concerning the temporal periods, these examples will treat past, present and future yearly time scales.
 
+**Slides:** you can find the [slides of this talk here](https://drive.google.com/file/d/1LMx7YDkNOczG_rzLIsy-bqo08GG1UZVi/view?usp=drive_link)
 
 ## [14:00-15:00] Paper discussion
 **Reference:** Wang, Z., Jiang, Y., Wan, H., Yan, J., & Zhang, X. (2021). [Toward optimal fingerprinting in detection and attribution of changes in climate extremes](https://drive.google.com/file/d/1GzwwOgQlt-WDqk_bVdECNn0vkAazjDGm/view?usp=drive_link). *Journal of the American Statistical Association*, 116(533), 1-13.
@@ -118,7 +119,7 @@ Understanding the causal effect of a treatment is of great interest to both natu
 **Discussant:**
 Mengran Li
 
-**Slides:** *to be available after the discussion*
+**Slides:** you can find the [slides of this discussion here](https://drive.google.com/file/d/1uVZ9FTQx8j9FbnfxBUKP2dUDBz5kw95B/view?usp=sharing)
 
  
 <!-- Link to slides -->
