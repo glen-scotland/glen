@@ -2,6 +2,24 @@
 title: "News"
 ---
 
+## <span style="background-color: #d1dce5;">June 2026</span>
+
+### 📌 GAME 2026, Bologna, Italy
+Members of GLE$^2$N, including Miguel de Carvalho, Lambert de Monte, Myung Won (Johnny) Lee, Daniela Castro-Camilo, and Jordan Richards, participated in the [2026 GAME Workshop on Generative AI Modelling for Extreme Events](https://gamex-network.github.io/workshop/). The workshop brought together researchers from statistics, machine learning, and environmental sciences to discuss emerging methods for modelling rare and high-impact events, while strengthening collaborations within the growing extremes community.
+
+:::{.text-center} 
+![](img/game2026.png){width=70%} 
+:::
+
+<!-- ## <span style="background-color: #d1dce5;">June 2026</span> -->
+
+<!-- ### 📌 ISI Regional Statistics Conference, Valletta, Malta -->
+
+<!-- ### 📌 Workshop on "Learning Spatio-Temporal Climate Extremes", Louvain-la-Neuve, Belgium -->
+
+<!-- Daniela Castro-Camilo was invited to the [2026 EXALT Workshop](https://exalt-project.github.io/workshop-2026/), where she presented her recent work with Mengran Li on attribution for extreme events. The workshop brought together leading researchers in extreme value theory, machine learning, and uncertainty quantification to discuss new methodological developments and future directions in the analysis of rare events. -->
+
+
 ## <span style="background-color: #d1dce5;">February 2026</span>
 
 ### 📌 Seminars with CIRCE
