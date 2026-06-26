@@ -129,22 +129,17 @@ Mengran Li
 
 <!-- ================================================================================================================== -->
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
-# <span style="color: rgb(25,188,156)">26/06/26 13:00-15:00</span>  Session 5: Revision lecture + wrap up (in person)
+# <span style="color: rgb(25,188,156)">26/06/26 11:00-15:30</span>  Session 5: Invited lecture + wrap up (in person)
 
-## [13:00-14:00] Paper discussion
-**Reference: ** Chavez-Demoulin, V., & Mhalla, L. (2024). [Causality and extremes](https://drive.google.com/file/d/1yo9j8kbAtuzmX2Qo8jQx4kZfKukwFHPh/view?usp=drive_link). arXiv preprint arXiv:2403.05331.
+## [11:00-12:00] Invited lecture 
+Lecture by Philippe Naveau (Room 2.35, Edinburgh Futures Institute). See [details here](https://glen-scotland.github.io/glen/visitors.html#june-2026).
 
-**Discussant:**
-Daniela Castro-Camilo
+## [12:00–13:30] Lunch 
 
-**Slides:** *to be available after the discussion*
+## [13:30–15:30] GLEN meeting 
 
-<!-- **Link to slides:** -->
+In-person meeting at Room 5.45, Bayes Centre, focused on discussing the key lessons emerging from the three themes we have explored throughout the series: extreme event attribution, causal estimation, and causal discovery. 
 
-## [14:00-15:00] Brainstorming session
-The aim is to reflect on and synthesise what we have learned over the past five months, identifying key challenges, gaps, and emerging opportunities.
-
-<!-- Link to paper -->
 :::
 
 <!-- ## Thematic session 2: genAI for Extremes -->
