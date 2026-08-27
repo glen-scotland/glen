@@ -13,12 +13,12 @@ library(knitr)
 
 
 ::: {.column-margin}
-![](img/GLEN_logo14.png){width=70%}
+![](img/GLEN_logo_V2.png){width=70%}
 
 ## Next meeting
 
-27th February 2026, 13:00-15:00.
- 
+TBC
+
 ## Google Group
 
 Subscribe to our [Google Group](https://groups.google.com/u/1/g/gle2n_scotland) to be up-to-date with GL(EN)$^2$ activities.

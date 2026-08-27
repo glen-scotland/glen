@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "GLE$^2$N"
+  title: "GL(EN)$^2$"
   navbar:
     left:
       - href: index.qmd
