@@ -1,6 +1,6 @@
-# GLE<sup>2</sup>N: The Glasgow–Edinburgh Extremes Network 🌊🌡️
+# GL(EN)<sup>2</sup>: The Glasgow–Lancaster-Edinburgh-Newcastle Extremes Network 🌊🌡️
 
-GLE<sup>2</sup>N is a Scotland-based collaboration that brings together researchers from the universities of Glasgow, Edinburgh, and Heriot-Watt to discuss applied, theoretical, and methodological contributions to statistical risk analysis and extreme value theory (EVT). 
+GL(EN)<sup>2</sup>, formerly GLE<sup>2</sup>N, is a Northern UK collaboration that brings together researchers from the universities of Glasgow, Edinburgh, Heriot-Watt, Lancaster, and Newcastle to discuss applied, theoretical, and methodological contributions to statistical risk analysis and extreme value theory (EVT). 
 
 <div align="center">
   <img src="img/GLEN_logo14.png" alt="GLEN Logo" width="250">

@@ -1,0 +1,53 @@
+---
+title: "Visitors"
+---
+
+## June 2026
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 1;">
+
+We are pleased to announce a guest lecture by climate scientist Philippe Naveau (LSCE/IPSL) on "Predicting Multivariate Extremes in Environmental Sciences", to be held at the Edinburgh Futures Institute on 26 June.
+
+The event is supported by the Edinburgh Centre for Financial Innovations (ECFI) and the Centre for Statistics and organised by the Glasgow-Edinburgh Extremes Network (GLEN).
+
+👉 Register for the event using [this link](https://forms.cloud.microsoft/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYexYM5w1OdlErkgwzgrpYVdUQUxRWk5SSlFBOU02TjlOUVVOQTJCUTZaWC4u&route=shorturl).
+
+📍 June 26th, 11am-12pm, Room 2.35, Edinburgh Futures Institute (EFI)
+
+**Title**: Predicting Multivariate Extremes in Environmental Sciences
+
+**Abstract**: In machine learning and statistics, predicting is a key goal, especially within a regression framework. In particular, regression is taught in all introductory courses in statistics and it has been applied to most known research fields. The popularity of linear regressions is due to the simplicity of the problem at hand and the elegant properties of the solution. Today, as the frequency and/or intensity of extreme events are generally increasing in environmental sciences, there is a need to focus on predicting extremes in linear regression setups tailored for extremes.
+
+This talk will leverage the field of multivariate extreme value theory to propose a simple framework to find the optimal regression parameters for predicting multivariate events. A few mathematical properties will be discussed. A simple algorithm will be explained and tested on simulated data. In addition, a comparison with competing approaches will be presented in the context of reconstructing past skew surges along the French coast (Huet et al, 2026). Joint work with Vicky Fasen, Nathan Huet and Anne Sabourin.
+
+Short Bio: Philippe Naveau is a senior research scientist (CNRS) at the “Laboratoire des Sciences du Climat et de l’Environnement”, near Paris. He graduated from Colorado State University, Department of Statistics, in 1998. His main areas of research are statistical climatology and hydrology, with a methodological focus on extreme value theory, time series analysis and spatial statistics. Visit his [website](https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/) for more info.
+
+</div>
+
+<div style="width: 220px;">
+
+![](img/philippe-naveau.jpg){style="width:100%; border-radius:10px;"}
+
+</div>
+
+</div>
+
+
+## June 2026
+
+[Phyllis Wan](https://sites.google.com/view/pwan/homepage-of-phyllis-wan?pli=1&authuser=1) will be visiting GLE$^2$N form 1-2 June 2026. Phyllis is an Associate Professor of Econometrics at Erasmus University Rotterdam whose research focuses on extreme value theory, heavy-tailed data, and dependence modelling in complex systems such as networks and time series. Her work combines statistical theory and machine learning to better understand and predict rare, high-impact events. 
+
+
+## Jan-July 2026
+
+[Leo Belzile](https://www.hec.ca/en/profs/leo.belzile.html) will be visiting GLE$^2$N from January-July 2026. Léo is an Associate Professor of Statistics at HEC Montréal whose research focuses on extreme value theory, statistical inference, and risk modelling. His work spans environmental, financial, and actuarial applications, with particular expertise in likelihood-based methods for extremes.
+
+
+
+
+## September 2025
+
+[Brian Reich](https://bjreich.wordpress.ncsu.edu/) will be visiting GLE$^2$N from 29 August-9 September, 2025. Brian is the Gertrude M. Cox Distinguished Professor of Statistics at North Carolina State University. His research focuses on Bayesian methods, spatial statistics, extreme value analysis, and machine learning, with applications in climate, environmental science, ecology, and epidemiology.
+
