@@ -1,6 +1,6 @@
 ---
-title: "GLE$^2$N"
-subtitle: "The Glasgow–Edinburgh Extremes Network"
+title: "GL(EN)$^2$ (formerly GLE$^2$N)"
+subtitle: "The Glasgow–Lancaster-Edinburgh-Newcastle Extremes Network"
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
@@ -17,20 +17,20 @@ library(knitr)
 
 ## Next meeting
 
-26th June 2026, 11:00-15:30.
+27th February 2026, 13:00-15:00.
  
 ## Google Group
 
-Subscribe to our [Google Group](https://groups.google.com/u/1/g/gle2n_scotland) to be up-to-date with GLE$^2$N activities.
+Subscribe to our [Google Group](https://groups.google.com/u/1/g/gle2n_scotland) to be up-to-date with GL(EN)$^2$ activities.
 :::
 
 
-Welcome to GLE$^2$N, a Scotland-based collaboration involving the School of Mathematics & Statistics at the University of Glasgow (UofG), the School of Mathematics at the University of Edinburgh (UofE), and the School of Mathematical & Computer Sciences at Heriot-Watt University (HW).
+Welcome to GL(EN)$^2$, formely GLE$^2$, which is a Northern UK initiative involving the School of Mathematics & Statistics at the University of Glasgow (UofG), the School of Mathematics at the University of Edinburgh (UofE), the School of Mathematical & Computer Sciences at Heriot-Watt University (HW), the School of Mathematical Sciences at Lancaster University (LU), and the School of Mathematics, Statistics and Physics at Newcastle University (NU).
 
-GLE$^2$N brings together early-career and established researchers from UofG, UofE, and HW to exchange ideas and explore applied, theoretical, and methodological advancements in statistical risk analysis and extreme value theory (EVT).
+GLE$^2$N (Glasgow-Edinburgh Extremes Network) was originally conceived as a Scotland-based collaboration, bringing together early-career and established researchers from UofG, UofE, and HW to exchange ideas and explore applied, theoretical, and methodological advancements in statistical risk analysis and extreme value theory (EVT). In July 2026, GLE$^2$N expanded to welcome organisers from LU and NU, with the new initative rebranded as GL(EN)$^2$, the Glasgow–Lancaster-Edinburgh-Newcastle Extremes Network.
 
 ### Objectives
-- To enhance collaboration among Scotland/UK-based researchers interested in EVT.  
+- To enhance collaboration among UK-based researchers interested in EVT.  
 - To promote knowledge sharing within the community.  
 - To support early-career researchers through networking and collaboration opportunities.  
 
@@ -38,7 +38,7 @@ GLE$^2$N brings together early-career and established researchers from UofG, Uof
 ---
 
 ### Meetings
-GLE$^2$N meetings are open to all staff and students from the University of Glasgow, the University of Edinburgh, and Heriot-Watt University.
+GL(EN)$^2$ meetings are open to all staff and students from the University of Glasgow, the University of Edinburgh, Heriot-Watt University, Lancaster University, and Newcastle University.
 
 From 2026 onwards, our monthly online meetings will be organised into **thematic session series**. Each series will focus on a specific sub-topic over a five-month period, with talks and paper discussions closely coordinated. The aim is to build shared understanding through a small number of connected, in-depth sessions.
 
@@ -49,7 +49,7 @@ Each thematic series will begin with a two-hour foundational lecture introducing
 
 Each meeting includes a 10-minute break between the two parts and is held online via Zoom. We anticipate that the final meeting of each thematic series will be held in person.
 
-You can use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t) to have future GLE$^2$N events automatically added to your calendar.
+You can use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2NvdGxhbmRAZ21haWwuY29t) to have future GL(EN)$^2$ events automatically added to your calendar.
 <!-- ### Google Calendar -->
 
 
@@ -59,8 +59,8 @@ You can use [this URL](https://calendar.google.com/calendar/u/1/r?cid=Z2xlMm4uc2
 
 ---
 
-### Why GLE$^2$N?
-Our network's acronym, GLE$^2$N, is not only functional but also resonates with the phonetic charm of *glen*, a word of Gaelic origin. Traditionally, glen referred to the narrow valleys found in the rugged landscapes of Scotland and Ireland, but its use has since expanded to describe similar features worldwide.
+### Why GLE$^2$N/GL(EN)$^2$?
+Our network's acronym, GL(EN)$^2$, is not only functional but also resonates with the phonetic charm of *glen*, a word of Gaelic origin. Traditionally, glen referred to the narrow valleys found in the rugged landscapes of Scotland and Ireland, but its use has since expanded to describe similar features worldwide.
 
 Many Scottish place names, such as Glen Coe in the northern part of Argyll, trace their roots to the Gaelic word gleann. The beauty of these glens has inspired works by Scotland's national poet, Robert Burns, who wrote about Glenriddell, Glen Afton, and Loch Turret.
 
@@ -72,7 +72,7 @@ Many Scottish place names, such as Glen Coe in the northern part of Argyll, trac
 
 ### Funding
 
-Activities of GLEN are funded by a variety of stakeholders, including Prob_AI, GAIL (Generative AI Lab—University of Edinburgh), and [Una Europa](https://www.una-europa.eu/).
+Activities of GL(EN)$^2$ are funded by a variety of stakeholders, including the Glasgow Mathematical Journal Trust (GMJT),  Prob_AI, GAIL (Generative AI Lab—University of Edinburgh), and [Una Europa](https://www.una-europa.eu/).
 
 
 :::{.text-center}
