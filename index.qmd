@@ -25,7 +25,7 @@ Subscribe to our [Google Group](https://groups.google.com/u/1/g/gle2n_scotland) 
 :::
 
 
-Welcome to GL(EN)$^2$, formely GLE$^2$, which is a Northern UK initiative involving the School of Mathematics & Statistics at the University of Glasgow (UofG), the School of Mathematics at the University of Edinburgh (UofE), the School of Mathematical & Computer Sciences at Heriot-Watt University (HW), the School of Mathematical Sciences at Lancaster University (LU), and the School of Mathematics, Statistics and Physics at Newcastle University (NU).
+Welcome to GL(EN)$^2$, formely GLEN$^2$, which is a Northern UK initiative involving the School of Mathematics & Statistics at the University of Glasgow (UofG), the School of Mathematics at the University of Edinburgh (UofE), the School of Mathematical & Computer Sciences at Heriot-Watt University (HW), the School of Mathematical Sciences at Lancaster University (LU), and the School of Mathematics, Statistics and Physics at Newcastle University (NU).
 
 GLE$^2$N (Glasgow-Edinburgh Extremes Network) was originally conceived as a Scotland-based collaboration, bringing together early-career and established researchers from UofG, UofE, and HW to exchange ideas and explore applied, theoretical, and methodological advancements in statistical risk analysis and extreme value theory (EVT). In July 2026, GLE$^2$N expanded to welcome organisers from LU and NU, with the new initative rebranded as GL(EN)$^2$, the Glasgow–Lancaster-Edinburgh-Newcastle Extremes Network.
 
