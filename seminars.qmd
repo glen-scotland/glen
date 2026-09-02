@@ -24,7 +24,7 @@ knitr::opts_chunk$set(
   table th:nth-child(5), table td:nth-child(5) { width: 2cm; }
 </style>
 
-We organise a series of international joint seminars with [CIRCE](https://circe-site.github.io/site/), the Community of Italian Researchers Connecting on Extreme Value Statistic. The goal is to bring our communities together around cutting-edge developments in extreme value statistics.
+We organise a series of international joint seminars with [CIRCE](https://circe-site.github.io/site/), the Community of Italian Researchers Connecting on Extreme Value Statistics. The goal is to bring our communities together around cutting-edge developments in extreme value statistics.
 
 
 ::: {.callout-tip collapse="true" appearance="simple" icon=false}
@@ -54,4 +54,19 @@ Extreme weather events are widely studied in fields such as agriculture, ecology
 
 <!-- **Slides:** you can find the [original slides here](https://drive.google.com/file/d/1ISm7zLT1mcKiK5NFtgRHJDwf0wHUVRAb/view?usp=sharing) and the [annotated slides here](https://drive.google.com/file/d/1nVgpRjbM846IAUzHPicPVXBNdh5GZrdD/view?usp=sharing) -->
 <!-- Link to slides -->
+:::
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">02/10/26 14:30 BST (15:30 CEST)</span> Seminar by Antonio Ocello (ENSAE Paris/CREST, France)
+
+**Speaker:** [Antonio Ocello](https://antonio-ocello.github.io/)
+
+**Title:** Do Heavy Tails Help Diffusion? On the Subtle Trade-off Between Initialization and Training
+
+
+
+**Summary. **
+Recent works have proposed incorporating heavy-tailed (HT) noise into diffusion- and flow-based generative models, with the goals of better recovering the tails of target distributions and improving generative diversity. This motivation is intuitive: if the data are heavy-tailed, HT noise may appear better matched than light-tailed (LT) Gaussian noise. However, replacing Gaussian noise by HT noise also changes the underlying estimation problem. In this talk, we revisit this paradigm through a combined theoretical and empirical study, establishing sampling-error bounds for two representative diffusion models driven by HT and LT noise. We show that HT noise makes the statistical estimation problem harder, leading to less favorable sampling-error bounds. We support these findings with experiments on synthetic and real-world datasets, empirically recovering the predicted error trade-off. Our results call into question a growing design trend in generative modeling and challenge the use of HT noise to improve rare-region exploration. This talk is based on the following joint work with with Hamza Cherkaoui and Hélène Halconruy: https://arxiv.org/abs/2605.13175 .
+
+
 :::
