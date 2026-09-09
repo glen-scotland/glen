@@ -34,7 +34,7 @@ We organise a series of international joint seminars with [CIRCE](https://circe-
 
 **Title:** Catastrophic-risk-aware reinforcement learning with extreme-value-theory-based policy gradients
 
-**Summary. **
+**Summary: **
 We tackle the problem of mitigating catastrophic risk (which is risk with very low frequency but very high severity) in the context of a sequential decision making process. This problem is particularly challenging due to the scarcity of observations in the far tail of the distribution of cumulative costs (negative rewards). A policy gradient algorithm is developed, that we call POTPG. It is based on approximations of the tail risk derived from extreme value theory. Numerical experiments highlight the out-performance of our method over common benchmarks relying on the empirical distribution. An application to financial risk management, more precisely to the dynamic hedging of a financial option, is presented.
 
 <!-- **Slides:** you can find the [original slides here](https://drive.google.com/file/d/1ISm7zLT1mcKiK5NFtgRHJDwf0wHUVRAb/view?usp=sharing) and the [annotated slides here](https://drive.google.com/file/d/1nVgpRjbM846IAUzHPicPVXBNdh5GZrdD/view?usp=sharing) -->
@@ -49,7 +49,7 @@ We tackle the problem of mitigating catastrophic risk (which is risk with very l
 
 **Title:** Modeling Spatio-temporal Extremes via Conditional Variational Autoencoders
 
-**Summary. **
+**Summary: **
 Extreme weather events are widely studied in fields such as agriculture, ecology, and meteorology. The spatio-temporal co-occurrence of extreme events can strengthen or weaken under changing climate conditions. In this paper, we propose a novel approach to model spatio-temporal extremes by integrating climate indices via a conditional variational autoencoder (cXVAE). A convolutional neural network (CNN) is embedded in the decoder to convolve climatological indices with the spatial dependence within the latent space, thereby allowing the decoder to be dependent on the climate variables. There are three main contributions here. First, we demonstrate through extensive simulations that the proposed conditional XVAE accurately emulates spatial fields and recovers spatially and temporally varying extremal dependence with very low computational cost post training. Second, we provide a simple, scalable approach to detecting condition-driven shifts and whether the dependence structure is invariant to the conditioning variable. Third, when dependence is found to be condition-sensitive, the conditional XVAE supports counterfactual experiments allowing intervention on the climate covariate and propagating the associated change through the learned decoder to quantify differences in joint tail risk, co-occurrence ranges, and return metrics. To demonstrate the practical utility and performance of the model in real-world scenarios, we apply our method to analyze the monthly maximum Fire Weather Index (FWI) over eastern Australia from 2014 to 2024 conditioned on the El Ni\~{n}o/Southern Oscillation (ENSO) index. 
 
 <!-- **Slides:** you can find the [original slides here](https://drive.google.com/file/d/1ISm7zLT1mcKiK5NFtgRHJDwf0wHUVRAb/view?usp=sharing) and the [annotated slides here](https://drive.google.com/file/d/1nVgpRjbM846IAUzHPicPVXBNdh5GZrdD/view?usp=sharing) -->
@@ -65,8 +65,24 @@ Extreme weather events are widely studied in fields such as agriculture, ecology
 
 
 
-**Summary. **
+**Summary: **
 Recent works have proposed incorporating heavy-tailed (HT) noise into diffusion- and flow-based generative models, with the goals of better recovering the tails of target distributions and improving generative diversity. This motivation is intuitive: if the data are heavy-tailed, HT noise may appear better matched than light-tailed (LT) Gaussian noise. However, replacing Gaussian noise by HT noise also changes the underlying estimation problem. In this talk, we revisit this paradigm through a combined theoretical and empirical study, establishing sampling-error bounds for two representative diffusion models driven by HT and LT noise. We show that HT noise makes the statistical estimation problem harder, leading to less favorable sampling-error bounds. We support these findings with experiments on synthetic and real-world datasets, empirically recovering the predicted error trade-off. Our results call into question a growing design trend in generative modeling and challenge the use of HT noise to improve rare-region exploration. This talk is based on the following joint work with with Hamza Cherkaoui and Hélène Halconruy: https://arxiv.org/abs/2605.13175 .
+
+
+:::
+
+
+::: {.callout-tip collapse="true" appearance="simple" icon=false}
+# <span style="color: rgb(25,188,156)">04/12/26 14:30 BST (15:30 CEST)</span> Seminar by Caroline Cognot (UCLouvain, Belgium)
+
+**Speaker:** [Caroline Cognot](https://caroline-cognot.github.io/)
+
+**Title:** TBC
+
+
+
+**Summary: **
+TBC
 
 
 :::
