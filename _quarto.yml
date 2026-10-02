@@ -26,6 +26,7 @@ format:
     grid:
       sidebar-width: 200px
     theme: flatly # cosmo, flatly, yeti, sandstone
+    css: styles.css
     smooth-scroll: true
     toc: false
     link-external-icon: true
