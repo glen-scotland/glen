@@ -13,7 +13,7 @@ library(knitr)
 
 
 ::: {.column-margin}
-![](img/GLEN_logo_V2.png){width=70%}
+![](img/GLEN-logo2026.png){width=70%}
 
 ## Next Event
 
