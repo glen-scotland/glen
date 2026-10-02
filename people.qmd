@@ -16,6 +16,11 @@ title: "People"
   
 ::: {.g-col-6}
 
+## Reading Group Organisers 2026-27
+
+- [Johnny Myung Won Lee](https://johnnymdoubleu.github.io/) (UofE)
+
+
 ## Reading Group Organisers 2025-26
 
 - [Mengran Li](https://mengranli.netlify.app/) (UofG)
@@ -30,49 +35,50 @@ title: "People"
   
 :::  
 
-## Current contributors
+## Current members
 
-  - [Mengran Li](https://mengranli.netlify.app/) (UofG)
-  - [Chenglei Hu](https://www.gla.ac.uk/pgrs/chengleihu/) (UofG)
-  - [Johnny Myung Won Lee](https://johnnymdoubleu.github.io/) (UofE)
-  - [Lambert de Monte](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1089) (UofE)
-  - [Prof Sergey Foss](https://researchportal.hw.ac.uk/en/persons/sergey-foss) (HW)
-  - [Prof Andrew Cairns](https://www.macs.hw.ac.uk/~andrewc/) (HW)
-  - [Dr Seva Shneer](https://www.macs.hw.ac.uk/~vs128/) (HW)
-  - [Dr Daniela Escobar](https://researchportal.hw.ac.uk/en/persons/debora-daniela-escobar) (HW)
-  - [Dr Alfred Chong](https://researchportal.hw.ac.uk/en/persons/alfred-chong) (HW)
-  - [Prof George Streftaris](https://www.macs.hw.ac.uk/~georges/) (HW)
-  - [Dr Giovanni Rabitti](https://researchportal.hw.ac.uk/en/persons/giovanni-rabitti) (HW)
-  - [Prof Catherine Donnelly](http://www.ma.hw.ac.uk/~cd134/) (HW)
-  - [Dr Timothy Johnson](https://researchportal.hw.ac.uk/en/persons/timothy-johnson) (HW)
-  - [Prof Victor Elvira](https://victorelvira.github.io/) (UofE)
-  - [Linlu Zhao](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1362) (UofE)
-  - [Xindi Song](https://maths.ed.ac.uk/people/phd?person=1237) (UofE)
-  - [Teng Wei Yeo](https://www.gla.ac.uk/pgrs/tengweiyeo/#supervisors) (UofG)
+::: {.columns}
 
+::: {.column width="50%"}
+
+- [Johnny Myung Won Lee](https://johnnymdoubleu.github.io/) (UofE)
+- [Prof Sergey Foss](https://researchportal.hw.ac.uk/en/persons/sergey-foss) (HW)
+- [Prof Andrew Cairns](https://www.macs.hw.ac.uk/~andrewc/) (HW)
+- [Dr Seva Shneer](https://www.macs.hw.ac.uk/~vs128/) (HW)
+- [Dr Daniela Escobar](https://researchportal.hw.ac.uk/en/persons/debora-daniela-escobar) (HW)
+- [Dr Alfred Chong](https://researchportal.hw.ac.uk/en/persons/alfred-chong) (HW)
+- [Prof George Streftaris](https://www.macs.hw.ac.uk/~georges/) (HW)
+- [Dr Giovanni Rabitti](https://researchportal.hw.ac.uk/en/persons/giovanni-rabitti) (HW)
+- [Prof Catherine Donnelly](http://www.ma.hw.ac.uk/~cd134/) (HW)
+- [Dr Timothy Johnson](https://researchportal.hw.ac.uk/en/persons/timothy-johnson) (HW)
+- [Prof Victor Elvira](https://victorelvira.github.io/) (UofE)
+- [Linlu Zhao](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1362) (UofE)
+
+:::
+
+::: {.column width="50%"}
+
+- [Xindi Song](https://maths.ed.ac.uk/people/phd?person=1237) (UofE)
+- [Teng Wei Yeo](https://www.gla.ac.uk/pgrs/tengweiyeo/#supervisors) (UofG)
 - [Emma Eastoe](https://www.lancaster.ac.uk/maths/people/emma-eastoe) (LU)
-
 - [Jenny Wadsworth](https://www.lancaster.ac.uk/~wadswojl/) (LU)
-
-- [Sylwia Bathe-Taylor]() (LU)
-
+- [Sylwia Bathe-Taylor](https://www.linkedin.com/in/sylwia-bathe-taylor-07b35823b/?isSelfProfile=false) (LU)
 - [Kristina Grolmosova](https://www.lancaster.ac.uk/maths/people/kristina-grolmusov%C3%A1) (LU)
-
 - [Kristina Bratkova](https://www.lancaster.ac.uk/maths/people/kristina-bratkova) (LU)
-
 - [Kajal Dodhia](https://www.lancaster.ac.uk/sci-tech/about-us/people/kajal-dodhia) (LU)
-
 - [Lydia Kakampakou](https://www.lancaster.ac.uk/maths/people/lydia-kakampakou) (LU)
-
 - [Vianey Palacios Ramirez](https://www.ncl.ac.uk/maths-physics/people/profile/vianeypalacios-ramirez.html) (NU)
-
 - [Clement Lee](https://www.ncl.ac.uk/maths-physics/people/profile/clementlee.html) (NU)
-
 - [Lee Fawcett](https://www.mas.ncl.ac.uk/~nlf8/) (NU)
 
+:::
+
+:::
 
 
 ## Affiliated and honorary members
 
-- [Yandira Cuvero](https://scholar.google.com/citations?user=7pfic1MAAAAJ&hl=es)
-- [Léo Belzille](https://www.hec.ca/en/profs/leo-belzile)
+- [Yandira Cuvero](https://scholar.google.com/citations?user=7pfic1MAAAAJ&hl=es) (Polytechnic University of Ecuador )
+- [Léo Belzille](https://www.hec.ca/en/profs/leo-belzile) (HEC, Canada)
+- [Mengran Li](https://mengranli.netlify.app/) (University of Oxford, UK)
+- [Lambert de Monte](https://lambertdem.github.io/) (KAUST, KSA)
