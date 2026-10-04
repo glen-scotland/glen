@@ -5,6 +5,9 @@ project:
 website:
   title: "GL(EN)$^2$"
   navbar:
+    title: false
+    logo: img/GLEN-logo2026-transparent.png
+    logo-alt: "GL(EN)² – Glasgow–Lancaster–Edinburgh–Newcastle Extremes Network"
     left:
       - href: index.qmd
         text: Home
@@ -33,4 +36,3 @@ format:
     link-external-newwindow: true
 
 editor: source
-

@@ -1,3 +1,23 @@
 .seminar-card .card-header {
   background-color: #dbe3e8;
 }
+
+/* Use the GL(EN)² mark as the navbar brand. */
+.navbar-brand-logo,
+.navbar-logo {
+  max-height: 64px;
+  width: auto;
+}
+
+/* Make the margin logo prominent and signal that it opens full-size. */
+.glen-sidebar-logo {
+  display: block;
+  width: 100%;
+}
+
+.glen-sidebar-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  cursor: zoom-in;
+}

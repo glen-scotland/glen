@@ -13,7 +13,9 @@ library(knitr)
 
 
 ::: {.column-margin}
-![](img/GLEN-logo2026.png){width=70%}
+<a class="glen-sidebar-logo" href="img/GLEN-logo2026.png" target="_blank" title="View the GL(EN)² logo at its original size">
+  <img src="img/GLEN-logo2026.png" alt="GL(EN)² – Glasgow–Lancaster–Edinburgh–Newcastle Extremes Network">
+</a>
 
 ## Next Event
 
